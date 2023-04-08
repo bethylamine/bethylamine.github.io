@@ -52,15 +52,24 @@ epithet is that they have shamefully given themselves up to serve the oppressor.
 ### Homophobia
 When used to describe the idea of trans acceptance, "homophobia" is code for "not being same-[sex](#biological-sex)-attraction exclusive".
 
+### KPSS
+"Keep Prisons Single Sex". Moral panic hashtag.
+
+### Men
+Can refer to cisgender men, or transgender women, with about equal probability.
+In some cases it can even refer to cisgender women who they don't like, or transgender men that they're deeply confused by.
+
 ### Misogyny
 When used to describe the idea of trans acceptance, "misogyny" is code for "not defining women by [biological sex](#biological-sex)".
+Often *not* used to describe behavior such as making fun of women for their appearance (or "being on their knees for a man")
 
 ### Rapid-onset gender dysphoria (ROGD)
 The conspiracy theory that kids are being brainwashed or peer pressured into identifying as trans. Thoroughly debunked in [ROGD](/library/gc-arguments/rogd).
 
 ### Self ID
 The vague concept that anyone can determine, and insist that others must socially and legally agree to, their gender at any given
-moment's notice. Often paired with moral panic around bathroom predators (which is a fabrication/exaggeration.)
+moment's notice. Often paired with moral panic around bathroom predators (which is a fabrication/exaggeration) e.g.
+#NoToSelfID.
 
 ### TIM / TIF
 "Trans-identified male" and "trans-identified female"--- terms that misgender and cram [biological sex](#biological-sex)
@@ -86,3 +95,8 @@ rarely ever is.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eAcVrzDA1k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Explored more in [this page](/library/gc-arguments/what-is-a-woman).
+
+### Women
+
+The sex class whose definition gender-critical people seek to uphold, specifically the biologically
+essentialist, colonial definition of women.
