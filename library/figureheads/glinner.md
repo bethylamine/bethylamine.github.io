@@ -7,7 +7,7 @@ permalink: /library/figureheads/glinner
 
 # Graham Linehan
 
-Once famous for co-creating the sitcoms Father Ted and The IT Crowd, amount others, until an episode of The IT Crowd
+Once famous for co-creating the sitcoms Father Ted and The IT Crowd, among others, until an episode of The IT Crowd
 was criticized as transphobic in 2008. Since then, Linehan became increasingly involved in anti-transgender activism.
 He was banned from Twitter in 2020 for, essentially, repeatedly calling everyone who disagreed with him a groomer.
 He then evaded the ban on an account posing as a trans man, which was also banned. His wife divorced him in 2021.
