@@ -7,7 +7,7 @@ permalink: /library/gc-arguments/rogd/
 
 # Social Contagion (ROGD)
 
-"Rapid Onset Gender Dysphoria" is the medical-sounding title for the "social contagion" theory of why kids are identifying
+"Rapid Onset Gender Dysphoria" (ROGD) is the medical-sounding title for the "social contagion" theory of why kids are identifying
 as transgender in larger amounts (although the real reason is an increase in acceptance and visibility) based on one study
 in 2018 by Lisa Littman[^1]. It was then picked up by right-wing sites and concerned parents to fuel the
 [moral panic](/library/moral-panic/) around transgender people.
@@ -28,8 +28,8 @@ is only from the *parent's* point of view.
 Additionally, a study published in Pediadtrics in 2022[^6] provides evidence against the notion that adolescents in the U.S.
 come to identify as transgender due to "social contagion." The analysis included 91,937 adolescents in 2017 and 105,437 adolescents
 in 2019. It refuted the ROGD hypothesis in 3 ways[^5]:
-1. The total percentage of TGD adolescents decreased from 2017 to 2019.
-2. The percentage of AFAB adolescents decreased from 2017 to 2019.
+1. The total percentage of transgender and gender diverse (TGD) adolescents decreased from 2017 to 2019.
+2. The percentage of adolescents who were AFAB (assigned female at birth) decreased from 2017 to 2019.
 3. Rates of bullying victimization and suicidality were higher among TGD youth compared with their cisgender peers,
    which is incongruent with the notion that some youth openly identify as TGD in an attempt to flee the stigma of being
    a sexual minority because being TGD will "make them more popular among their peers".
