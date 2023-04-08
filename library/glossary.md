@@ -41,13 +41,13 @@ is a mark of the Gender-Critical movement, started by this graphic created by [J
 
 After that, a campaign started to add the red square to represent this movement.
 
-## Dinosaurs 🦕/🦖 (September 2021)
+### Dinosaurs 🦕/🦖 (September 2021)
 
 In response to a [comment](https://labourlist.org/2021/09/anti-trans-members-are-dinosaurs-who-want-to-hoard-rights-says-lammy/) about trans rights where Shadow Justice Secretary David Lammy told a Labour Party conference fringe event "dinosaurs exist in our own party" who want to "hoard rights", the dinosaur emoji, and dinosaur costumes, was claimed by gender critical people:
 
 <blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">women and girls who don&#39;t want be forced to undress with male strangers and colleagues <br><br>Thaat&#39;s who <a href="https://twitter.com/DavidLammy?ref_src=twsrc%5Etfw">@davidlammy</a> is calling dinosaurs trying to &quot;hoard rights&quot;<br><br>🤦‍♀️🤦‍♀️🤦‍♀️<br><br>Do they never want to be in power again? <a href="https://t.co/AgMbdFddSZ">https://t.co/AgMbdFddSZ</a></p>&mdash; Maya Forstater (@MForstater) <a href="https://twitter.com/MForstater/status/1442542076093247488?ref_src=twsrc%5Etfw">September 27, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## Other icons
+### Other icons
 * 🏁 refers to being "done/finished" with "gender ideology"; https://www.reddit.com/r/detrans/wiki/glossary/
 * 🦎 refers to detransitioners; see https://www.reddit.com/r/detrans/wiki/glossary/
 
