@@ -6,11 +6,7 @@ grand_parent: WhatIsAWomanBot
 permalink: /library/whatisawomanbot/threads/suicide
 ---
 
-## Source
-
-<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">🧵 About transgender suicide / statistics.<br><br>References at the end.<br><br>Summary: Trans people are at more risk of suicidality due to mental health stressors such as legal barriers, discrimination, lack of acceptance, harassment and assault, fear of transitioning (e.g. losing a life…</p>&mdash; What Is A Woman Bot (@WhatIsAWomanBot) <a href="https://twitter.com/WhatIsAWomanBot/status/1634801971688505349?ref_src=twsrc%5Etfw">March 12, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-## Thread
+### <https://twitter.com/WhatIsAWomanBot/status/1634801971688505349>
 
 🧵 About transgender suicide / statistics.
 
