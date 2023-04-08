@@ -43,7 +43,7 @@ critique published in the Archives of Sexual Behavior[^3].
 Here are the high-level points:
 * **Non-heterogenous sample**: recruited from forums of parents who don't want their kid to transition to bias results in her favor
   * 4thWaveNow ("A community of parents & others questioning the medicalization of gender-atypical youth")
-  * TransgenderTREND ("Parents questioning the trans narrative")
+  * [Transgender Trend](/library/figureheads/transgender-trend) ("Parents questioning the trans narrative")
   * Youth Trans Critical Professionals ("a group of professionals sceptical of the trend to diagnose children and adolescents as transgender")
 * **Leading questions**: prompted desired answers to get the results she wanted
 * **Lack of online security**: Online surveys are known to include repeat testers, and no check for this was done (e.g. IP address checking)
