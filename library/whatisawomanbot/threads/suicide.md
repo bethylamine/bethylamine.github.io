@@ -8,15 +8,15 @@ permalink: /library/whatisawomanbot/threads/suicide
 
 # Suicide
 
-### <https://twitter.com/WhatIsAWomanBot/status/1634801971688505349>
+## <https://twitter.com/WhatIsAWomanBot/status/1634801971688505349>
 
-#### Summary
+### Summary
 Trans people are at more risk of suicidality due to mental health stressors such as legal barriers,
 discrimination, lack of acceptance, harassment and assault, fear of transitioning (e.g. losing a life partner)
 and gender dysphoria. Gender affirming care is shown to reduce that risk dramatically. Using a high suicide rate
 for a minority group as an attack on said group is incorrect (as the blame is not with them) and alarmingly lacking in compassion.
 
-#### First, a persistent myth...
+### First, a persistent myth...
 
 MYTH: Suicide rates increase post-op / only increase with gender affirmation. This is a misrepresentation of the so-called
 "Swedish study", which you can read more about here: <https://transadvocate.com/fact-check-study-shows-transition-makes-trans-people-suicidal_n_15483.htm>
@@ -25,7 +25,7 @@ In actual fact, transgender people who had received one or more gender-affirming
 reduction in the odds of experiencing past-month psychological distress, a 35% reduction in the odds of past-year
 tobacco smoking, and a 44% reduction in the odds of past-year suicidal ideation[^4].
 
-#### What are the facts?
+### What are the facts?
 
 1 in 3 trans youth attempted suicide in the past year[^1] and report more than 4x greater rates of suicide
 attempts compared with their cisgender peers, including those who are LGBQ[^3].
