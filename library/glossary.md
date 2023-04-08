@@ -10,7 +10,7 @@ permalink: /library/glossary/
 
 ### Suffragette Flag 💜🤍💚 (October 2018)
 
-This series of colors, often represented as [hearts](https://twitter.com/search?q=%F0%9F%92%9C%F0%9F%A4%8D%F0%9F%92%9A&src=typed_query&f=user) (💜🤍💚) [squares](https://twitter.com/search?q=%F0%9F%9F%AA%E2%AC%9C%F0%9F%9F%A9&src=typed_query&f=user) (🟪⬜🟩) and the [circles](https://twitter.com/search?q=%F0%9F%9F%A3%E2%9A%AA%F0%9F%9F%A2&src=typed_query&f=user) (as well as the same in reverse order) originated around
+This series of colors, often represented as [hearts](https://twitter.com/search?q=%F0%9F%92%9C%F0%9F%A4%8D%F0%9F%92%9A&src=typed_query&f=user) (💜🤍💚) [squares](https://twitter.com/search?q=%F0%9F%9F%AA%E2%AC%9C%F0%9F%9F%A9&src=typed_query&f=user) (🟪⬜🟩) and [circles](https://twitter.com/search?q=%F0%9F%9F%A3%E2%9A%AA%F0%9F%9F%A2&src=typed_query&f=user) (🟣⚪🟢) — as well as the same in reverse order — originated around
 October of 2018.
 
 <blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">CW: trans antagonism / transmisogyny in screenshot<br><br>So apparently terf / &#39;gender critical&#39; accounts sticking the genderqueer flag in their avatar / cover photo is a thing now??<br><br>Heads up, folks. <a href="https://t.co/zaO0ktSoht">pic.twitter.com/zaO0ktSoht</a></p>&mdash; Alex Haagaard (they / them) (@alexhaagaard) <a href="https://twitter.com/alexhaagaard/status/1051170053843050497?ref_src=twsrc%5Etfw">October 13, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
