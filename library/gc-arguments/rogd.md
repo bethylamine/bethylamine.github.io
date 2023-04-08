@@ -5,6 +5,8 @@ parent: GC Arguments
 permalink: /library/gc-arguments/rogd/
 ---
 
+# Social Contagion (ROGD)
+
 "Rapid Onset Gender Dysphoria" is the medical-sounding title for the "social contagion" theory of why kids are identifying
 as transgender in larger amounts (although the real reason is an increase in acceptance and visibility) based on one study
 in 2018 by Lisa Littman[^1]. It was then picked up by right-wing sites and concerned parents to fuel the
@@ -54,7 +56,7 @@ Here are the high-level points:
   contrast with the current literature[^3].
 
 [^1]: <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0202330>
-[^2]: <ttps://www.brown.edu/news/2019-03-19/gender>
+[^2]: <https://www.brown.edu/news/2019-03-19/gender>
 [^3]: <https://link.springer.com/article/10.1007/s10508-019-1453-2>
 [^4]: <https://www.jpeds.com/article/S0022-3476(21)01085-4/fulltext>
 [^5]: <https://fenwayhealth.org/new-study-examines-the-social-contagion-hypothesis-of-transgender-and-gender-diverse-identities/>
