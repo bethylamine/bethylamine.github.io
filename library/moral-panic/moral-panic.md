@@ -21,14 +21,15 @@ spaces this is often portrayed as a battle of rights gone too far.
 
 <blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">“It is time for Labour to channel the Equality Act’s spirit of compassionate compromise. It should acknowledge the dangers for women in eroding sex-based rights, but look for solutions to accommodate trans people. “<a href="https://t.co/FZiQYdhymi">https://t.co/FZiQYdhymi</a></p>&mdash; Women&#39;s Rights Network - WRN (@WomensRightsNet) <a href="https://twitter.com/WomensRightsNet/status/1644598470383116290?ref_src=twsrc%5Etfw">April 8, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*[concern]: media coverage, public commentary, lobbying, social movement activity, etc.
-*[hostility]: deviant group is collectively designated as the enemy of respectable society, e.g. "TRAs"
-*[consensus]: certain segments of society agree there is a real or serious threat
-*[disproportionality]: the concern of the threat posed is exaggerated or fabricated, e.g. "it's out of control"
-*[volatility]: erupting fairly suddenly, e.g. "everything was fine until 5 minutes ago"
 
-In both cases, the five key criteria of a moral panic is **concern**, **hostility**, **consensus**,
-**disproportionality**, and **volatility**[^1].
+
+In both cases, the five key criteria of a moral panic are:
+
+1. **concern**: media coverage, public commentary, lobbying, social movement activity, etc.
+2. **hostility**: deviant group is collectively designated as the enemy of respectable society, e.g. "TRAs"
+3. **consensus**: certain segments of society agree there is a real or serious threat
+4. **disproportionality**: the concern of the threat posed is exaggerated or fabricated, e.g. "it's out of control"
+5. **volatility**: erupting fairly suddenly, e.g. "everything was fine until 5 minutes ago"
 
 The current moral panic that targets transgender (and other LGBT people) is the conspiracy theory that LGBT people, as
 well as allies and progressives more generally, are using LGBT sex education and campaigns for LGBT rights as a method
