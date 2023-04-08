@@ -6,6 +6,8 @@ permalink: /library/glossary/
 
 # Transphobia Glossary
 
+{:toc}
+
 ## Gender-Critical Iconography
 
 ### Suffragette Flag 💜🤍💚 (October 2018)
