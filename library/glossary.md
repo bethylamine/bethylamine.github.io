@@ -5,7 +5,12 @@ permalink: /library/glossary/
 ---
 
 # Transphobia Glossary
+{: .no_toc }
 
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
 {:toc}
 
 ## Gender-Critical Iconography
