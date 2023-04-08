@@ -24,7 +24,7 @@ for a minority group as an attack on said group is incorrect (as the blame is no
 🌟 First, a persistent myth...
 
 MYTH: Suicide rates increase post-op / only increase with gender affirmation. This is a misrepresentation of the so-called
-"Swedish study", which you can read more about here: https://transadvocate.com/fact-check-study-shows-transition-makes-trans-people-suicidal_n_15483.htm
+"Swedish study", which you can read more about here: <https://transadvocate.com/fact-check-study-shows-transition-makes-trans-people-suicidal_n_15483.htm>
 
 In actual fact, transgender people who had received one or more gender-affirming surgical procedures had a 42%
 reduction in the odds of experiencing past-month psychological distress, a 35% reduction in the odds of past-year
@@ -59,7 +59,7 @@ The rates of suicidality are drastically reduced through[^1]:
 
 References:
 
-[^1]: https://suicideinfo.ca/local_resource/trans-fact-sheet/
-[^2]: https://thetrevorproject.org/wp-content/uploads/2023/02/Trevor-Project-Accepting-Adult-Research-Brief_June-2019.pdf
-[^3]: https://thetrevorproject.org/blog/acceptance-of-transgender-and-nonbinary-youth-from-adults-and-peers-associated-with-significantly-lower-rates-of-attempting-suicide/
-[^4]: https://fenwayhealth.org/new-study-shows-transgender-people-who-receive-gender-affirming-surgery-are-significantly-less-likely-to-experience-psychological-distress-or-suicidal-ideation/
+[^1]: <https://suicideinfo.ca/local_resource/trans-fact-sheet/>
+[^2]: <https://thetrevorproject.org/wp-content/uploads/2023/02/Trevor-Project-Accepting-Adult-Research-Brief_June-2019.pdf>
+[^3]: <https://thetrevorproject.org/blog/acceptance-of-transgender-and-nonbinary-youth-from-adults-and-peers-associated-with-significantly-lower-rates-of-attempting-suicide/>
+[^4]: <https://fenwayhealth.org/new-study-shows-transgender-people-who-receive-gender-affirming-surgery-are-significantly-less-likely-to-experience-psychological-distress-or-suicidal-ideation/>
