@@ -22,4 +22,4 @@ The phrase *assigned sex at birth* is important for the [intersex](/library/defi
 sex is often detrimental to their treatment and wellbeing. Using *assigned sex at birth* is a way to clearly delineate the physical
 reality of sex from the legal and biological construction of binary sex.
 
-[^1]: https://www.mayoclinic.org/diseases-conditions/ambiguous-genitalia/diagnosis-treatment/drc-20369278#:~:text=Determining%20the%20gender&text=In%20some%20cases%2C%20a%20family,can%20be%20difficult%20to%20predict.
+[^1]: [The Mayo Clinic: Ambiguous genitalia](https://www.mayoclinic.org/diseases-conditions/ambiguous-genitalia/diagnosis-treatment/drc-20369278#:~:text=Determining%20the%20gender&text=In%20some%20cases%2C%20a%20family,can%20be%20difficult%20to%20predict.)
