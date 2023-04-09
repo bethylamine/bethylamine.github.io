@@ -44,6 +44,8 @@ The five stages of a moral panic, specifically targeting a group of people, acco
 4. Gatekeepers of morality respond to the threat, pronouncing diagnoses and solutions including laws or policies
 5. The condition disappears, submerges or otherwize fizzles out as the group of people become more visible
 
+## References
+
 [^1]: <https://en.wikipedia.org/wiki/Moral_panic#Goode_and_Ben-Yehuda%E2%80%99s_attributional_model>
 [^2]: <https://en.wikipedia.org/wiki/LGBT_grooming_conspiracy_theory>
 [^3]: <https://en.wikipedia.org/wiki/Moral_panic>
