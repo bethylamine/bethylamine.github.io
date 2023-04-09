@@ -20,3 +20,6 @@ gh_edit_link_text: "Edit this page on GitHub"
 gh_edit_repository: "https://github.com/bethylamine/bethylamine.github.io" # the github URL for your repo
 gh_edit_branch: "main" # the branch that your docs is served from
 gh_edit_view_mode: "edit" # "tree" or "edit" if you want the user to jump into the editor immediately
+
+ga_tracking: G-R7KEM0MVLE
+ga_tracking_anonymize_ip: true # GDPR compliance
