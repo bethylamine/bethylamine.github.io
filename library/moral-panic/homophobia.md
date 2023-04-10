@@ -39,6 +39,7 @@ Work in progress
     > perversity. Most Americans have no problem with gays or gayness so long as they don't rub their strangeness
     > in our faces. **Let's get real --- gayness is a bedroom fetish, nothing more.** What I do in my bedroom stays in
     > my bedroom, and I suggest that others do the same.
+
 [^2]: The Windsor Star, (Windsor, Ontario, Canada) 2015-02-27
     > As if that wasn't bad enough, both McNaughton and Nicholls, along with another PC leadership candidate,
     > Conservative MP Patrick Brown from Barrie, then went to address and meet with protesters opposed to the
@@ -46,11 +47,13 @@ Work in progress
     > taste of the protesters. "We're going to have... little lesbian and homosexual minions.... **It's grooming
     > children for sex grooming them to change their identity** to become homosexuals," one woman told The Toronto Star.
     > I'm at a loss. How do you respond to that?
+
 [^3]: The Central New Jersey Home News (New Brunswich, New Jersey) 2005-03-28
     > I would like to express my thoughts on homosexuality in response to the "Mother of a Lesbian. **Homosexuality is
     > a type of fetish.** A fetish by definition is an object or bodily part whose real or fantasized presence is
     > psychologically necessary for sexual gratification. For a lesbian it would be a female's body parts,
     > for a homosexual, a male's body parts. Fetishes are developed in people when they
+
 [^4]: The Tampa Tribune (Tampa, Florida) 1977-11-13
     > HERNANDO---I am 66 years old. I always thought, until recently, that our country was founded on democratic principles,
     > the majority rule and freedom of expression without being harassed. Now that seems to get one in trouble.
@@ -69,6 +72,7 @@ Work in progress
     >
     > When the minority can run the majority, our good old USA will go down the drain.
     > What we need are more Anitas to stand up for what is right.
+
 [^5]: The Daily Utah Chronicle 1998-04-06
     > Dear Editor,
     >
@@ -103,6 +107,7 @@ Work in progress
     >
     > -Abel Thompson
     > Senior Accounting
+
 [^6]: The Herald-Palladium (Saint Joseph, MI) 1993-05-07
     > **I for one would like to know the explicit "rights" the homosexuals want that they currently don't have** ---
     > explicit, not generalities.
@@ -110,6 +115,7 @@ Work in progress
     > Please, if you will, the rights of the individual are not in themselves an acceptable reason to condone the
     > homosexual/lesbian actions anymore than that reason is acceptable for many other activities. We all have the
     > right to smoke, but when we enter a no-smoking zone we relinguish that right.
+
 [^7]: History and Psyche pp 49--67
     The Narcissistic Homosexual: Genealogy of a Myth
     > No one was more guilty of self-love in the minds of the first psychoanalysts than the homosexual, and
@@ -120,6 +126,7 @@ Work in progress
     > and, as another colleague of Freud's once put it in an unchallenged non sequitur, "intensive autoerotism
     > must lead to homosexuality.” In discussing homosexuality, analysts were literalists, seeing only sameness
     > and habitually collapsing any distinctions between self and other. The intertwining of narcissism and
+
 [^8]: The Odessa American (Odessa, Texas) 2007-02-22
     > ously agree to a great extent. I start to disagree, however, when being tolerant means I have to give up
     > my rights. One commentator said heterosexual men should tolerate homo- sexuals in the locker room or risk
