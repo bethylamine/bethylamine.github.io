@@ -18,7 +18,7 @@ Work in progress
 
 | Transphobia  | Homophobia        |
 |:-------------|:------------------|
-|              | "gayness is a bedroom fetish, nothing more."[^1] ([image](/library/assets/img/recycled-homophobia/bedroom-fetish.jpg)) |
+|              | "gayness is a bedroom fetish, nothing more."[^1][^2] ([image](/library/assets/img/recycled-homophobia/bedroom-fetish.jpg)) |
 |              |                   |
 |              |                   |
 |              |                   |
