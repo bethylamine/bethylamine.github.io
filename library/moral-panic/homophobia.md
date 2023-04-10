@@ -27,9 +27,11 @@ Work in progress
 |              | "Homosexuality is a type of fetish"[^3] ([image](/library/assets/img/recycled-homophobia/fetish.png)) |
 |              | "homosexuality is a cult [...] believing it to be the thing to do to be popular."[^4] ([image](/library/assets/img/recycled-homophobia/cult-fad.jpg)) |
 |              | "I for one would like to know the explicit "rights" the homosexuals want that they currently don't have"[^6] ([image](/library/assets/img/recycled-homophobia/what-rights-do-they-not-have.png)) |
-|              |                   |
-|              |                   |
-|              |                   |
+|              | "it corresponds to a biological reality"[^9] ([image](/library/assets/img/recycled-homophobia/biological-reality.png)) |
+|              | "these kids will grow out of it it's just a passing phase"[^10] ([image](/library/assets/img/recycled-homophobia/grow-out-of-it.png)) |
+|              | "they must be crazy and are in need of psychiatric help"[^10] ([image](/library/assets/img/recycled-homophobia/grow-out-of-it.png)) |
+|              | "homosexuality is actually a religion [...] the colorful banner is one of its symbols"[^11] ([image](/library/assets/img/recycled-homophobia/homosexuality-is-a-religion.jpg)) |
+|              | "homophobe --- a politically correct slur used by those who now consider common sense to be hate"[^12] ([image](/library/assets/img/recycled-homophobia/homophobe-is-a-slur.png)) |
 |              |                   |
 |              |                   |
 
@@ -163,3 +165,58 @@ Work in progress
     > modesty of one in the name of tolerance of others?
     >
     > As an old college professor used to say, "Your right to swing your fist stops at the end of my nose."
+
+[^9]: The Record (Hackensack, New Jersey) 2009-04-23
+    > point. Their conclusion? "The interests of the child must outweigh the exercise of freedom
+    > by adults. Marriage is thus not only a contractual recognition of a couple's love.
+    > It is a demanding framework with rights and obligations designed to welcome the child and
+    > provide for his or her harmonious development." It recommended traditional marriage be
+    > preserved because **it "corresponds to a biological reality."**
+    
+[^10]: The News Journal (Wilmington, Delaware) 1990-01-28
+    > "People don't want to acknowledge that gay and lesbian youth exist," he says. "The conventional
+    > wisdom has been that **these kids will grow out of it**, that **it's just a passing phase** or that
+    > **they must be crazy and are in need of psychiatric help**."
+
+[^11]: Herald and Review (Decatur, Illinois) 2018-07-14
+    > A lawsuit arguing that homosexuality is a religion and that members of
+    > Congress who displayed a rainbow flag outside their offices violated the Bill of
+    > Rights is entering its second year as it makes its way through an appeals court. The
+    > government lawyer rep- resenting Democratic Reps. Susan Davis and Alan Lowenthal of
+    > California, Rep. Donald Beyer, D-Va., and Rep. Earl Blumenauer, D-Ore., filed a motion on
+    > June 18 that asks the District of Columbia Circuit Court to uphold a lower court's
+    > decision to dismiss the lawsuit. The motion contends that the case by the plaintiff,
+    > Tennessee lawyer Chris Sevier, is "patently frivolous and its outcome is
+    > certain." "I will fight this frivolous lawsuit no matter how long it takes," Davis
+    > said in a statement. "It just shows that attacks on equality and the LGBTQ
+    > community still exist and we will stand up to them at every turn. It also shows that the
+    > Pride Flag is needed more than ever. I'm confident the appellate court will rule
+    > on the side of equality" A year ago --- just after San Diego's gay pride parade
+    > and festival concluded --- Sevier sued the members of Congress, claiming that the
+    > rainbow flag violates the Constitution's separation of church and state. He argued
+    > that **homosexuality is actually a religion and that the colorful banner is one if
+    > its symbols.** He sought $1 in damages, for members to be barred from displaying the
+    > flags and for the court to declare homosexuality a religion. The trial court
+    > dismissed the lawsuit, and Sevier appealed to the D.C. Circuit. Sevier said that the
+    > lower court "abused their discretion." "The government can't engage in activities,
+    > directly or indirectly, that signify to the taxpayers that this is a religion that
+    > we're en- year dorsing," he said over the phone. The lawyer representing the House
+    > members argues in the mo- tion that the lower court's decision to dismiss the case
+    > should be affirmed because the "emotional discomfort" Sevier experienced by seeing
+    > the flag isn't a valid injury and that he also failed to establish that he had
+    > a valid claim. "Mr. Sevier's claims are so clearly meritless" that nothing
+    > significant will be achieved if they are more deeply evaluated, the members' motion says.
+    > While the lawsuit continues, the rainbow flag Davis displayed outside her office
+    > alongside the California and U.S. flags has been replaced. The original pennant was
+    > given to Delores Jacobs when she left her position as the CEO of the San Diego LGBT
+    > Community Center last month after 17 years in the position. A new rainbow flag now hangs
+    > in its place. Sevier has a series of lawsuits that target same-sex marriage and
+    > is advocating for several bills in state legislature that undermine same-sex
+    > marriages. One he's advocating for in South Car- olina defines marriage as exclu- sively
+    > between one man and one woman and everything else as "parody marriage" and " part of
+    > the religion of Secular Humanism."
+
+[^12]:
+    > Those who rebut my "intolerant" letter will themselves be completely intolerant concerning
+    > my expressed opinion. They will call me a **"homophobe" --- a politically correct slur used
+    > by those who now consider common sense to be hate.**
