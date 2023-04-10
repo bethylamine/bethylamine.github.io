@@ -33,6 +33,9 @@ Work in progress
 |              | "homosexuality is actually a religion [...] the colorful banner is one of its symbols"[^11] ([image](/library/assets/img/recycled-homophobia/homosexuality-is-a-religion.jpg)) |
 |              | "homophobe --- a politically correct slur used by those who now consider common sense to be hate"[^12] ([image](/library/assets/img/recycled-homophobia/homophobe-is-a-slur.png)) |
 |              | "Homosexuals already have the same rights as every other American citizen in this country"[^13] ([image](/library/assets/img/recycled-homophobia/same-rights-as-everyone-else.jpg)) |
+|              | "become merely words with no meaning [...] gender would become nothing"[^14] ([image](/library/assets/img/recycled-homophobia/gender-becomes-meaningless.png)) |
+|              |                   |
+|              |                   |
 |              |                   |
 
 ## References
@@ -236,3 +239,30 @@ Work in progress
     >
     > ROGER KELLY
     > Magdalena
+
+[^14]: Rapid City Journ (Rapid City, SD) 2003-11-09
+    > Q: But how does someone's homosexual "marriage" threaten everyone else's
+    > families?
+    > 
+    > A: Gay activists are not asking for just one homosexual marriage, even though
+    > they often personalize it by saying. "Don't you interfere with my family and I
+    > won't interfere with yours."What the activists want is a new national policy saying
+    > that no longer is a mom and a dad any better than two moms or two dads. That policy
+    > would turn some very important principles upside down:
+    >
+    > Marriage would become merely
+    > an emotional relationship that is flexible enough to include any grouping of
+    > loving adults. If it is fair for two men or two women to marry, why not three, or
+    > five. or 17? The terms "husband" and "wife" would become **merely words with no
+    > meaning.**
+    >
+    > Parenthood would consist of any number of emotionally attached people who care
+    > for kids. "Mother" and "father" would become only words.
+    > 
+    > **Gender would become
+    > nothing.** The same-sex proposition cannot tolerate the idea that any real deep and
+    > necessary differences exist between the sexes. It must rest on a "Mister Potato
+    > Head theory" of gender difference (same core, just interchangeable body parts). If
+    > real differences did exist, then men would need women and women would need men. Our
+    > children would learn that sexual differences are like mere personality types. Wait
+    > until your kids start bring- ing those papers home from school
