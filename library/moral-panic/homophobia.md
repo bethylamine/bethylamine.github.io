@@ -19,8 +19,11 @@ Work in progress
 | Transphobia  | Homophobia        |
 |:-------------|:------------------|
 |              | "It's grooming children for sex grooming them to change their identity"[^2] ([image](/library/assets/img/recycled-homophobia/grooming.png))
+|              | "Why does tolerance demand that we forfeit our rights?"[^8] ([image](/library/assets/img/recycled-homophobia/give-up-our-rights.jpg))
+|              | "a homosexual being in a man's locker room [...] make heterosexual men uncomfortable"[^8] ([image](/library/assets/img/recycled-homophobia/give-up-our-rights.jpg))
 |              | "I would argue that just the sight of a homosexual working in the locker room is suggestive to the point of making an offensive environment"[^5] ([image](/library/assets/img/recycled-homophobia/who-works-in-the-locker-room.jpg)) |
 |              | "gayness is a bedroom fetish, nothing more."[^1] ([image](/library/assets/img/recycled-homophobia/bedroom-fetish.jpg)) |
+|              | "all homosexuals were by definition narcissists [...] seen as a form of autoerotism"[^7] ([image](/library/assets/img/recycled-homophobia/narcissism-autoeroticism.png)) |
 |              | "Homosexuality is a type of fetish"[^3] ([image](/library/assets/img/recycled-homophobia/fetish.png)) |
 |              | "homosexuality is a cult [...] believing it to be the thing to do to be popular."[^4] ([image](/library/assets/img/recycled-homophobia/cult-fad.jpg)) |
 |              | "I for one would like to know the explicit "rights" the homosexuals want that they currently don't have"[^6] ([image](/library/assets/img/recycled-homophobia/what-rights-do-they-not-have.png)) |
@@ -107,3 +110,47 @@ Work in progress
     > Please, if you will, the rights of the individual are not in themselves an acceptable reason to condone the
     > homosexual/lesbian actions anymore than that reason is acceptable for many other activities. We all have the
     > right to smoke, but when we enter a no-smoking zone we relinguish that right.
+[^7]: History and Psyche pp 49--67
+    The Narcissistic Homosexual: Genealogy of a Myth
+    > No one was more guilty of self-love in the minds of the first psychoanalysts than the homosexual, and
+    > narcissism was in consequence from the moment of its analytic debut until well into the 1970s inextricably
+    > intertwined with homosexuality. Not all narcissists were thought to be homosexual, but it was long an
+    > analytic and popular commonplace that all homosexuals were by definition narcissists. This was so in
+    > the most concrete of terms: narcissism (self-love) was seen as a form of autoerotism (sexual self-love)
+    > and, as another colleague of Freud's once put it in an unchallenged non sequitur, "intensive autoerotism
+    > must lead to homosexuality.” In discussing homosexuality, analysts were literalists, seeing only sameness
+    > and habitually collapsing any distinctions between self and other. The intertwining of narcissism and
+[^8]: The Odessa American (Odessa, Texas) 2007-02-22
+    > ously agree to a great extent. I start to disagree, however, when being tolerant means I have to give up
+    > my rights. One commentator said heterosexual men should tolerate homo- sexuals in the locker room or risk
+    > being labeled homophobic. He pointed out that a homosexual in a man's locker room could act appropriately
+    > and not make sex an issue.
+    >
+    > By that same logic, couldn't a straight man be in a woman's locker room, act appropriately and not make sex
+    > an issue? The answer, of course, is no. It wouldn't be right to subject women in a locker room to the
+    > presence of a heterosexual man who may or may not find them sexually attractive.
+    >
+    > So why does it have to be a given that a homosexual being in a man's locker room shouldn't make heterosexual
+    > men uncomfortable? Many talking about Hardaway last week seemed to be saying that it's not a problem to
+    > subject men in a locker room to the presence of a homosexual man who may or may not find them sexually
+    > attractive.
+    >
+    > As for myself, I see no problem with people of the same gender sharing a locker room regardless of 
+    > sexual orientation. But that doesn't make it right for everyone, and I'm not egotistical enough to
+    > say my view is the only right view.
+    >
+    > What Hardaway said was wrong. He sounded like a homophobic Neanderthal. But what if he had approached
+    > the question a little differently?
+    >
+    > What if he had just said, "I'm uncomfortable being nude around homosexual men."
+    >
+    > Yes, some promoting tolerance would still vilify Hardaway and say condemning homosexuals for their
+    > sexual orientation is wrong. But does that mean a person can't protect their own right to privacy?
+    >
+    > Most of us would agree that we have to respect the rights of others---that's true whether we're
+    > talking race, religion or sexual orientation.
+    >
+    > My question is this: Why does tolerance demand that we forfeit our rights? Why do we strip the
+    > modesty of one in the name of tolerance of others?
+    >
+    > As an old college professor used to say, "Your right to swing your fist stops at the end of my nose."
