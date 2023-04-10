@@ -28,7 +28,10 @@ Cristian Williams writing for The Trans Advocate interviewed the author of the p
 * "Of course trans medical and psychological care is efficacious. A 2010 meta-analysis confirmed by
   studies thereafter show that medical gender confirming interventions reduces gender dysphoria." --- Dhejne
 
+## References
+
 [^1]: https://www.transadvocate.com/fact-check-study-shows-transition-makes-trans-people-suicidal_n_15483.htm
 [^2]: https://www.transadvocate.com/clinging-to-a-dangerous-past-dr-paul-mchughs-selective-reading-of-transgender-medical-literature_n_13842.htm
-[2011 study]: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0016885
 [^3]: https://www.heritage.org/gender/commentary/sex-reassignment-doesnt-work-here-the-evidence
+
+[2011 study]: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0016885
