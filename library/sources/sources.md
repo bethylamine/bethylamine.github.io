@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Sources
+has_children: true
 permalink: /library/sources/
 ---
 
