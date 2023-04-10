@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Definitions
+has_children: true
 permalink: /library/Definitions/
 ---
 
