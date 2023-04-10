@@ -18,9 +18,16 @@ Work in progress
 
 | Transphobia  | Homophobia        |
 |:-------------|:------------------|
-|              | [Example](/library/assets/img/recycled-homophobia/bedroom-fetish.jpg)[^1] |
+|              | "gayness is a bedroom fetish, nothing more."[^1] ([image](/library/assets/img/recycled-homophobia/bedroom-fetish.jpg)) |
 |              |                   |
 |              |                   |
 |              |                   |
 
-[^1]: test
+[^1]: Davis County Clipper, (Bountiful, UT) 1996-04-23
+  > Testing multi-line quote
+  > Second line
+  > Third line
+[^2]: Testing another
+    > Another quote
+    > with multiple
+    > lines
