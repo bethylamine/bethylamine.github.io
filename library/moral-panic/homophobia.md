@@ -18,7 +18,9 @@ Work in progress
 
 | Transphobia  | Homophobia        |
 |:-------------|:------------------|
-|              | ![](/library/assets/img/recycled-homophobia/) |
-|              | good and plenty   |
-|              | good `oreos`      |
-|              | good `zoute` drop |
+|              | [Example](/library/assets/img/recycled-homophobia/bedroom-fetish.jpg)[^1] |
+|              |                   |
+|              |                   |
+|              |                   |
+
+[^1]: test
