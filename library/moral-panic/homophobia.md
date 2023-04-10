@@ -216,7 +216,7 @@ Work in progress
     > between one man and one woman and everything else as "parody marriage" and " part of
     > the religion of Secular Humanism."
 
-[^12]:
+[^12]: The Courier (Waterloo, Iowa) 2007-12-02
     > Those who rebut my "intolerant" letter will themselves be completely intolerant concerning
     > my expressed opinion. They will call me a **"homophobe" --- a politically correct slur used
     > by those who now consider common sense to be hate.**
