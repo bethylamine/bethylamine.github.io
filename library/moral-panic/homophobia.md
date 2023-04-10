@@ -33,6 +33,8 @@ Work in progress
 |              |                   |
 |              |                   |
 
+## References
+
 [^1]: Davis County Clipper, (Bountiful, UT) 1996-04-23
     > Several recent writers have declared the right of gays to marry. We all have the right to be as perverse
     > as we want to be behind closed doors, but that doesn't mean that government has to officially sanction our
