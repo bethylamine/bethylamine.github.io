@@ -101,8 +101,8 @@ Work in progress
     > or work environment that is intimidating, hostile or offensive because of unwelcome or unwanted sexually-oriented
     > conversations, suggestions, requests, demands, physical contacts or attentions."
     >
-    > I would argue that just the sight of a homosexual working in the locker room is suggestive to the point of making an
-    > offensive environment, although the person above in no way made any advances or anything like that.
+    > **I would argue that just the sight of a homosexual working in the locker room is suggestive to the point of making an
+    > offensive environment**, although the person above in no way made any advances or anything like that.
     >
     > If we have people of alternative preference in the locker room, we might as well put in members of the opposite sex
     > in there to hand you your towel. Heck, if you have one person enjoying the scenery, you might as well have two!
@@ -123,15 +123,15 @@ Work in progress
     > No one was more guilty of self-love in the minds of the first psychoanalysts than the homosexual, and
     > narcissism was in consequence from the moment of its analytic debut until well into the 1970s inextricably
     > intertwined with homosexuality. Not all narcissists were thought to be homosexual, but it was long an
-    > analytic and popular commonplace that all homosexuals were by definition narcissists. This was so in
-    > the most concrete of terms: narcissism (self-love) was seen as a form of autoerotism (sexual self-love)
+    > analytic and popular commonplace that **all homosexuals were by definition narcissists**. This was so in
+    > the most concrete of terms: narcissism (self-love) was **seen as a form of autoerotism** (sexual self-love)
     > and, as another colleague of Freud's once put it in an unchallenged non sequitur, "intensive autoerotism
     > must lead to homosexuality.” In discussing homosexuality, analysts were literalists, seeing only sameness
     > and habitually collapsing any distinctions between self and other. The intertwining of narcissism and
 
 [^8]: The Odessa American (Odessa, Texas) 2007-02-22
     > ously agree to a great extent. I start to disagree, however, when being tolerant means I have to give up
-    > my rights. One commentator said heterosexual men should tolerate homo- sexuals in the locker room or risk
+    > my rights. One commentator said heterosexual men should tolerate homosexuals in the locker room or risk
     > being labeled homophobic. He pointed out that a homosexual in a man's locker room could act appropriately
     > and not make sex an issue.
     >
@@ -139,8 +139,8 @@ Work in progress
     > an issue? The answer, of course, is no. It wouldn't be right to subject women in a locker room to the
     > presence of a heterosexual man who may or may not find them sexually attractive.
     >
-    > So why does it have to be a given that a homosexual being in a man's locker room shouldn't make heterosexual
-    > men uncomfortable? Many talking about Hardaway last week seemed to be saying that it's not a problem to
+    > So **why does it have to be a given that a homosexual being in a man's locker room shouldn't make heterosexual
+    > men uncomfortable?** Many talking about Hardaway last week seemed to be saying that it's not a problem to
     > subject men in a locker room to the presence of a homosexual man who may or may not find them sexually
     > attractive.
     >
@@ -159,7 +159,7 @@ Work in progress
     > Most of us would agree that we have to respect the rights of others---that's true whether we're
     > talking race, religion or sexual orientation.
     >
-    > My question is this: Why does tolerance demand that we forfeit our rights? Why do we strip the
+    > My question is this: **Why does tolerance demand that we forfeit our rights?** Why do we strip the
     > modesty of one in the name of tolerance of others?
     >
     > As an old college professor used to say, "Your right to swing your fist stops at the end of my nose."
