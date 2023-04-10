@@ -32,7 +32,7 @@ Work in progress
 |              | "they must be crazy and are in need of psychiatric help"[^10] ([image](/library/assets/img/recycled-homophobia/grow-out-of-it.png)) |
 |              | "homosexuality is actually a religion [...] the colorful banner is one of its symbols"[^11] ([image](/library/assets/img/recycled-homophobia/homosexuality-is-a-religion.jpg)) |
 |              | "homophobe --- a politically correct slur used by those who now consider common sense to be hate"[^12] ([image](/library/assets/img/recycled-homophobia/homophobe-is-a-slur.png)) |
-|              |                   |
+|              | "Homosexuals already have the same rights as every other American citizen in this country"[^13] ([image](/library/assets/img/recycled-homophobia/same-rights-as-everyone-else.jpg)) |
 |              |                   |
 
 ## References
@@ -220,3 +220,19 @@ Work in progress
     > Those who rebut my "intolerant" letter will themselves be completely intolerant concerning
     > my expressed opinion. They will call me a **"homophobe" --- a politically correct slur used
     > by those who now consider common sense to be hate.**
+
+[^13]: Albuquerque Journal (Albuquerque, New Mexico) 1993-03-15
+    > RE: ... "SENATE Hastily Passes Gay Rights Bill," I am appalled at the lack of moral fiber
+    > exhibited by all the spineless, weak-kneed individuals who voted in favor of such a
+    > wicked measure. **Homosexuals already have the same rights as every other American citizen
+    > in this country**: the right to vote, the right to life, liberty and the pursuit of
+    > happiness. As a businessman I don't know one customer from another regareding their
+    > sexual preference and I don't care. However, when the sodomites start marching up and
+    > down my street, flaunting their disgraceful behavior, luring my son or daughter into
+    > their debauchery, then I care and will assert my rights. Good bless Tom Benavides for
+    > calling homosexuality immoral. God bless Joseph Carraro, Emmit Jennings, Skip Vernon and
+    > Billy McKibben. Let Aragon boil in his own stew; he is right about the fact that "this
+    > is not a funny matter."
+    >
+    > ROGER KELLY
+    > Magdalena
