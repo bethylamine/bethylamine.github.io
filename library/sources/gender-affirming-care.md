@@ -24,6 +24,8 @@ children[^4].
 * Current limited evidence suggest that transgender women taking GAHT have increased risks of ischemic stroke and VTE,
   with the incidence rate (per year) increasing from 0.07% to 0.13% and 0.07% to 0.32%, respectively, compared to cisgender men,
   and these risk factors should be adequately managed[^7].
+* A review of 27 studies involving almost 8,000 teens and adults who had transgender surgeries, mostly in
+  Europe, the U.S. and Canada, found that on average 1% expressed regret.[^8]
 
 ## References
 [^1]: <https://pubmed.ncbi.nlm.nih.gov/35212746/>
@@ -33,3 +35,4 @@ children[^4].
 [^5]: <https://journals.sagepub.com/doi/full/10.1177/20420188221099346>
 [^6]: <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0243894>
 [^7]: [2019;139:1461–1462. DOI: 10.1161/CIRCULATIONAHA.118.038584](https://www.ahajournals.org/doi/pdf/10.1161/CIRCULATIONAHA.118.038584)
+[^8]: <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8099405/>
