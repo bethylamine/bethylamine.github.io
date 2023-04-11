@@ -10,6 +10,8 @@ aux_links:
 nav_external_links:
   - title: Beth on Twitter
     url: https://twitter.com/bethylamine
+  - title: Patreon
+    url: https://www.patreon.com/bethylamine
 
 plugins:
   - jemoji
