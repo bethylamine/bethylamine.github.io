@@ -18,23 +18,23 @@ Work in progress
 
 | Transphobia  | Homophobia        |
 |:-------------|:------------------|
-|              | "It's grooming children for sex grooming them to change their identity"[^2] ([image](/library/assets/img/recycled-homophobia/grooming.png))
-|              | "Why does tolerance demand that we forfeit our rights?"[^8] ([image](/library/assets/img/recycled-homophobia/give-up-our-rights.jpg))
-|              | "a homosexual being in a man's locker room [...] make heterosexual men uncomfortable"[^8] ([image](/library/assets/img/recycled-homophobia/give-up-our-rights.jpg))
+| "I'm frightened about [...] the ability of individuals to safeguard children in society [...] a predator's charter, a tool to groom a whole society."[^18] ([image](/library/assets/img/recycled-homophobia/safeguard-grooming.png)) | "It's grooming children for sex grooming them to change their identity"[^2] ([image](/library/assets/img/recycled-homophobia/grooming.png))
+| "they never meant it when they said there's no conflict between women's rights & trans rights"[^19] ([image](/library/assets/img/recycled-homophobia/conflicting-rights.png)) | "Why does tolerance demand that we forfeit our rights?"[^8] ([image](/library/assets/img/recycled-homophobia/give-up-our-rights.jpg))
+| "And 'she' still dates women so I can't imagine why her female teammates are uncomfortable in the locker room"[^20] ([image](/library/assets/img/recycled-homophobia/lia-locker-room.png)) | "a homosexual being in a man's locker room [...] make heterosexual men uncomfortable"[^8] ([image](/library/assets/img/recycled-homophobia/give-up-our-rights.jpg))
 |              | "I would argue that just the sight of a homosexual working in the locker room is suggestive to the point of making an offensive environment"[^5] ([image](/library/assets/img/recycled-homophobia/who-works-in-the-locker-room.jpg)) |
-|              | "gayness is a bedroom fetish, nothing more."[^1] ([image](/library/assets/img/recycled-homophobia/bedroom-fetish.jpg)) |
-|              | "all homosexuals were by definition narcissists [...] seen as a form of autoerotism"[^7] ([image](/library/assets/img/recycled-homophobia/narcissism-autoeroticism.png)) |
-|              | "Homosexuality is a type of fetish"[^3] ([image](/library/assets/img/recycled-homophobia/fetish.png)) |
-|              | "homosexuality is a cult [...] believing it to be the thing to do to be popular."[^4] ([image](/library/assets/img/recycled-homophobia/cult-fad.jpg)) |
+| "indulge your fetish in the comfort of your own home [...] It's a paraphilia"[^21] ([image](/library/assets/img/recycled-homophobia/agp-paraphilia.png)) | "gayness is a bedroom fetish, nothing more"[^1] ([image](/library/assets/img/recycled-homophobia/bedroom-fetish.jpg)) |
+| "narcissist, psychotic trans activists [...] hog the visibility and obscure everything but themselves" [^22] ([image](/library/assets/img/recycled-homophobia/trans-narcissists.png)) | "all homosexuals were by definition narcissists [...] seen as a form of autoerotism"[^7] ([image](/library/assets/img/recycled-homophobia/narcissism-autoeroticism.png)) |
+| "man [...] with a crossdressing fetish [...]"[^23] ([image](/library/assets/img/recycled-homophobia/crossdressing-fetish.png)) | "Homosexuality is a type of fetish"[^3] ([image](/library/assets/img/recycled-homophobia/fetish.png)) |
+|              | "homosexuality is a cult [...] believing it to be the thing to do to be popular"[^4] ([image](/library/assets/img/recycled-homophobia/cult-fad.jpg)) |
 |              | "I for one would like to know the explicit "rights" the homosexuals want that they currently don't have"[^6] ([image](/library/assets/img/recycled-homophobia/what-rights-do-they-not-have.png)) |
 |              | "it corresponds to a biological reality"[^9] ([image](/library/assets/img/recycled-homophobia/biological-reality.png)) |
 |              | "these kids will grow out of it it's just a passing phase"[^10] ([image](/library/assets/img/recycled-homophobia/grow-out-of-it.png)) |
-|              | "they must be crazy and are in need of psychiatric help"[^10] ([image](/library/assets/img/recycled-homophobia/grow-out-of-it.png)) |
-|              | "homosexuality is actually a religion [...] the colorful banner is one of its symbols"[^11] ([image](/library/assets/img/recycled-homophobia/homosexuality-is-a-religion.jpg)) |
-|              | "homophobe --- a politically correct slur used by those who now consider common sense to be hate"[^12] ([image](/library/assets/img/recycled-homophobia/homophobe-is-a-slur.png)) |
-|              | "Homosexuals already have the same rights as every other American citizen in this country"[^13] ([image](/library/assets/img/recycled-homophobia/same-rights-as-everyone-else.jpg)) |
+| "Trans women [...] they're mentally ill"[^27] ([image](/library/assets/img/recycled-homophobia/mentally-ill-man.png)) | "they must be crazy and are in need of psychiatric help"[^10] ([image](/library/assets/img/recycled-homophobia/grow-out-of-it.png)) |
+| "trans religion IS the patriarchy"[^24] ([image](/library/assets/img/recycled-homophobia/trans-religion.png)) | "homosexuality is actually a religion [...] the colorful banner is one of its symbols"[^11] ([image](/library/assets/img/recycled-homophobia/homosexuality-is-a-religion.jpg)) |
+| "accused me of being a transphobe [...] that label is nonsense used to silence those who speak up in defense of basic common sense"[^25] ([image](/library/assets/img/recycled-homophobia/transphobe-common-sense.png)) | "homophobe --- a politically correct slur used by those who now consider common sense to be hate"[^12] ([image](/library/assets/img/recycled-homophobia/homophobe-is-a-slur.png)) |
+| "Trans don't need trans rights because they are already equal and have the same rights as everyone else"[^26] ([image](/library/assets/img/recycled-homophobia/trans-same-rights.png)) | "Homosexuals already have the same rights as every other American citizen in this country"[^13] ([image](/library/assets/img/recycled-homophobia/same-rights-as-everyone-else.jpg)) |
 | "If any man can be a woman, the word woman becomes meaningless"[^17] ([image](/library/assets/img/recycled-homophobia/woman-meaningless.png)) | "become merely words with no meaning [...] gender would become nothing"[^14] ([image](/library/assets/img/recycled-homophobia/gender-becomes-meaningless.png)) |
-| "Their nazi accusations are pure projection."[^16] ([image](/library/assets/img/recycled-homophobia/nazi-accusations.png)) | "If any group in America displays tactics similar to [...] the Nazis, it is the so-called gay rights movement [...] The mainstream homosexual lobby, in true Hitlerian style, has targeted our children"[^15] ([image](/library/assets/img/recycled-homophobia/nazi-tactics.png)) |
+| "Their nazi accusations are pure projection"[^16] ([image](/library/assets/img/recycled-homophobia/nazi-accusations.png)) | "If any group in America displays tactics similar to [...] the Nazis, it is the so-called gay rights movement [...] The mainstream homosexual lobby, in true Hitlerian style, has targeted our children"[^15] ([image](/library/assets/img/recycled-homophobia/nazi-tactics.png)) |
 |              |                   |
 |              |                   |
 
@@ -204,7 +204,7 @@ Work in progress
     > lower court "abused their discretion." "The government can't engage in activities,
     > directly or indirectly, that signify to the taxpayers that this is a religion that
     > we're en- year dorsing," he said over the phone. The lawyer representing the House
-    > members argues in the mo- tion that the lower court's decision to dismiss the case
+    > members argues in the motion that the lower court's decision to dismiss the case
     > should be affirmed because the "emotional discomfort" Sevier experienced by seeing
     > the flag isn't a valid injury and that he also failed to establish that he had
     > a valid claim. "Mr. Sevier's claims are so clearly meritless" that nothing
@@ -215,7 +215,7 @@ Work in progress
     > Community Center last month after 17 years in the position. A new rainbow flag now hangs
     > in its place. Sevier has a series of lawsuits that target same-sex marriage and
     > is advocating for several bills in state legislature that undermine same-sex
-    > marriages. One he's advocating for in South Car- olina defines marriage as exclu- sively
+    > marriages. One he's advocating for in South Carolina defines marriage as exclu- sively
     > between one man and one woman and everything else as "parody marriage" and " part of
     > the religion of Secular Humanism."
 
@@ -286,3 +286,65 @@ Work in progress
     > **If any man can be a woman, the word woman becomes meaningless** and so do woman's
     > rights. @helensaxby11.
     
+[^18]: Twitter (@FemmeLoves) 2021-09-03 ([link to tweet](https://twitter.com/FemmeLoves/status/1433783255728332803?s=20))
+    > I’m just frightened about qu\*\*r theory, and trans ideology.
+    >
+    > I’m frightened about what it is doing to the ability of individuals to safeguard children in society. 
+    >
+    > I am frightened that it is a predator’s charter, a tool to groom a whole society.
+
+[^19]: Twitter (@TroonPlanet) 2023-04-08 ([link to tweet](https://twitter.com/TroonPlanet/status/1644891186669424642?s=20))
+    > The trans meltdown in the UK bc women's sex-based rights have been strengthened proves
+    > what we already knew: **they never meant it when they said "There's no conflict betwn women's
+    > rights & trans rights."** All along, what they really meant was "Redefine sex rights as gender
+    > rights."
+
+[^20]: Twitter (@RitaPanahi) 2022-03-20 ([link to tweet](https://twitter.com/RitaPanahi/status/1505791687167119363?s=20))
+    > **And ‘she’ still dates women so I can’t imagine why her female
+    > teammates are uncomfortable in the locker room.** Must be bigots.
+
+[^21]: Twitter (@BraddockBessie) 2021-12-05 ([link to tweet](https://twitter.com/BraddockBessie/status/1467597714292723722?s=20))
+    > If you want to **indulge your fetish in the comfort of your own home**,
+    > go ahead. Fill your boots.
+    >
+    > Do not bring your kink into the public sphere, & by doing so, force
+    > others to participate in it.
+    >
+    > There's nothing vulnerable, oppressed, stunning or brave about AGP.
+    > **It's a paraphilia.**
+
+[^22]: Twitter (@ConceptualJames) 2023-04-01 ([link to tweet](https://twitter.com/ConceptualJames/status/1642178388948557825?s=20))
+    > **The lunatic, narcissist, psychotic trans activists** are the only
+    > visible trans people to most of the public most of the time.
+    > This makes the "Trans Day of Visibility" badly perverse because
+    > literal narcissistic psychopaths **hog the visibility and obscure
+    > everything but themselves**.
+
+[^23]: Twitter (@docchai2022) 2023-04-06 ([link to tweet](https://twitter.com/docchai2022/status/1643937622790754305?s=20))
+    > This individual is a misogynist **man with** borderline personality disorder
+    > and **a crossdressing fetish**. We need to separate gender dysphorics (real
+    > trans) from dick bullies with personality disorders. (Fake trans). We are
+    > walking on eggshells for borderlines. Let’s make it stop.
+
+[^24]: Twitter (@Vivian_Belli) 2022-07-01 ([link to tweet](https://twitter.com/Vivian_Belli/status/1542995035523846150?s=20))
+    > Monty, mate, **the trans religion IS the patriarchy**. (Which of course you
+    > know, because you are the patriarchy too). But yeah, help make #IStandWithJKRowling
+    > trend.
+
+[^25]: Twitter (@MattWalshBlog) 2023-04-10 ([link to tweet](https://twitter.com/MattWalshBlog/status/1645508874475012096?s=20))
+    > Ana, you have repeatedly accused me of being a transphobe in the past.
+    > **Are you starting to see how that label is nonsense used to silence those
+    > who speak up in defense of basic common sense?**
+
+[^26]: Twitter (@mtgreenee) 2023-03-30 ([link to tweet](https://twitter.com/mtgreenee/status/1641528913774911508?s=20))
+    > **Trans don’t need trans rights because they are already equal and have the same rights as everyone else.**
+    > 
+    > Trans people can get driver’s licenses just like everyone else.
+    >
+    > Trans people go to schools and receive education just like everyone else.
+    >
+    > Trans people can get a job if they…
+
+[^27]: Twitter (@SStricklandMMA) 2023-03-28 ([link to tweet](https://twitter.com/Antman0528/status/1644335088618938368?s=20))
+    > Real women are beautiful. Trans women are ugly as hell. Oh, did I forget
+    > to mention **they're mentally ill** too!
