@@ -19,7 +19,7 @@ for a minority group as an attack on said group is incorrect (as the blame is no
 ### First, a persistent myth...
 
 MYTH: Suicide rates increase post-op / only increase with gender affirmation. This is a misrepresentation of the so-called
-"Swedish study", which you can read more about here: <https://transadvocate.com/fact-check-study-shows-transition-makes-trans-people-suicidal_n_15483.htm>
+["Swedish study"](/library/gc-arguments/the-swedish-study/), which you can read more about here: <https://transadvocate.com/fact-check-study-shows-transition-makes-trans-people-suicidal_n_15483.htm>
 
 In actual fact, transgender people who had received one or more gender-affirming surgical procedures had a 42%
 reduction in the odds of experiencing past-month psychological distress, a 35% reduction in the odds of past-year
