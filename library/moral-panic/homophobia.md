@@ -34,7 +34,7 @@ Work in progress
 |              | "homophobe --- a politically correct slur used by those who now consider common sense to be hate"[^12] ([image](/library/assets/img/recycled-homophobia/homophobe-is-a-slur.png)) |
 |              | "Homosexuals already have the same rights as every other American citizen in this country"[^13] ([image](/library/assets/img/recycled-homophobia/same-rights-as-everyone-else.jpg)) |
 |              | "become merely words with no meaning [...] gender would become nothing"[^14] ([image](/library/assets/img/recycled-homophobia/gender-becomes-meaningless.png)) |
-|              |                   |
+|              | "If any group in America displays tactics similar to [...] the Nazis, it is the so-called gay rights movement [...] The mainstream homosexual lobby, in true Hitlerian style, has targeted our children"[^15] ([image](/library/assets/img/recycled-homophobia/nazi-tactics.png)) |
 |              |                   |
 |              |                   |
 
@@ -266,3 +266,12 @@ Work in progress
     > real differences did exist, then men would need women and women would need men. Our
     > children would learn that sexual differences are like mere personality types. Wait
     > until your kids start bring- ing those papers home from school
+[15]: Statesman Journal (Salem, Oregon) 1994-03-05
+    > **If any group in America displays tactics similar to those employed by the Nazis, it
+    > is the so-called gay rights movement**, which has spawned numerous violent splinter
+    > organizations, such as ActUp and Queer Nation. Eric Pollard, a founding member of
+    > ActUp, said in a 1991 _Washington Blade_ article that ActUp's tactics were drawn
+    > largely from Hitler's book, _Mein Kampf_ (My Struggle). **The mainstream homosexual
+    > lobby, in true Hitlerian style, has targeted our children** for wholesale moral
+    > re-education through public school programs labeled with benign-sounding euphemisms
+    > such as multiculturalism and diversity.
