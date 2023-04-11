@@ -34,7 +34,7 @@ Work in progress
 |              | "homophobe --- a politically correct slur used by those who now consider common sense to be hate"[^12] ([image](/library/assets/img/recycled-homophobia/homophobe-is-a-slur.png)) |
 |              | "Homosexuals already have the same rights as every other American citizen in this country"[^13] ([image](/library/assets/img/recycled-homophobia/same-rights-as-everyone-else.jpg)) |
 |              | "become merely words with no meaning [...] gender would become nothing"[^14] ([image](/library/assets/img/recycled-homophobia/gender-becomes-meaningless.png)) |
-|              | "If any group in America displays tactics similar to [...] the Nazis, it is the so-called gay rights movement [...] The mainstream homosexual lobby, in true Hitlerian style, has targeted our children"[^15] ([image](/library/assets/img/recycled-homophobia/nazi-tactics.png)) |
+| "Their nazi accusations are pure projection."[^16] ([image](/library/assets/img/recycled-homophobia/nazi-accusations.png)) | "If any group in America displays tactics similar to [...] the Nazis, it is the so-called gay rights movement [...] The mainstream homosexual lobby, in true Hitlerian style, has targeted our children"[^15] ([image](/library/assets/img/recycled-homophobia/nazi-tactics.png)) |
 |              |                   |
 |              |                   |
 
@@ -276,3 +276,8 @@ Work in progress
     > lobby, in true Hitlerian style, has targeted our children** for wholesale moral
     > re-education through public school programs labeled with benign-sounding euphemisms
     > such as multiculturalism and diversity.
+
+[^16]: Twitter (@KProtein19) 2023-04-10 ([link to tweet](https://twitter.com/KProtein19/status/1645566805602365443?s=20))
+    > This is a trans advocate's response to a Black woman criticizing the pathetically absurd 
+    > ballet man. The racism in the trans community is ramptant, and very on brand. **Their
+    > nazi accusations are pure projection.**
