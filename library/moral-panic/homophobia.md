@@ -33,7 +33,7 @@ Work in progress
 |              | "homosexuality is actually a religion [...] the colorful banner is one of its symbols"[^11] ([image](/library/assets/img/recycled-homophobia/homosexuality-is-a-religion.jpg)) |
 |              | "homophobe --- a politically correct slur used by those who now consider common sense to be hate"[^12] ([image](/library/assets/img/recycled-homophobia/homophobe-is-a-slur.png)) |
 |              | "Homosexuals already have the same rights as every other American citizen in this country"[^13] ([image](/library/assets/img/recycled-homophobia/same-rights-as-everyone-else.jpg)) |
-|              | "become merely words with no meaning [...] gender would become nothing"[^14] ([image](/library/assets/img/recycled-homophobia/gender-becomes-meaningless.png)) |
+| "If any man can be a woman, the word woman becomes meaningless"[^17] ([image](/library/assets/img/recycled-homophobia/woman-meaningless.png)) | "become merely words with no meaning [...] gender would become nothing"[^14] ([image](/library/assets/img/recycled-homophobia/gender-becomes-meaningless.png)) |
 | "Their nazi accusations are pure projection."[^16] ([image](/library/assets/img/recycled-homophobia/nazi-accusations.png)) | "If any group in America displays tactics similar to [...] the Nazis, it is the so-called gay rights movement [...] The mainstream homosexual lobby, in true Hitlerian style, has targeted our children"[^15] ([image](/library/assets/img/recycled-homophobia/nazi-tactics.png)) |
 |              |                   |
 |              |                   |
@@ -281,3 +281,8 @@ Work in progress
     > This is a trans advocate's response to a Black woman criticizing the pathetically absurd 
     > ballet man. The racism in the trans community is ramptant, and very on brand. **Their
     > nazi accusations are pure projection.**
+
+[^17]: Twitter (@fairplaywomen) 2021-09-02 ([link to tweet](https://twitter.com/fairplaywomen/status/1433437010954493964?s=20))
+    > **If any man can be a woman, the word woman becomes meaningless** and so do woman's
+    > rights. @helensaxby11.
+    
