@@ -266,6 +266,7 @@ Work in progress
     > real differences did exist, then men would need women and women would need men. Our
     > children would learn that sexual differences are like mere personality types. Wait
     > until your kids start bring- ing those papers home from school
+
 [15]: Statesman Journal (Salem, Oregon) 1994-03-05
     > **If any group in America displays tactics similar to those employed by the Nazis, it
     > is the so-called gay rights movement**, which has spawned numerous violent splinter
