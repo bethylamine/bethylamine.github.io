@@ -13,29 +13,25 @@ I have sourced the newspaper clippings from there [with permission](https://twit
 
 The table gives examples of mirrored transphobic and homophobic fearmongering.
 
-Work in progress
-{: .label .label-yellow }
-
 | Transphobia  | Homophobia        |
 |:-------------|:------------------|
 | "I'm frightened about [...] the ability of individuals to safeguard children in society [...] a predator's charter, a tool to groom a whole society."[^18] ([image](/library/assets/img/recycled-homophobia/safeguard-grooming.png)) | "It's grooming children for sex grooming them to change their identity"[^2] ([image](/library/assets/img/recycled-homophobia/grooming.png))
-| "they never meant it when they said there's no conflict between women's rights & trans rights"[^19] ([image](/library/assets/img/recycled-homophobia/conflicting-rights.png)) | "Why does tolerance demand that we forfeit our rights?"[^8] ([image](/library/assets/img/recycled-homophobia/give-up-our-rights.jpg))
+| "they never meant it when they said there's no conflict between women's rights & trans rights"[^19] ([image](/library/assets/img/recycled-homophobia/conflicting-rights.png)) <br> "Why are we allowing trans rights to eliminate women's rights?"[^31] ([image](/library/assets/img/recycled-homophobia/eliminate-womens-rights.png))  | "Why does tolerance demand that we forfeit our rights?"[^8] ([image](/library/assets/img/recycled-homophobia/give-up-our-rights.jpg))
 | "And 'she' still dates women so I can't imagine why her female teammates are uncomfortable in the locker room"[^20] ([image](/library/assets/img/recycled-homophobia/lia-locker-room.png)) | "a homosexual being in a man's locker room [...] make heterosexual men uncomfortable"[^8] ([image](/library/assets/img/recycled-homophobia/give-up-our-rights.jpg))
-|              | "I would argue that just the sight of a homosexual working in the locker room is suggestive to the point of making an offensive environment"[^5] ([image](/library/assets/img/recycled-homophobia/who-works-in-the-locker-room.jpg)) |
 | "indulge your fetish in the comfort of your own home [...] It's a paraphilia"[^21] ([image](/library/assets/img/recycled-homophobia/agp-paraphilia.png)) | "gayness is a bedroom fetish, nothing more"[^1] ([image](/library/assets/img/recycled-homophobia/bedroom-fetish.jpg)) |
 | "narcissist, psychotic trans activists [...] hog the visibility and obscure everything but themselves" [^22] ([image](/library/assets/img/recycled-homophobia/trans-narcissists.png)) | "all homosexuals were by definition narcissists [...] seen as a form of autoerotism"[^7] ([image](/library/assets/img/recycled-homophobia/narcissism-autoeroticism.png)) |
 | "man [...] with a crossdressing fetish [...]"[^23] ([image](/library/assets/img/recycled-homophobia/crossdressing-fetish.png)) | "Homosexuality is a type of fetish"[^3] ([image](/library/assets/img/recycled-homophobia/fetish.png)) |
-|              | "homosexuality is a cult [...] believing it to be the thing to do to be popular"[^4] ([image](/library/assets/img/recycled-homophobia/cult-fad.jpg)) |
-|              | "I for one would like to know the explicit "rights" the homosexuals want that they currently don't have"[^6] ([image](/library/assets/img/recycled-homophobia/what-rights-do-they-not-have.png)) |
-|              | "it corresponds to a biological reality"[^9] ([image](/library/assets/img/recycled-homophobia/biological-reality.png)) |
-|              | "these kids will grow out of it it's just a passing phase"[^10] ([image](/library/assets/img/recycled-homophobia/grow-out-of-it.png)) |
+| "Trans is a cult"[^28] ([image](/library/assets/img/recycled-homophobia/trans-is-a-cult.png)) | "homosexuality is a cult [...] believing it to be the thing to do to be popular"[^4] ([image](/library/assets/img/recycled-homophobia/cult-fad.jpg)) |
+| "What rights don't trans people currently have?"[^29] ([image](/library/assets/img/recycled-homophobia/gag-trans-rights.png))| "I for one would like to know the explicit "rights" the homosexuals want that they currently don't have"[^6] ([image](/library/assets/img/recycled-homophobia/what-rights-do-they-not-have.png)) |
+| "no basis in biological reality"[^34] (/library/assets/img/recycled-homophobia/no-basis-in-biological-reality.png) | "it corresponds to a biological reality"[^9] ([image](/library/assets/img/recycled-homophobia/biological-reality.png)) |
+| "nearly all of them grow out of gender confusion"[^30] ([image](/library/assets/img/recycled-homophobia/grow-out-of-gender-confusion.png)) | "these kids will grow out of it it's just a passing phase"[^10] ([image](/library/assets/img/recycled-homophobia/grow-out-of-it.png)) |
 | "Trans women [...] they're mentally ill"[^27] ([image](/library/assets/img/recycled-homophobia/mentally-ill-man.png)) | "they must be crazy and are in need of psychiatric help"[^10] ([image](/library/assets/img/recycled-homophobia/grow-out-of-it.png)) |
 | "trans religion IS the patriarchy"[^24] ([image](/library/assets/img/recycled-homophobia/trans-religion.png)) | "homosexuality is actually a religion [...] the colorful banner is one of its symbols"[^11] ([image](/library/assets/img/recycled-homophobia/homosexuality-is-a-religion.jpg)) |
 | "accused me of being a transphobe [...] that label is nonsense used to silence those who speak up in defense of basic common sense"[^25] ([image](/library/assets/img/recycled-homophobia/transphobe-common-sense.png)) | "homophobe --- a politically correct slur used by those who now consider common sense to be hate"[^12] ([image](/library/assets/img/recycled-homophobia/homophobe-is-a-slur.png)) |
 | "Trans don't need trans rights because they are already equal and have the same rights as everyone else"[^26] ([image](/library/assets/img/recycled-homophobia/trans-same-rights.png)) | "Homosexuals already have the same rights as every other American citizen in this country"[^13] ([image](/library/assets/img/recycled-homophobia/same-rights-as-everyone-else.jpg)) |
 | "If any man can be a woman, the word woman becomes meaningless"[^17] ([image](/library/assets/img/recycled-homophobia/woman-meaningless.png)) | "become merely words with no meaning [...] gender would become nothing"[^14] ([image](/library/assets/img/recycled-homophobia/gender-becomes-meaningless.png)) |
 | "Their nazi accusations are pure projection"[^16] ([image](/library/assets/img/recycled-homophobia/nazi-accusations.png)) | "If any group in America displays tactics similar to [...] the Nazis, it is the so-called gay rights movement [...] The mainstream homosexual lobby, in true Hitlerian style, has targeted our children"[^15] ([image](/library/assets/img/recycled-homophobia/nazi-tactics.png)) |
-|              |                   |
+| "Trans people aren't demanding equal rights they already have those. What they want are EXTRA rights. Special rights."[^33] ([image](/library/assets/img/recycled-homophobia/trans-special-rights.png)) | "militant homosexuals demanding special rights and protected class status"[^32] ([image](/library/assets/img/recycled-homophobia/demanding-special-rights.png)) |
 |              |                   |
 
 ## References
@@ -348,3 +344,88 @@ Work in progress
 [^27]: Twitter (@SStricklandMMA) 2023-03-28 ([link to tweet](https://twitter.com/Antman0528/status/1644335088618938368?s=20))
     > Real women are beautiful. Trans women are ugly as hell. Oh, did I forget
     > to mention **they're mentally ill** too!
+
+[^28]: Twitter (@TheSullis) 2023-04-10 ([link to tweet](https://twitter.com/TheSullis/status/1645494032154468356?s=20))
+    > **Trans is a cult.** A dangerous noncey one!!
+    >
+    > Needs sorting by proper adults. Women need to be protected
+
+[^29]: Twitter (@thegaywhostrayd) 2023-03-30 ([link to tweet](https://twitter.com/thegaywhostrayd/status/1641550617888817158?s=20))
+    > **What rights don't trans people currently have?**
+
+[^30]: Twitter (@LukePSulz) 2023-02-23 ([link to tweet](https://twitter.com/LukePSulz/status/1628926031917891584?s=20))
+    > The tran community will do anything to protect their right to confuse and
+    > drug children.
+    >
+    > As the song says “the children are the future” …
+    >
+    > …and trans adults KNOW this means they have to get to kids early because
+    > **nearly all of them grow out of gender confusion** during puberty.
+
+[^31]: Twitter (@BreannaMorello) 2022-10-03 ([link to tweet](https://twitter.com/BreannaMorello/status/1576916616021159938?s=20))
+    >Why are women and girls being silenced when they vocalize their discomfort
+    > for biological boys/men entering our bathrooms and locker rooms?
+    > 
+    > **Why are we allowing “trans rights” to eliminate women’s rights?**
+
+[^32]: Arizona Republic (Phoenix, AZ) 1993-12-28
+    > When Denver District Judge H. Jeffrey Bayless ruled Colorado's anti-gay
+    > Amendment 2 unconstitutional this month, he soothed the soul's of homosexuals
+    > nationwide. But while the battle is won, the war is far from over. The core of the Bayless
+    > ruling said that equal participation in the political process is a "fundamental"
+    > right of citizenship. That right applies to all citizens, not simply those who are
+    > members of traditionally protected or "suspect classes such as racial or ethnic
+    > minorities." of Colorado had a formidable legal challenge to meet: to show at least one
+    > compelling state interest for the discriminatory statute. Although the state presented
+    > six alleged interests, Bayless was not convinced by even one. The state's case
+    > both morally and legally was tenuous at best. Reportedly, the human-resources division of 
+    > the Attorney General's Office refused to even participate in preparing
+    > the state's defense. Instead, attorneys from other divisions were recruited to do
+    > the dirty legal work for the state. They failed, and as a result of the decision,
+    > protections in employment To uphold Amendment 2, the state and housing still exist for
+    > gays in Aspen, Boulder and Denver. Since the passage of Amendment 2 in Novem- ber
+    > of 1992, the towns of Telluride and Crested Butte have passed similar safeguards,
+    > and the court has sustained their legality, as well. But this month's decision
+    > resonates beyond Colorado's borders, for it affirms that a fundamental right cannot be
+    > put up to a popular vote. It is thus one of the first big steps toward putting out
+    > the raging fires that anti-gay opponents have set and fueled with so much success
+    > this last year. During the Colorado campaign, the leaders of the anti-gay measure
+    > persuaded voters that equal-rights ordinances like those in Aspen and Denver were the
+    > work of **"militant homosexuals" demanding special rights and protected class status**.
+    > Voters were bombarded with loaded terms like "quotas" and "minority status," and
+    > warned that they would be forced to hire or rent to gay men and lesbians. The
+    > Amendment 2 forces also tried to divide and conquer, claiming that the "hard-won gains
+    > of African-Americans, Hispanics, women, and the disabled" would be shattered.
+    > Most disturbing, they played on fear and hatred, distributing distorted campaign
+    > materials to thousands of voters accusing gays of practicing repellent sexual acts and
+    > spreading communicable diseases. To these tactics, Bayless responded, "If one wished
+    > to promote family values, action would be taken that is pro-family rather than
+    > anti some other group." Homosexuals didn't get everything they wanted from Bayless,
+    > however. He chose not to address the plaintiff's desire for "suspect class status," so
+    > gays cannot yet be listed alongside other discriminated groups in the categories of
+    > race, gender and nation ality. Bayless has also surely angered some voters in
+    > Colorado. Will the forces of bigotry rally and return to the electorate with a more
+    > legally defensible version of Amendment 2? The state's legal maneuvering has surely
+    > helped to chart a course for this endeavor. Still, gays have rightfully cheered the
+    > Bayless decision for derailing the momentum of the hate groups in Colorado and across
+    > the country. But now is not the time for homosexuals to settle back into
+    > complacent closets. In the wake of Amendment 2, Colorado gays have embarked on a campaign
+    > of "coming out," urging their brothers and sisters to be visible with family,
+    > friends and co-workers. This is a vital strategy, for only when the straight society
+    > comes to know lesbians and gay men as their neighbors and friends will fear wane and
+    > bigotry dissolve. Kathy Deitsch is a writer living in Denver.
+
+
+[^33]: Twitter (@JohnJGaltrules) 2023-04-07 ([link to tweet](https://twitter.com/JohnJGaltrules/status/1644350472755773440?s=20))
+    > It's past time we call out things for what they are. 
+    > 
+    > **Trans people aren't demanding "equal rights" they already have those.
+    > What they want are EXTRA rights. Special rights.**
+    > 
+    > We have laws against men going into women's locker rooms for a reason.
+    > Trans people are demanding 1/2
+
+[^34]: Twitter (@SwipeWright) 2022-07-03 ([link to tweet](https://twitter.com/SwipeWright/status/1532790745177923584?s=20))
+    > Remember, activists are using the existence of the white box below in order to
+    > argue that the blue and pink areas are meaningless "social constructs" with no
+    > basis in biological reality.
