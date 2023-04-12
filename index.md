@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Home 🏠
 nav_order: 1
 description: "Beth's Anti-Transphobia Library is a collection of resources for combating online transphobia."
 permalink: /
