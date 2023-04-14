@@ -32,6 +32,6 @@ gravity is a bad theory because Isaac Newton was racist.
   that word on this basis[^4].
 
 [^1]: <https://twitter.com/againstgrmrs/status/1645617794761777154> ([archive](https://archive.ph/yPwpi))
-[^2]: <https://twitter.com/LilaGraceRose/status/1645859842882691072>
+[^2]: <https://twitter.com/LilaGraceRose/status/1645859842882691072> ([archive](https://archive.ph/6cGLu))
 [^3]: Ehrhardt, Anke A. (August 2007). "John Money, Ph.D.". The Journal of Sex Research. 44 (3): 223–224. doi:10.1080/00224490701580741
 [^4]: <https://medium.com/@davidallsopp/no-dr-money-did-not-invent-gender-55d245fc9757>
