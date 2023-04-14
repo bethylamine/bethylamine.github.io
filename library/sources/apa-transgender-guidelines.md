@@ -7,8 +7,8 @@ permalink: /library/sources/apa-transgender-guidelines
 
 # APA Transgender Guidelines
 
-Source: <https://www.apa.org/practice/guidelines/transgender.pdf>
-Archived: <https://beth.lgbt/library/assets/pdf/transgender.pdf>
+* Source: <https://www.apa.org/practice/guidelines/transgender.pdf>
+* Archived: <https://beth.lgbt/library/assets/pdf/transgender.pdf>
 
 # Guidelines for Psychological Practice With Transgender and Gender Nonconforming People
 
