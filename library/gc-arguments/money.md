@@ -1,11 +1,11 @@
 ---
 layout: default
-title: John Money
+title: John Money / Alfred Kinsey
 parent: GC Arguments
 permalink: /library/gc-arguments/money/
 ---
 
-# John Money
+# John Money / Alfred Kinsey
 
 The argument often goes like this[^1][^2] (and there are many more[^4])
 
@@ -21,12 +21,16 @@ gravity is a bad theory because Isaac Newton was racist.
 * There have been over fifty years of research since Dr. Money's incorrect theories. His unethical behavior
   in conducting surgery on infants and his theories on gender are not longer accepted in the medical and
   psychological community.
+* Neither John Money nor Alfred Kinsey have been alive for over 10 years and have no significant contribution
+  to the current leading medical and scientific consensus that transgender people are the gender they say they
+  are---and they're not deluded or mentally ill.
 * Many historical examples exist to show the existence of trans people _decades or centuries_ before Money's work[^4].
 * Dr. Money's controversial work in the 1960's does not invalidate the idea of gender identity.
   He popularized the term, as well as the term "sexual orientation" (in place of "sexual preference".)[^3]
 * Dr. Money's experiment disproved aspects of his own belief (that gender identity is malleable). His theories of
   are closer to those who think that people can change their gender identity[^4].
-* Gender identity and sexual orientation existed before Dr. Money popularized those terms.
+* Gender identity and sexual orientation existed before Dr. Money popularized those terms. (Gender reassignment
+  surgery predates both John Money and Alfred Kinsey[^5].)
 * There is no evidence that Dr. Money coined the term "gender identity"[^4].
 * He also takes credit for replacing the term "perversion" with "paraphilia", but nobody seems to be discrediting
   that word on this basis[^4].
@@ -35,3 +39,4 @@ gravity is a bad theory because Isaac Newton was racist.
 [^2]: <https://twitter.com/LilaGraceRose/status/1645859842882691072> ([archive](https://archive.ph/6cGLu))
 [^3]: Ehrhardt, Anke A. (August 2007). "John Money, Ph.D.". The Journal of Sex Research. 44 (3): 223–224. doi:10.1080/00224490701580741
 [^4]: <https://medium.com/@davidallsopp/no-dr-money-did-not-invent-gender-55d245fc9757>
+[^5]: <https://en.wikipedia.org/wiki/Dora_Richter>
