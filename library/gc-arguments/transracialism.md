@@ -18,6 +18,8 @@ race is also defined by culture and ancestry.
 
 This pre-supposes that gender, race, age and species are all objective and factual classifiers that must all
 be self-identified or none must be self-identified. However, these classification systems are not all the same.
+This may also be a form of [essentialism](/library/gc-arguments/essentialism) that insists that people of different
+genders or races are entirely separate, mutually exclusive, "things".
 
 Gender and race are complex sociological parts of our identity. Neither gender[^4] nor race[^3] is based on biology.
 This doesn't mean they're not real. However, they are primarily _social_ constructs. Transgender identity has
