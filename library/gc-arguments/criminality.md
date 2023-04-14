@@ -7,4 +7,4 @@ permalink: /library/gc-arguments/criminality/
 
 # Male patterns of criminality
 
-TODO
+This comes from another misrepresentation of the [Swedish Study](/library/gc-arguments/the-swedish-study/).
