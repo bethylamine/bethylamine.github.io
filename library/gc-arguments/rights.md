@@ -94,6 +94,7 @@ Here are some of the avenues of trans rights that are being fought for:
 ## See also
 
 * [The struggle of trans and gender-diverse persons](https://www.ohchr.org/en/special-procedures/ie-sexual-orientation-and-gender-identity/struggle-trans-and-gender-diverse-persons) (United Nations Office of the High Commissioner)
+* [What rights don't trans people have?](https://katymontgomerie.medium.com/what-rights-dont-trans-people-have-228c728f564a) (Katy Montgomerie)
 
 ## References
 
