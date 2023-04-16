@@ -91,6 +91,12 @@ Here are some of the avenues of trans rights that are being fought for:
    health care for transgender individuals, as well as working to reduce the social factors that contribute to
    mental health disparities.
 
+## See also
+
+* [The struggle of trans and gender-diverse persons](https://www.ohchr.org/en/special-procedures/ie-sexual-orientation-and-gender-identity/struggle-trans-and-gender-diverse-persons) (United Nations Office of the High Commissioner)
+
+## References
+
 [^1]: <https://ilga.org/trans-legal-mapping-report>
     ![2023-04-16 01_36_57-TLMR2019-EN](https://user-images.githubusercontent.com/130214958/232286959-44df9d30-1b97-4dad-9975-eba2ff225280.png)
 
