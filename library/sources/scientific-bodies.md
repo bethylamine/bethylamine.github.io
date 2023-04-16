@@ -8,7 +8,7 @@ permalink: /library/sources/scientific-bodies
 # Scientific bodies that support transgender people
 
 ## Summary
-<img width="1000" alt="Every leading medical association support trans people." src="https://user-images.githubusercontent.com/130214958/232303280-90d2dc8a-a84d-4128-b881-6287fd2227f5.png">
+<img width="900" alt="Every Leading Medical Association Supports Trans People. The infographic summarizes the statements from the top 4 associations from the list below, including the American Psychiatric Association, World Medical Association, American Medical Association and The Endocrine Society." src="https://user-images.githubusercontent.com/130214958/232306763-2679403f-9ed8-47df-9174-574ed30a0f59.png">
 
 ## Extended list
 
@@ -320,7 +320,7 @@ The following is a non-exhaustive list of scientific bodies that support transge
 [^25]: <https://transhealthproject.org/resources/medical-organization-statements/national-association-nurse-practitioners-womens-health/>
 [^26]: <https://transhealthproject.org/resources/medical-organization-statements/national-association-social-workers-statements/>
 [^27]: <https://transhealthproject.org/resources/medical-organization-statements/national-commission-correctional-health-care-statements/>
-[^28]: <https://transhealthproject.org/resources/medical-organization-statements/pediatric-endocrine-society-special-interest-group-transgender-health-statements/
+[^28]: <https://transhealthproject.org/resources/medical-organization-statements/pediatric-endocrine-society-special-interest-group-transgender-health-statements/>
 [^29]: <https://transhealthproject.org/resources/medical-organization-statements/society-adolescent-health-and-medicine/>
 [^30]: <https://transhealthproject.org/resources/medical-organization-statements/world-medical-association-statements/>
 [^31]: <https://transhealthproject.org/resources/medical-organization-statements/world-professional-association-transgender-health-statements/>
