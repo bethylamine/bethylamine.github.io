@@ -8,6 +8,7 @@ permalink: /library/sources/scientific-bodies
 # Scientific bodies that support transgender people
 
 ## Summary
+<img width="1000" alt="Every leading medical association support trans people." src="https://user-images.githubusercontent.com/130214958/232303280-90d2dc8a-a84d-4128-b881-6287fd2227f5.png">
 
 ## Extended list
 
