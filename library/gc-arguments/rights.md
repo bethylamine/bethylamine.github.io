@@ -73,10 +73,9 @@ Here are some of the avenues of trans rights that are being fought for:
    of inclusive policies and the removal of discriminatory practices in public spaces, ensuring that transgender
    individuals can access public accommodations and services without fear of harassment or discrimination.
 7. **Family and Parental Rights**<br>
-   Transgender parents and families can face legal barriers and discrimination when it comes to family and parental
-   rights. Issues may arise concerning child custody, adoption, or fertility treatments. For example, Sterling
-   Simmons, a transgender father in Illinois, was stripped of parental rights because his marriage was deemed void[^13].
-   He had male identity documents but this did not help him when his marriage was challenged.
+   Family and parental rights can't be taken for granted by trans people. In 2020, transgender man Freddy McConnell
+   lost the legal battle to register as his child's father and the Court of Appeal also ruled against McConnell,
+   upholding the previous decision[^13].
 8. **Representation in Media and Culture**<br>
    Transgender individuals are often underrepresented, misrepresented, or negatively portrayed in media and
    popular culture. This lack of accurate representation can perpetuate stereotypes, contribute to stigmatization,
@@ -128,9 +127,7 @@ Here are some of the avenues of trans rights that are being fought for:
 
 [^12]: <https://abcnews4.com/news/nation-world/school-bans-girls-volleyball-team-from-locker-room-following-complaints-about-trans-player-transgender-women-bathroom-privacy-vermont-randolph-high>
 
-[^13]: <https://www.aclu.org/report/protecting-rights-transgender-parents-and-their-children>
-
-    ![2023-04-16 01_34_04-Protecting the Rights of Transgender Parents and their Children _ American Civil](https://user-images.githubusercontent.com/130214958/232286835-40683f80-1ac0-4f77-87f8-e6cc3dd13a2f.png)
+[^13]: <https://www.thepinknews.com/2020/11/16/transgender-dad-freddy-mcconnell-supreme-court-appeal-european-court-human-rights/>
 
 [^14]: <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6824534/>
 
