@@ -20,8 +20,9 @@ DM me on [Twitter](https://twitter.com/bethylamine) or create an [issue] in the 
 ### Patreon Supporters
 
 Big thanks to my Patreon supporters!
-* winkyface
-* Moshe Gordon Radian
+* @mcwinkyface
+* @vehpus
+* @starkvaliant
 
 ### Contributing
 
