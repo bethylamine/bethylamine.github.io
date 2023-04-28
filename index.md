@@ -19,10 +19,7 @@ DM me on [Twitter](https://twitter.com/bethylamine) or create an [issue] in the 
 
 ### Patreon Supporters
 
-Big thanks to my Patreon supporters!
-* @mcwinkyface
-* @vehpus
-* @starkvaliant
+Big thanks to all my Patreon supporters!
 
 ### Contributing
 
