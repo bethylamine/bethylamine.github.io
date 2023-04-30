@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Login failure
-parent: Soupcan Browser Extension
 permalink: /library/browser-extension/login-failure
 nav_exclude: true
 search_exclude: true
