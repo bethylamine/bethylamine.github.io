@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Privacy Policy
-parent: WhatIsAWomanBot Browser Extension
+parent: Soupcan Browser Extension
 permalink: /library/browser-extension/privacy
 ---
 
