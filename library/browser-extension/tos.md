@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Terms of Service
-parent: WhatIsAWomanBot Browser Extension
+parent: Soupcan Browser Extension
 permalink: /library/browser-extension/tos
 ---
 
