@@ -42,8 +42,8 @@ Soon, other features will be rolled in to improve QoL and to offer more trans-su
 * **Manually marked** -- Marked in Shinigami Eyes (n.b. not all users marked by Shinigami Eyes are in the database)
 * **Reported by extension creator** -- Marked manually by @bethylamine
 * **Reported by moderation team** -- Marked manually by a community moderator
-* **Reported by <X> users** -- Got enough reports to be marked red by community, from X number of users
-* **Marked via content [X]**[^1] -- Transphobic content found in their name, bio and/or tweets, with a score of X
+* **Reported by \<X\> users** -- Got enough reports to be marked red by community, from X number of users
+* **Marked via content \[\<X\>\]**[^1] -- Transphobic content found in their name, bio and/or tweets, with a score of X
 * **Marked by hashtag usage**[^1] -- Used transphobic hashtag (in sincerity) in a tweet that got some traction
 * **Marked by likes**[^1] -- Had a like pattern of transphobic tweets
 * **Marked via GPT**[^1] -- Tweets relating to gender or trans issues were deemed transphobic by ChatGPT
