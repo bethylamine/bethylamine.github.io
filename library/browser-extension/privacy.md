@@ -28,3 +28,4 @@ send data to the server.
 All of this is publicly available information, and nothing is stored related to your username/ID except that which is
 necessary to provide functionality for the service (reports, appeals, etc.)
 
+This data is transmitted securely through https to backend storage which is encrypted at rest.
