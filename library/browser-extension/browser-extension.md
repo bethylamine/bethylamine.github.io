@@ -21,12 +21,18 @@ It's currently in development, but you can start using it whenever you like by i
 
 ![image](https://user-images.githubusercontent.com/130214958/235580799-c3f6fd4d-c2ee-49dc-945a-0083fb491148.png)
 
-
-
 ## Installation instructions
 Please follow the readme in the [github repository](https://github.com/bethylamine/soupcan). The extension is still in beta
 and is not on any Extension store yet. Once you install it, you'll be greeted with a setup page. There are two steps in the
 setup. First: sign in with Twitter. Second: download the database. The setup page will guide you through both.
+
+## Guide
+
+1. How do I report a user as a transphobe?
+  Just right click on their username or name and choose Report transphobe from the Soupcan menu.
+  ![image](https://user-images.githubusercontent.com/130214958/235623288-86e4bf34-ebb1-4f1f-9637-20c6237eb96b.png)
+2. How do I report someone who was unfairly marked?
+  The same as above but instead click "Appeal".
 
 ## Rules for use
 Please see the [Terms of Service](https://bethylamine.github.io/library/browser-extension/tos)
