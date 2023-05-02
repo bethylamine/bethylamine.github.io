@@ -11,6 +11,18 @@ permalink: /library/browser-extension/
 Soupcan is a browser extension that takes features built up by WhatIsAWomanBot and packages them into your browser.
 It's currently in development, but you can start using it whenever you like by installing it from the [github repository](https://github.com/bethylamine/soupcan).
 
+## Screenshots
+
+![image](https://user-images.githubusercontent.com/130214958/235580658-c1696d16-0eec-4ca8-a4ea-0fb82d7b7165.png)
+
+![image](https://user-images.githubusercontent.com/130214958/235580701-00852e39-ac34-4a13-889a-0059270a8758.png)
+
+![image](https://user-images.githubusercontent.com/130214958/235580759-5d26fdb2-85ff-4ab0-8aa6-ece3f8d7465b.png)
+
+![image](https://user-images.githubusercontent.com/130214958/235580799-c3f6fd4d-c2ee-49dc-945a-0083fb491148.png)
+
+
+
 ## Installation instructions
 Please follow the readme in the [github repository](https://github.com/bethylamine/soupcan). The extension is still in beta
 and is not on any Extension store yet. Once you install it, you'll be greeted with a setup page. There are two steps in the
