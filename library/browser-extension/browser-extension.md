@@ -8,6 +8,8 @@ permalink: /library/browser-extension/
 # Soupcan
 {: .no_toc }
 
+https://github.com/bethylamine/bethylamine.github.io/assets/130214958/3edb3495-201a-4d1d-9875-fc7b814eeaa5
+
 Soupcan is a browser extension that takes features built up by WhatIsAWomanBot and packages them into your browser.
 It's currently in development, but you can start using it whenever you like by installing it from the [github repository](https://github.com/bethylamine/soupcan).
 
