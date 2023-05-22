@@ -10,6 +10,11 @@ permalink: /library/browser-extension/
 
 https://github.com/bethylamine/bethylamine.github.io/assets/130214958/3edb3495-201a-4d1d-9875-fc7b814eeaa5
 
+<video onloadstart="this.volume=0.25" controls>
+  <source src="https://github.com/bethylamine/bethylamine.github.io/assets/130214958/3edb3495-201a-4d1d-9875-fc7b814eeaa5" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 Soupcan is a browser extension that takes features built up by WhatIsAWomanBot and packages them into your browser.
 It's currently in development, but you can start using it whenever you like by installing it from the [github repository](https://github.com/bethylamine/soupcan).
 
@@ -24,6 +29,11 @@ It's currently in development, but you can start using it whenever you like by i
 ![image](https://user-images.githubusercontent.com/130214958/235580799-c3f6fd4d-c2ee-49dc-945a-0083fb491148.png)
 
 ## Installation instructions
+For Chrome, you can install it from the [web store](https://chrome.google.com/webstore/detail/soupcan/hcneafegcikghlbibfmlgadahjfckonj)
+Firefox web store link coming soon
+
+For the latest version, as it's updated frequently, use the following method:
+
 Please follow the readme in the [github repository](https://github.com/bethylamine/soupcan). The extension is still in beta
 and is not on any Extension store yet. Once you install it, you'll be greeted with a setup page. There are two steps in the
 setup. First: sign in with Twitter. Second: download the database. The setup page will guide you through both.
