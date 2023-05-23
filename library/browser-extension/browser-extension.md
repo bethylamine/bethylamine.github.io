@@ -8,8 +8,6 @@ permalink: /library/browser-extension/
 # Soupcan
 {: .no_toc }
 
-https://github.com/bethylamine/bethylamine.github.io/assets/130214958/3edb3495-201a-4d1d-9875-fc7b814eeaa5
-
 <video onloadstart="this.volume=0.25" controls>
   <source src="https://github.com/bethylamine/bethylamine.github.io/assets/130214958/3edb3495-201a-4d1d-9875-fc7b814eeaa5" type="video/mp4">
 Your browser does not support the video tag.
