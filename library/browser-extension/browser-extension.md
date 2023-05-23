@@ -27,9 +27,13 @@ It's currently in development, but you can start using it whenever you like by i
 ![image](https://user-images.githubusercontent.com/130214958/235580799-c3f6fd4d-c2ee-49dc-945a-0083fb491148.png)
 
 ## Installation instructions
-For Chrome, you can install it from the [web store](https://chrome.google.com/webstore/detail/soupcan/hcneafegcikghlbibfmlgadahjfckonj)
-Firefox web store link coming soon
+### Chrome / Edge / Opera / Arc / other Chromium-based browsers
+[![image](https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/mPGKYBIR2uCP0ApchDXE.png)](https://chrome.google.com/webstore/detail/soupcan/hcneafegcikghlbibfmlgadahjfckonj)
 
+### Firefox
+[![image](https://blog.mozilla.org/addons/files/2015/11/get-the-addon.png)](https://addons.mozilla.org/en-US/firefox/addon/soupcan/)
+
+### From source
 For the latest version, as it's updated frequently, use the following method:
 
 Please follow the readme in the [github repository](https://github.com/bethylamine/soupcan). The extension is still in beta
