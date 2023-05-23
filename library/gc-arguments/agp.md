@@ -44,20 +44,20 @@ It is important to approach the understanding of trans identities with sensitivi
 As research continues to evolve, it is becoming increasingly clear that the experiences of trans women are not indicative of a paraphilic condition, but rather represent a valid, deeply held aspect of identity.
 
 ## References
-[^1] [Blanchard, R. (1989). The concept of autogynephilia and the typology of male gender dysphoria. The Journal of Nervous and Mental Disease, 177(10), 616-623.](https://pubmed.ncbi.nlm.nih.gov/2794988/)
+[^1]: [Blanchard, R. (1989). The concept of autogynephilia and the typology of male gender dysphoria. The Journal of Nervous and Mental Disease, 177(10), 616-623.](https://pubmed.ncbi.nlm.nih.gov/2794988/)
 
-[^2] [Serano, J. (2010). The Case Against Autogynephilia. International Journal of Transgenderism, 12(3), 176-187.](https://www.juliaserano.com/av/Serano-CaseAgainstAutogynephilia.pdf)
+[^2]: [Serano, J. (2010). The Case Against Autogynephilia. International Journal of Transgenderism, 12(3), 176-187.](https://www.juliaserano.com/av/Serano-CaseAgainstAutogynephilia.pdf)
 
-[^3] [Veale, J. F. (2014). Evidence against a typology: A taxometric analysis of the sexuality of male-to-female transsexuals. Archives of Sexual Behavior, 43(8).](https://www.researchgate.net/publication/260718404_Evidence_Against_a_Typology_A_Taxometric_Analysis_of_the_Sexuality_of_Male-to-Female_Transsexuals)
+[^3]: [Veale, J. F. (2014). Evidence against a typology: A taxometric analysis of the sexuality of male-to-female transsexuals. Archives of Sexual Behavior, 43(8).](https://www.researchgate.net/publication/260718404_Evidence_Against_a_Typology_A_Taxometric_Analysis_of_the_Sexuality_of_Male-to-Female_Transsexuals)
 
-[^4] [Veale, J. F., Clarke, D. E., & Lomax, T. C. (2008). Sexuality of male-to-female transsexuals. Archives of Sexual Behavior, 37(4), 586-597.](https://link.springer.com/article/10.1007/s10508-007-9306-9)
+[^4]: [Veale, J. F., Clarke, D. E., & Lomax, T. C. (2008). Sexuality of male-to-female transsexuals. Archives of Sexual Behavior, 37(4), 586-597.](https://link.springer.com/article/10.1007/s10508-007-9306-9)
 
-[^5] [Moser, C. (2010). Autogynephilia in women. Journal of Homosexuality, 56(5), 539-547.](https://psycnet.apa.org/record/2009-10653-001)
+[^5]: [Moser, C. (2010). Autogynephilia in women. Journal of Homosexuality, 56(5), 539-547.](https://psycnet.apa.org/record/2009-10653-001)
 
-[^6] [Nuttbrock, L., Bockting, W., Mason, M., Hwahng, S., Rosenblum, A., Macri, M., & Becker, J. (2011). TA Further Assessment of Blanchard’s Typology of Homosexual Versus Non-Homosexual or Autogynephilic Gender Dysphoria. Archives of Sexual Behavior, 40(2), 247-257.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2894986/)
+[^6]: [Nuttbrock, L., Bockting, W., Mason, M., Hwahng, S., Rosenblum, A., Macri, M., & Becker, J. (2011). TA Further Assessment of Blanchard’s Typology of Homosexual Versus Non-Homosexual or Autogynephilic Gender Dysphoria. Archives of Sexual Behavior, 40(2), 247-257.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2894986/)
 
-[^7] [Lawrence, A. A. (2013). Men trapped in men's bodies: narratives of autogynephilic transsexualism. Springer Science & Business Media.](https://www.goodreads.com/en/book/show/15877470)
+[^7]: [Lawrence, A. A. (2013). Men trapped in men's bodies: narratives of autogynephilic transsexualism. Springer Science & Business Media.](https://www.goodreads.com/en/book/show/15877470)
 
-[^9] [American Psychiatric Association. (2013). Diagnostic and statistical manual of mental disorders (DSM-5®). American Psychiatric Assoc. Pub.](https://dsm.psychiatryonline.org/doi/book/10.1176/appi.books.9780890425596)
+[^9]: [American Psychiatric Association. (2013). Diagnostic and statistical manual of mental disorders (DSM-5®). American Psychiatric Assoc. Pub.](https://dsm.psychiatryonline.org/doi/book/10.1176/appi.books.9780890425596)
 
-[^10] [Drescher, J. (2010). Queer diagnoses: Parallels and contrasts in the history of homosexuality, gender variance, and the Diagnostic and Statistical Manual. Archives of Sexual Behavior, 39(2), 427-460.](https://pubmed.ncbi.nlm.nih.gov/19838785/)
+[^10]: [Drescher, J. (2010). Queer diagnoses: Parallels and contrasts in the history of homosexuality, gender variance, and the Diagnostic and Statistical Manual. Archives of Sexual Behavior, 39(2), 427-460.](https://pubmed.ncbi.nlm.nih.gov/19838785/)
