@@ -8,7 +8,7 @@ permalink: /library/gc-arguments/agp/
 # Autogynephilia (AGP)
 
 ## Summary
-Autogynephilia, a term established by sexologist Ray Blanchard, is a controversial concept often used to pathologize the identities of trans women. The theory essentially categorizes male-to-female (MtF) transsexuals into two distinct groups: homosexual transsexuals and autogynephilic transsexuals, the latter being individuals who are aroused by the thought of themselves as women. This concept has been widely criticized, as it oversimplifies the diverse identities and experiences of trans women and portrays their gender identities as a sexual fetish, undermining their deeply held, authentic identities.
+Autogynephilia, a term established by sexologist Ray Blanchard, is a controversial concept often used to pathologize the identities of trans women. The theory essentially categorizes male-to-female (MtF) transsexuals into two distinct groups: homosexual transsexuals and autogynephilic transsexuals, the latter being individuals who are aroused by the thought of themselves as women. This concept has been widely criticized, as it oversimplifies the diverse identities and experiences of trans women and portrays their gender identities as a sexual fetish, undermining their deeply held, authentic identities. It also has parallels to the earlier idea of 'Narcissistic Homosexuality' from as early as 1898[^11].
 
 The validity of the concept of autogynephilia has been **substantially questioned through empirical evidence**. Several studies have found that the phenomenon described as autogynephilia is not unique to trans women and is also common among cisgender women, debunking the theory of it being a unique characteristic or indicative of trans identities. The concept's reliability and validity have also been questioned, with it **failing to reliably measure what it claims to**. It's evident that the portrayal of trans identities should be approached with respect and sensitivity, recognizing the depth and complexity of individual experiences rather than seeking to oversimplify and pathologize them.
 
@@ -61,3 +61,5 @@ As research continues to evolve, it is becoming increasingly clear that the expe
 [^9]: [American Psychiatric Association. (2013). Diagnostic and statistical manual of mental disorders (DSM-5®). American Psychiatric Assoc. Pub.](https://dsm.psychiatryonline.org/doi/book/10.1176/appi.books.9780890425596)
 
 [^10]: [Drescher, J. (2010). Queer diagnoses: Parallels and contrasts in the history of homosexuality, gender variance, and the Diagnostic and Statistical Manual. Archives of Sexual Behavior, 39(2), 427-460.](https://pubmed.ncbi.nlm.nih.gov/19838785/)
+
+[^11]: [Lunbeck, E. (2012). The Narcissistic Homosexual: Genealogy of a Myth. In: Alexander, S., Taylor, B. (eds) History and Psyche. Palgrave Studies in Cultural and Intellectual History. Palgrave Macmillan, New York.](https://link.springer.com/chapter/10.1057/9781137092427_4)
