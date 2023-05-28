@@ -5,7 +5,7 @@ parent: GC Arguments
 permalink: /library/gc-arguments/womanface/
 ---
 
-# Womanface
+# Claim: Trans women are actors in "womanface"
 
 The following tweet shows an example of this argument in the wild, that implies that trans women are making a
 mockery of women in the same way that the historical practice of blackface portrays racist caricatures of
