@@ -5,7 +5,7 @@ parent: GC Arguments
 permalink: /library/gc-arguments/sex-not-assigned/
 ---
 
-# Sex not being assigned at birth
+# Claim: Sex isn't "assigned at birth"
 
 The argument that sex is not "assigned at birth" is a reaction mainly to the terms *assigned male at birth* and *assigned female at birth*.
 This phrasing makes it clear that sex assigned at birth is a conscious decision based on the classification of a baby into (typically) one
