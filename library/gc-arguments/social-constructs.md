@@ -5,7 +5,7 @@ parent: GC Arguments
 permalink: /library/gc-arguments/social-constructs/
 ---
 
-# Social constructs are meaningless
+# Claim: Social constructs are meaningless or "aren't real"
 
 One persistent assumption that is made in gender-critical arguments is the
 notion that social constructs are meaningless, less important than natural
