@@ -22,4 +22,17 @@ The phrase *assigned sex at birth* is important for the [intersex](/library/defi
 sex is often detrimental to their treatment and wellbeing. Using *assigned sex at birth* is a way to clearly delineate the physical
 reality of sex from the legal and biological construction of binary sex.
 
+Sex being assigned has been officially used nomenclature for over 20 years[^2]
+![image](https://github.com/bethylamine/bethylamine.github.io/assets/130214958/77c2883d-fe34-4dbc-b5b2-70e83f202aac)
+
+Sex designation is typically done by appearance of external genitalia.
+
+![image](https://github.com/bethylamine/bethylamine.github.io/assets/130214958/a70dc0d7-5a25-474a-bdcb-aa2ba1857097)
+
+(designate is a synonym of assign)
+
+![image](https://github.com/bethylamine/bethylamine.github.io/assets/130214958/8e793e48-7ba3-44ca-b0ab-7c256201a226)
+
+
 [^1]: [The Mayo Clinic: Ambiguous genitalia](https://www.mayoclinic.org/diseases-conditions/ambiguous-genitalia/diagnosis-treatment/drc-20369278#:~:text=Determining%20the%20gender&text=In%20some%20cases%2C%20a%20family,can%20be%20difficult%20to%20predict.)
+[^2]: [Greenberg JA. Defining male and female: Intersexuality and the collision between law and biology. Ariz Low Rev 1998;41(2}:265-328. ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=896307) ([PDF](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID896307_code254274.pdf?abstractid=896307&mirid=1))
