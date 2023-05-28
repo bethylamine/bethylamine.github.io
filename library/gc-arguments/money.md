@@ -5,7 +5,7 @@ parent: GC Arguments
 permalink: /library/gc-arguments/money/
 ---
 
-# Claim: Gender was invented by John Money / Alfred Kinsey
+# Claim: "Gender was invented" by John Money / Alfred Kinsey
 
 The argument often goes like this[^1][^2] (and there are many more[^4])
 
