@@ -5,7 +5,7 @@ parent: GC Arguments
 permalink: /library/gc-arguments/rogd/
 ---
 
-# Social Contagion (ROGD)
+# Claim: Being transgender is a social contagion (ROGD)
 
 "Rapid Onset Gender Dysphoria" (ROGD) is the medical-sounding title for the "social contagion" theory of why kids are identifying
 as transgender in larger amounts (although the real reason is an increase in acceptance and visibility) based on one study
