@@ -5,7 +5,7 @@ parent: GC Arguments
 permalink: /library/gc-arguments/agp/
 ---
 
-# Autogynephilia (AGP)
+# Claim: Trans women suffer from "Autogynephilia" (AGP)
 
 ## Summary
 Autogynephilia, a term established by sexologist Ray Blanchard, is a controversial concept often used to pathologize the identities of trans women. The theory essentially categorizes male-to-female (MtF) transsexuals into two distinct groups: homosexual transsexuals and autogynephilic transsexuals, the latter being individuals who are aroused by the thought of themselves as women. This concept has been widely criticized, as it oversimplifies the diverse identities and experiences of trans women and portrays their gender identities as a sexual fetish, undermining their deeply held, authentic identities. It also has parallels to the earlier idea of 'Narcissistic Homosexuality' from as early as 1898[^11].
