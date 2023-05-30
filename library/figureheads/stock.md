@@ -6,3 +6,5 @@ permalink: /library/figureheads/stock
 ---
 
 # Kathleen Stock
+
+https://www.praile.com/post/kathleen-stock-obe
