@@ -28,7 +28,10 @@ Numerous empirical studies have questioned the validity of the concept of autogy
 
 A study by Veale et al. (2008) explored the existence of autogynephilia among cisgender women, questioning whether 'erotic target location errors' were unique to trans women as Blanchard suggested[^4]. The results showed that many cisgender women also experience sexual arousal to the thought or image of themselves as women, demonstrating that this is not a phenomenon unique to trans women, nor necessarily indicative of a paraphilia.
 
-In another study by Moser (2010), 29% of cisgender women met the criteria for autogynephilia, as measured by a modified version of Blanchard's Autogynephilia Scale for Women[^5]. These findings further undermined the theory of autogynephilia as being unique to or indicative of trans identities.
+In another study by Moser (2010), by the common definition of ever having erotic arousal to the thought or image of oneself as a woman, 93% of the
+cisgender women respondents would be classified as autogynephilic. Under the rigorous definition of "frequent" arousal to multiple items, 29% of cisgender
+women met the criteria for autogynephilia[^5]. These findings further undermined the theory of autogynephilia as being unique to or indicative of trans
+identities.
 
 The construct validity and reliability of Blanchard's autogynephilia measures have also been challenged. A study by Nuttbrock et al. (2011) argued that autogynephilia is not a valid construct because it does not reliably measure what it purports to measure[^6].
 
