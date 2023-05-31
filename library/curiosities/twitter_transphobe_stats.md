@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Twitter transphobe stats
+parent: Curiosities
 permalink: /library/whatisawomanbot/twitter_transphobe_stats
 ---
 
