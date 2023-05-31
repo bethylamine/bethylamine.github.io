@@ -60,7 +60,7 @@ or was a retweet.
   * Locations were validated with <https://wiki.openstreetmap.org/wiki/Nominatim>.
   * 22,159 (83.1%) locations were matched to a geographical location. Of these locations,
     * 8466 were in the US (38.2%)
-    * 7830 were in the UK (35.3%)
+    * 7417 were in the UK (33.5%)
   * Using [statistics about the number of Twitter users by country](https://www.oberlo.com/statistics/number-of-twitter-users-by-country),
     we can see that people with a UK location are 3.8x more likely to be reported as a transphobe than people with a US location.
   * Users in the UK made up 56,421,466 tweets (18.4%)
