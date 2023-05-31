@@ -8,43 +8,26 @@ permalink: /library/browser-extension/
 # Soupcan
 {: .no_toc }
 
-<video onloadstart="this.volume=0.25" controls>
-  <source src="https://github.com/bethylamine/bethylamine.github.io/assets/130214958/3edb3495-201a-4d1d-9875-fc7b814eeaa5" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+Soupcan is a browser extension that brings together many trans-supportive features into one package for Twitter.
+For example, it highlights transphobic users in red and takes reports from the community to keep this list updated
+and accurate. It allows you to hide or mask content from transphobes. In the future I plan to make features such
+as auto-blocking transphobes, auto-suggesting sources to reply with trans-supportive content, and anything else
+you might suggest!
 
-Soupcan is a browser extension that takes features built up by WhatIsAWomanBot and packages them into your browser.
-It's currently in development, but you can start using it whenever you like by installing it from the [github repository](https://github.com/bethylamine/soupcan).
+You can download it right now on the Chrome Web Store or at Firefox Add-ons:
 
-## Screenshots
+> [![image](https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/mPGKYBIR2uCP0ApchDXE.png)](https://chrome.google.com/webstore/detail/soupcan/hcneafegcikghlbibfmlgadahjfckonj)
 
-![image](https://user-images.githubusercontent.com/130214958/235580658-c1696d16-0eec-4ca8-a4ea-0fb82d7b7165.png)
+> [![image](https://blog.mozilla.org/addons/files/2015/11/get-the-addon.png)](https://addons.mozilla.org/en-US/firefox/addon/soupcan/)
 
-![image](https://user-images.githubusercontent.com/130214958/235580701-00852e39-ac34-4a13-889a-0059270a8758.png)
-
-![image](https://user-images.githubusercontent.com/130214958/235580759-5d26fdb2-85ff-4ab0-8aa6-ece3f8d7465b.png)
-
-![image](https://user-images.githubusercontent.com/130214958/235580799-c3f6fd4d-c2ee-49dc-945a-0083fb491148.png)
-
-## Installation instructions
-### Chrome / Edge / Opera / Arc / other Chromium-based browsers
-[![image](https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/mPGKYBIR2uCP0ApchDXE.png)](https://chrome.google.com/webstore/detail/soupcan/hcneafegcikghlbibfmlgadahjfckonj)
-
-### Firefox
-[![image](https://blog.mozilla.org/addons/files/2015/11/get-the-addon.png)](https://addons.mozilla.org/en-US/firefox/addon/soupcan/)
-
-### From source
-For the latest version, as it's updated frequently, use the following method:
-
-Please follow the readme in the [github repository](https://github.com/bethylamine/soupcan). The extension is still in beta
-and is not on any Extension store yet. Once you install it, you'll be greeted with a setup page. There are two steps in the
-setup. First: sign in with Twitter. Second: download the database. The setup page will guide you through both.
+It's still a work in progress so there may be some hitches. Reach out to me on Twitter if you have any issues, I'll
+be happy to help you out.
 
 ## Guide
 
 1. How do I report a user as a transphobe?
   Just right click on their username or name and choose Report transphobe from the Soupcan menu.
-  ![image](https://user-images.githubusercontent.com/130214958/235623288-86e4bf34-ebb1-4f1f-9637-20c6237eb96b.png)
+  > ![image](https://user-images.githubusercontent.com/130214958/235623288-86e4bf34-ebb1-4f1f-9637-20c6237eb96b.png)
 2. How do I report someone who was unfairly marked?
   The same as above but instead click "Appeal".
 
@@ -60,11 +43,11 @@ Right now, it shows trans-antagonistic Twitter accounts with red highlight. You 
 and they will show up orange in your browser until the reports are approved and then it will show up red. You can also appeal
 falsely-flagged accounts with the "Appeal" feature. You can access options via the extension icon > Options e.g.
 
-![image](https://user-images.githubusercontent.com/130214958/235313180-bdbf0f82-3b59-4d1f-891a-911de3adb292.png)
+> ![image](https://user-images.githubusercontent.com/130214958/235313180-bdbf0f82-3b59-4d1f-891a-911de3adb292.png)
 
-And right now there is just one option, to mask media coming from transphobic accounts:
+There are a few options right now:
 
-![image](https://user-images.githubusercontent.com/130214958/235313206-f4c82a06-3c7c-4bc0-a853-d2c3c18f926c.png)
+> ![image](https://github.com/bethylamine/bethylamine.github.io/assets/130214958/283a74ed-c3e9-4e77-8a7c-1475a3442da5)
 
 Soon, other features will be rolled in to improve QoL and to offer more trans-supportive features. Check out the github project
 [here](https://github.com/bethylamine/soupcan).
