@@ -64,4 +64,12 @@ Soon, other features will be rolled in to improve QoL and to offer more trans-su
 * **Marked via GPT**[^1] -- Tweets relating to gender or trans issues were deemed transphobic by ChatGPT
 * **Marked via TransphobeB**[^1] -- User existed on the @TransphobeB blocklist (This reason is the most likely to be false positive.)
 
+## Why the name 'Soupcan'?
+It's a reference to [SOPHIE - VYZZE](https://www.youtube.com/watch?v=RBGYQnjxMmI) the lyrics go "Make it pop red and white, tomato soup can"
+
+<video onloadstart="this.volume=0.25" controls>
+  <source src="https://github.com/bethylamine/bethylamine.github.io/assets/130214958/3edb3495-201a-4d1d-9875-fc7b814eeaa5" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 [^1]: Automatically labelled
