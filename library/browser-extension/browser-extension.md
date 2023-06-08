@@ -14,16 +14,14 @@ and accurate. It allows you to hide or mask content from transphobes. In the fut
 as auto-blocking transphobes, auto-suggesting sources to reply with trans-supportive content, and anything else
 you might suggest!
 
-You can download it right now on the Chrome Web Store or at Firefox Add-ons:
+## Install
 
-> [![image](https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/mPGKYBIR2uCP0ApchDXE.png)](https://chrome.google.com/webstore/detail/soupcan/hcneafegcikghlbibfmlgadahjfckonj)
-
-> [![image](https://blog.mozilla.org/addons/files/2015/11/get-the-addon.png)](https://addons.mozilla.org/en-US/firefox/addon/soupcan/)
-
-It's still a work in progress so there may be some hitches. Reach out to me on Twitter if you have any issues, I'll
-be happy to help you out.
+[![Available from Chrome Webstore](https://github.com/bethylamine/soupcan/blob/main/chrome.png)](https://chrome.google.com/webstore/detail/soupcan/hcneafegcikghlbibfmlgadahjfckonj)
+[![Available from Firefox Add-ons](https://github.com/bethylamine/soupcan/blob/main/firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/soupcan/)
 
 ## Guide
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jIz15cWBDpQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 1. How do I report a user as a transphobe?
   Just right click on their username or name and choose Report transphobe from the Soupcan menu.
@@ -45,9 +43,7 @@ falsely-flagged accounts with the "Appeal" feature. You can access options via t
 
 > ![image](https://user-images.githubusercontent.com/130214958/235313180-bdbf0f82-3b59-4d1f-891a-911de3adb292.png)
 
-There are a few options right now:
-
-> ![image](https://github.com/bethylamine/bethylamine.github.io/assets/130214958/283a74ed-c3e9-4e77-8a7c-1475a3442da5)
+There are a few [options](https://github.com/bethylamine/bethylamine.github.io/assets/130214958/1ca7f596-c41f-40bc-895e-b77464bf7c28) right now.
 
 Soon, other features will be rolled in to improve QoL and to offer more trans-supportive features. Check out the github project
 [here](https://github.com/bethylamine/soupcan).
