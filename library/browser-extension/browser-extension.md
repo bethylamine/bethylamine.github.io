@@ -58,6 +58,7 @@ Soon, other features will be rolled in to improve QoL and to offer more trans-su
 * **Reported by extension creator** -- Marked manually by @bethylamine
 * **Reported by moderation team** -- Marked manually by a community moderator
 * **Reported by \<X\> users** -- Got enough reports to be marked red by community, from X number of users
+* **Marked by mark/markme** -- Manually marked using @WhatIsAWomanBot's `mark` (by Beth) or `markme` (by themselves) commands.
 * **Marked via content \[\<X\>\]**[^1] -- Transphobic content found in their name, bio and/or tweets, with a score of X
 * **Marked by hashtag usage**[^1] -- Used transphobic hashtag (in sincerity) in a tweet that got some traction
 * **Marked by likes**[^1] -- Had a like pattern of transphobic tweets
