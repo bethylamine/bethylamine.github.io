@@ -54,7 +54,7 @@ Soon, other features will be rolled in to improve QoL and to offer more trans-su
 
 ## Mark reasons
 
-* **Manually marked** -- Marked in Shinigami Eyes (n.b. not all users marked by Shinigami Eyes are in the database)
+* **Marked in Shinigami Eyes** -- Marked in [Shinigami Eyes](https://shinigami-eyes.github.io/) (n.b. not all users marked by Shinigami Eyes are in Soupcan)
 * **Reported by extension creator** -- Marked manually by @bethylamine
 * **Reported by moderation team** -- Marked manually by a community moderator
 * **Reported by \<X\> users** -- Got enough reports to be marked red by community, from X number of users
