@@ -16,8 +16,8 @@ you might suggest!
 
 ## Install
 
-[![Available from Chrome Webstore](https://github.com/bethylamine/soupcan/blob/main/chrome.png)](https://chrome.google.com/webstore/detail/soupcan/hcneafegcikghlbibfmlgadahjfckonj)
-[![Available from Firefox Add-ons](https://github.com/bethylamine/soupcan/blob/main/firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/soupcan/)
+[![Available from Chrome Webstore](https://github.com/bethylamine/soupcan/blob/main/chrome.png?raw=true)](https://chrome.google.com/webstore/detail/soupcan/hcneafegcikghlbibfmlgadahjfckonj)
+[![Available from Firefox Add-ons](https://github.com/bethylamine/soupcan/blob/main/firefox.png?raw=true)](https://addons.mozilla.org/en-US/firefox/addon/soupcan/)
 
 ## Guide
 
