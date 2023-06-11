@@ -46,7 +46,7 @@ is an issue or you feel like you've been falsely marked please DM me on Twitter 
 7. Database updates frequently and automatically without needing to update the extension
 8. Bonus features: Hiding ads, preventing Zalgo text
 9. And more to come!
-10. 
+
 Soon, other features will be rolled in to improve QoL and to offer more trans-supportive features. Check out the github project
 [here](https://github.com/bethylamine/soupcan).
 
