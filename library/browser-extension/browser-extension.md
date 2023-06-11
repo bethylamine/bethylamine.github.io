@@ -37,14 +37,16 @@ is an issue or you feel like you've been falsely marked please DM me on Twitter 
 
 ## Features
 
-Right now, it shows trans-antagonistic Twitter accounts with red highlight. You can also send in reports of other accounts
-and they will show up orange in your browser until the reports are approved and then it will show up red. You can also appeal
-falsely-flagged accounts with the "Appeal" feature. You can access options via the extension icon > Options e.g.
-
-> ![image](https://user-images.githubusercontent.com/130214958/235313180-bdbf0f82-3b59-4d1f-891a-911de3adb292.png)
-
-There are a few [options](https://github.com/bethylamine/bethylamine.github.io/assets/130214958/1ca7f596-c41f-40bc-895e-b77464bf7c28) right now.
-
+1. Shows transphobic usernames in red, and on what grounds they got marked red on their profile.
+2. Reports are logged and saved including reasoning so it can be reviewed at a later date.
+3. Trust-based reporting system means that the reporting is community-driven and transparent, not only relying on the creator's decisions.
+4. Login with Twitter is required, to help prevent abuse and to also add accountability.
+5. Ability to mask out content by known transphobes
+6. Ability to do content-matching on images, gifs and videos to hide sensitive content (if posted by anyone)
+7. Database updates frequently and automatically without needing to update the extension
+8. Bonus features: Hiding ads, preventing Zalgo text
+9. And more to come!
+10. 
 Soon, other features will be rolled in to improve QoL and to offer more trans-supportive features. Check out the github project
 [here](https://github.com/bethylamine/soupcan).
 
