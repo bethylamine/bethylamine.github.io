@@ -44,6 +44,9 @@ you might suggest!
 Soon, other features will be rolled in to improve QoL and to offer more trans-supportive features. Check out the github project
 [here](https://github.com/bethylamine/soupcan).
 
+## Bugs and suggestions
+See the [Github issue section](https://github.com/bethylamine/soupcan/issues) for all reported issues and suggested enhancements.
+
 ## Rules for use
 Please see the [Terms of Service](https://bethylamine.github.io/library/browser-extension/tos)
 
