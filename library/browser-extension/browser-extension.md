@@ -55,7 +55,8 @@ is an issue or you feel like you've been falsely marked please DM me on Twitter 
 
 ## Mark reasons
 
-* **Marked in Shinigami Eyes** -- Marked in [Shinigami Eyes](https://shinigami-eyes.github.io/) (n.b. not all users marked by Shinigami Eyes are in Soupcan)
+* **Marked in Shinigami Eyes** -- Was added manually to Soupcan from [Shinigami Eyes](https://shinigami-eyes.github.io/)
+* **Detected by Shinigami Eyes** -- [Shinigami Eyes](https://shinigami-eyes.github.io/) running within Soupcan detected a user that wasn't in Soupcan
 * **Reported by extension creator** -- Marked manually by @bethylamine
 * **Reported by moderation team** -- Marked manually by a community moderator
 * **Reported by \<X\> users** -- Got enough reports to be marked red by community, from X number of users
