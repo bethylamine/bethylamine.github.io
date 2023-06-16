@@ -11,7 +11,7 @@ search_exclude: true
 
 You failed to authenticate with Twitter and therefore cannot use the extension at this time. This may be due to a number of factors:
 
-* Your Twitter account is too new (Must be at least 3 months old)
+* Your Twitter account is too new (Must be at least 4 weeks old)
 * The Twitter login process failed
 * You have been blocklisted from using this extension
 * Maybe a bug in the code!
