@@ -11,10 +11,10 @@ search_exclude: true
 
 You've successfully authenticated with Twitter and can now return to the browser extension setup to complete the process.
 
-You can close this tab now.
+You can close this window now.
 
 <html>
   <script>
-    alert("Test");
+    window.close();
   </script>
 </html>
