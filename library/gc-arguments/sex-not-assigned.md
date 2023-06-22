@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sex not being assigned at birth
+title: "Sex isn't assigned at birth"
 parent: GC Arguments
 permalink: /library/gc-arguments/sex-not-assigned/
 ---
