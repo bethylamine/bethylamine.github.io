@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sex is binary
+title: "Sex is binary"
 parent: GC Arguments
 permalink: /library/gc-arguments/sex-is-binary/
 ---
