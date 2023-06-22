@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Womens' rights and trans rights clash
+title: "Womens' rights and trans rights clash"
 parent: GC Arguments
 permalink: /library/gc-arguments/clash-of-rights/
 ---
