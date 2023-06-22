@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Phobia implies fear
+title: "Phobia implies fear"
 parent: GC Arguments
 permalink: /library/gc-arguments/phobia/
 ---
