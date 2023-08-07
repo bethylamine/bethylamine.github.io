@@ -18,6 +18,7 @@ you might suggest!
 
 [![Available from Chrome Webstore](https://github.com/bethylamine/soupcan/blob/main/chrome.png?raw=true)](https://chrome.google.com/webstore/detail/soupcan/hcneafegcikghlbibfmlgadahjfckonj)
 [![Available from Firefox Add-ons](https://github.com/bethylamine/soupcan/blob/main/firefox.png?raw=true)](https://addons.mozilla.org/en-US/firefox/addon/soupcan/)
+[<img src="https://github.com/bethylamine/soupcan/blob/main/safari.svg?raw=true" height="58" alt="Available on the Apple App Store for Safari"/>](https://apps.apple.com/au/app/soupcan/id6450102617)
 
 ## How does it work? Guide to installing & usage
 
