@@ -39,8 +39,9 @@ Here's my summary. Sources are more thoroughly listed below the TL/DR section, d
 word for it. I encourage you to see and make up your mind for yourself, and I have linked both sides of this controversy where applicable.
 I am not trying to convince anyone of anything but just presenting what I've found (which will, of course, include my own biases, I'm not saying it doesn't.)
 
-* Benjanun is a Thai multi-millionaire (heiress to a hotel empire) cis lesbian science fiction writer and serial abuser who uses social justice language to strongarm people into shutting up,
+* Benjanun is a Thai cis lesbian science fiction writer and serial abuser who uses social justice language to strongarm people into shutting up,
   accusing them of being racist, sexist, homophobic, etc., when she is not allowed to abuse people recklessly, in some cases for her own career gain.
+* It has been reported, but not directly confirmed, that she is a wealthy heiress to a hotel empire.
 * She treats many trans masc people with derision.
 * Any attempt to call this out is branded "transmisogynistic", in the same way GCs brand trans activism as "anti-woman", regardless
   of what your beliefs actually are. They see anyone who calls them out as siding with their enemy.
@@ -210,7 +211,7 @@ On the other side, there are defenses for Benjanun which I will also source/revi
 * She is a cis[^21] lesbian[^22] Thai-Chinese science fiction / fantasy (SFF) writer[^11]. 
 * She has been known under the aliases Winterfox[^3][^20], Requires Only That You Hate (ROTYH)/Requires Hate (RH)[^3][^20][^28][^34], acrackedmoon[^1][^20][^34], pyrofennec[^1][^16][^20][^34], Valse de Lune[^20][^34], Lesifoere[^17][^20], and Maria Ying[^9] (as a joint pseudonum with Devi Lacroix.)
 * "Benjanun Sriduangkaew" is likely another constructed identity.[^1][^17]
-* She was revealed to be a multi-millionaire heiress of a hotel empire.[^17][^13][^14]
+* She was reported to be a multi-millionaire heiress of a hotel empire.[^17][^13][^14]
 * Since at least 2009[^46], she has been infamous for:
   * castigating any dissenters with accusations of bigotry[^5] 
   * directing threats of rape and assault at various people, particularly women, *especially* queer women and women of color[^20]
