@@ -299,7 +299,6 @@ and endorsement by BS:
 
 **Other cases of transphobia**
 
-* There are multiple cases of accounts Benjanun follows[^57] that use 'troon' and variants unironically.[^55][^56]
 * "XX behavior"[^59]
 
 ## Attacks and impacts
