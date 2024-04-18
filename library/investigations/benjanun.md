@@ -65,7 +65,7 @@ I am not trying to convince anyone of anything but just presenting what I've fou
 * Benjanun and followers claim any and all criticism to be "an organized hate campaign". I had no idea who she was until
   I started looking into it and writing this.
 * There are definitely similarities between what happens surrounding Benjanun on Twitter that feels very familiar to GC
-  brigading and TERF tribalism- lovebombing, sealioning, incredible bad faith in service of optics, degrading and abusive
+  brigading and TERF in-grouping- lovebombing, sealioning, incredible bad faith in service of optics, degrading and abusive
   rhetoric, and I understand why, despite obstensibly supporting trans women, her attitudes outside of what she deems
   worthy is very TERFy.
 * Her followers will accuse you of lying or being bad faith, and block you when you present any form of evidence[^43] (while 
