@@ -44,7 +44,6 @@ I am not trying to convince anyone of anything but just presenting what I've fou
 * She treats many trans masc people with derision.
 * Any attempt to call this out is branded "transmisogynistic", in the same way GCs brand trans activism as "anti-woman", regardless
   of what your beliefs actually are. They see anyone who calls them out as siding with their enemy.
-* She is at the center of a cult of personality, which you can see in how her followers defer to her, but she defers to no-one.
 * This has been going on since before 2012, and despite apologies, this pattern of behavior persists.
 * Most of the controversy that is documented about Benjanun is in the 2014-2017 year range, regarding her effect on the SFF
   community. Most of this is in the past, and I don't feel the need to re-litigate the past when there is enough happening
@@ -280,6 +279,10 @@ Her, and many of her followers, reduce intersectionality (in this case, where ex
 * [Example 1](../assets/img/benjanun-report/misandry-1.png)
 
 ### Usage of anti-trans masc pejoratives / slurs
+
+These examples are from people in the community and not from BS herself. They are included here
+to show the kind of transphobia that exists where she goes. She is not responsible
+for what other people say. 
 
 **"Zippertits"**
 
