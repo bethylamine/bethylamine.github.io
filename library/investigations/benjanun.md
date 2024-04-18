@@ -40,7 +40,7 @@ word for it. I encourage you to see and make up your mind for yourself, and I ha
 I am not trying to convince anyone of anything but just presenting what I've found (which will, of course, include my own biases, I'm not saying it doesn't.)
 
 * Benjanun is a Thai multi-millionaire (heiress to a hotel empire) cis lesbian science fiction writer and serial abuser who uses social justice language to strongarm people into shutting up,
-  accusing them of being racist, sexist, homophobic, etc., when she is not allowed to abuse people recklessly, for her own career gain.
+  accusing them of being racist, sexist, homophobic, etc., when she is not allowed to abuse people recklessly, in some cases for her own career gain.
 * She treats many trans masc people with derision.
 * Any attempt to call this out is branded "transmisogynistic", in the same way GCs brand trans activism as "anti-woman", regardless
   of what your beliefs actually are. They see anyone who calls them out as siding with their enemy.
