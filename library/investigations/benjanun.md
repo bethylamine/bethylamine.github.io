@@ -293,7 +293,7 @@ used to evoke mutilation and disgust. Examples of transphobes using this include
 and endorsement by BS:
 * [Example 1](../assets/img/benjanun-report/bb-u14.png)[^54]
 
-**Other cases of transphobic**
+**Other cases of transphobia**
 
 * There are multiple cases of accounts Benjanun follows[^57] that use 'troon' and variants unironically.[^55][^56]
 * "XX behavior"[^59]
