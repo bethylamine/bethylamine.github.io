@@ -184,8 +184,7 @@ found existing commentary that I will source:
 10. [On the record: an archive of harm done by one individual under many names](https://feralsapient.com/?p=889), Laura J. Mixon, 2021[^12]
 11. [Winterfox/Benjanun Sriduangkaew is back](https://rachelmanija.dreamwidth.org/2679613.html), 2023[^7]
 12. [PSA: Winterfox/Requires Hate/Benjanun Sriduangkaew/Maria Ying](https://egelantier.tumblr.com/post/728186227212353536/psa-winterfoxrequires-hatebenjanun), 2023[^8]
-13. [Requires Hate revealed: Benjanun Sriduangkaew's true identity and her extremely privileged extended family](https://winterfraud.wordpress.com/2015/07/05/requires-hate-revealed/)[^17]
-14. [The Daily Dot: Acclaimed sci-fi writer exposed as notorious Internet troll](https://www.dailydot.com/parsec/benjanun-sriduangkaew-revealed-to-be-troll-requires-hate-winterfox/), Aja Romano, 2014[^32]
+13. [The Daily Dot: Acclaimed sci-fi writer exposed as notorious Internet troll](https://www.dailydot.com/parsec/benjanun-sriduangkaew-revealed-to-be-troll-requires-hate-winterfox/), Aja Romano, 2014[^32]
 
 > Friends of Winterfox (Benjanun) showed up to explain why rape threats aren't really threats, why women of color
 > being threatened with rape is okay as long as it's another woman of color doing it, and that the correct response
@@ -211,7 +210,7 @@ On the other side, there are defenses for Benjanun which I will also source/revi
 * She is a cis[^21] lesbian[^22] Thai-Chinese science fiction / fantasy (SFF) writer[^11]. 
 * She has been known under the aliases Winterfox[^3][^20], Requires Only That You Hate (ROTYH)/Requires Hate (RH)[^3][^20][^28][^34], acrackedmoon[^1][^20][^34], pyrofennec[^1][^16][^20][^34], Valse de Lune[^20][^34], Lesifoere[^17][^20], and Maria Ying[^9] (as a joint pseudonum with Devi Lacroix.)
 * "Benjanun Sriduangkaew" is likely another constructed identity.[^1][^17]
-* She was reported to be a multi-millionaire heiress of a hotel empire.[^17][^13][^14]
+* She was reported to be a multi-millionaire heiress of a hotel empire, based on a supposed dox of her real name.[^17][^13][^14]
 * Since at least 2009[^46], she has been infamous for:
   * castigating any dissenters with accusations of bigotry[^5] 
   * directing threats of rape and assault at various people, particularly women, *especially* queer women and women of color[^20]
