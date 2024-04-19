@@ -8,7 +8,7 @@ permalink: /library/investigations/benjanun
 # About Benjanun Sriduangkaew.
 
 Originally written 4/11/2024
-Updated 4/17/2024
+Updated 4/19/2024
 
 ![Benjanun's Twitter profile](../assets/img/benjanun-report/benjanun.png)
 
@@ -236,16 +236,17 @@ It's a reference to [this tweet](../assets/img/benjanun-report/birthday-boy.png)
 who'd taunt every jacked, 6'3 bro he men until they'd pull their fist back to beat him up, whereupon [he] would go "heyheyheyyy
 c'maahn I'm a little guy, I'm just a little guyy, no, it's also my birthday, I'm a little birthday boyy" and it somehow
 always worked" and has stuck as a pejorative for a kind of trans man they are against. The term has been around since at
-least August 2023[^58].
+least August 2023[^58]. Bee herself admits that it's used "as mean words" (example 3) comparing it to "asshole", except
+"asshole" isn't tied heavily to a minority group.
 
 BS (and friends) have made many snide remarks about how "birthday boy" cannot be harmful, because it's merely a funny little joke.
-* [Example 1](../assets/img/benjanun-report/bb-1.png)
-* [Example 2](../assets/img/benjanun-report/bb-2.png)
-* [Example 3](../assets/img/benjanun-report/bb-3.png)
-* [Example 4](../assets/img/benjanun-report/bb-4.png)
-* [Example 5](../assets/img/benjanun-report/bb-5.png)
-* [Example 6](../assets/img/benjanun-report/bb-6.png)
-* [Example 7](../assets/img/benjanun-report/bb-7.png)
+* [Example 1](../assets/img/benjanun-report/bb-1.png) "birthday boy got this person to cry-type [...] WAH WAH WAH"
+* [Example 2](../assets/img/benjanun-report/bb-2.png) "that deadliest of slurs, a birthday boy."
+* [Example 3](../assets/img/benjanun-report/bb-3.png) "when people use mean words like 'assholes' and 'birthday boy' (wow scary slur! totally a real slur!)"
+* [Example 4](../assets/img/benjanun-report/bb-4.png) "their mod team agrees that 'birthday boy' is a slur"
+* [Example 5](../assets/img/benjanun-report/bb-5.png) "'birthday boy' is white supremacist apparently"
+* [Example 6](../assets/img/benjanun-report/bb-6.png) "the deadly slur... birthday boy."
+* [Example 7](../assets/img/benjanun-report/bb-7.png) "Birthday boy is a meme [...] the idea of 'birthday boy' being a slur is pretty laughable."
 
 *She has always been like this.* 10 years ago, when told "It's a personal insult to call the author a 'stupid fuck'",
 her response was "oh no, not personal insults to persons not present. what horror, paging Internet Nannies." as well as
@@ -260,18 +261,17 @@ their 'inherent privilege' ([example](../assets/img/benjanun-report/bb-misandry.
 Despite the surface reading of "birthday boy" to mean a particular type of behavior, it's usage shows that it paints a
 broad brush over communities of people, in usages such as "bday boy central", "birthday brigade", or 'birthday twitter'
 
-Examples of using variants of "birthday boy" to deride and other:
-* [Example 1](../assets/img/benjanun-report/bb-u1.png)
-* [Example 2](../assets/img/benjanun-report/bb-u2.png)
-* [Example 3](../assets/img/benjanun-report/bb-u3.png)
-* [Example 4](../assets/img/benjanun-report/bb-u6.png)
-* [Example 5](../assets/img/benjanun-report/bb-u7.png)
-* [Example 6](../assets/img/benjanun-report/bb-u8.png)
-* [Example 7](../assets/img/benjanun-report/bb-u9.png)
-* [Example 8](../assets/img/benjanun-report/bb-u10.png)
-* [Example 9](../assets/img/benjanun-report/bb-u11.png)
-* [Example 10](../assets/img/benjanun-report/bb-u12.png)
-* [Example 11](../assets/img/benjanun-report/bb-u13.png)
+Examples of using variants of "birthday boy" as a reference to a broad group of people, and prejudicial usages:
+* [Example 1](../assets/img/benjanun-report/bb-u1.png) "Bday boy central I fear"
+* [Example 2](../assets/img/benjanun-report/bb-u2.png) "Birthday brigade out in full force"
+* [Example 3](../assets/img/benjanun-report/bb-u3.png) "The birthday brigade had to switch to vanilla misogyny for a pace change"
+* [Example 4](../assets/img/benjanun-report/bb-u6.png) "The **birthday freaks** are pretty much deluded / sounds like a birthday boy problem to me"
+* [Example 5](../assets/img/benjanun-report/bb-u7.png) "I happily have moral high ground over this **pathetic birthday pig**"
+* [Example 6](../assets/img/benjanun-report/bb-u8.png) "Average **birthday freak**."
+* [Example 7](../assets/img/benjanun-report/bb-u9.png) "this accurate summarizes the **birthday pigs**"
+* [Example 8](../assets/img/benjanun-report/bb-u10.png) "that account's a **birthday pig**, so / Naturally"
+* [Example 9](../assets/img/benjanun-report/bb-u11.png) "that **birthday maggot**"
+* [Example 10](../assets/img/benjanun-report/bb-u13.png) "birthday twitter"
 * and more, but I got bored finding examples, given that this was just the *last month*
 
 It's also just used as a general pejorative ([ex. 1](../assets/img/benjanun-report/bb-u4.png) and [ex. 2](../assets/img/benjanun-report/bb-u5.png).)
@@ -288,18 +288,18 @@ for what other people say.
 **"Zippertits"**
 
 A pejorative that transphobes use to describe trans men, in reference to top surgery scars; a graphic description of post-surgical scarring
-used to evoke mutilation and disgust. Examples of transphobes using this include:
+used to evoke mutilation and disgust. Examples of (random) transphobes using this include:
 
 * [Example 1](https://x.com/AthrexEntity/status/1780179067372794278)[^51]
 * [Example 2](https://x.com/MalokK97861047/status/1780565871724753155)[^52]
 * [Example 3](https://x.com/challah_bread_/status/1780043715274293433)[^53]
 
-and endorsement by BS:
+and endorsement by BS, which was liked and apparently subsequently removed (as she is known to do when caught out):
 * [Example 1](../assets/img/benjanun-report/bb-u14.png)[^54]
 
 **Other cases of transphobia**
 
-* "XX behavior"[^59]
+* "XX behavior"[^59] - "making the [r/egg_irl] bot use [assumes viewer is X content warning] has to be the most XX behavior i've ever seen"
 
 ## Attacks and impacts
 
@@ -311,9 +311,9 @@ they don't identify their race, they're accused of "white women's tears" (She sa
 If they're a POC, they aren't racially 'pure' enough. Many of the given evidences are anecdotal, but there are
 a significant and independent swathe of stories. Here are some recent examples.
 
-* [Example 1a](../assets/img/benjanun-report/racism-1.png) / [Example 1b](../assets/img/benjanun-report/racism-2.png)
-* [Example 2](../assets/img/benjanun-report/misogyny-1.png)
-* [Example 3](../assets/img/benjanun-report/misogyny-2.png)
+* [Example 1a](../assets/img/benjanun-report/racism-1.png) / [Example 1b](../assets/img/benjanun-report/racism-2.png) - "Mangling my name [is] disgustingly racist, especially when you're this white" / "calling me Benji [is intentionally racist, masculinizing and referring to me with the name you'd give a dog] and [they] have a long colonialist history"
+* [Example 2](../assets/img/benjanun-report/misogyny-1.png) - "caping for a white person because [they're a] fellow misogynist"
+* [Example 3](../assets/img/benjanun-report/misogyny-2.png) - "[you're] blaming women for the actions of an abusive patriarch wannabe. [you enjoy] being a misogynist"
 
 1. BS will pursue someone to target (often someone who speaks ill of her or her behavior)
 2. She will post bitter and abusive posts, death threats.
