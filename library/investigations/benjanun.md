@@ -228,14 +228,17 @@ and yet this is the behavior they engage in all too often.
 * [Example 3](../assets/img/benjanun-report/misogyny-2.png) - "[you're] blaming women for the actions of an abusive patriarch wannabe. [you enjoy] being a misogynist"
 
 **Examples of context collapse**
+
 * Example 1. BS says "[here are] Beth's examples of hateful behavior that came her way"[^52] showing fairly tame examples
   from the list, only. She skips over "guess this person deserves to die", "cry me a fucking river", "do your fuckin job",
   "your tool is poison", "fuck you", etc. She copied the text around it, and removed what was highlighted in pink.
+
   ![Context](../assets/img/benjanun-report/new/context.png)
 * No, those examples she presented are not in and of themselves the worst harassment. It's the collection as a whole that
   is the harassment, and she knows this.
 
 **Ship of Theseus arguments**
+
 They repeat things over and over until it becomes 'true', and when other people question where they're getting
 that information from, or what the evidence is, they often just deflect or block ([example](../assets/img/benjanun-report/beth_response_to_being_blocked.png)).
 
@@ -278,7 +281,7 @@ see other transfem allies going to the same lengths to "defend" them (by harassi
 
 Much of this is in the past, but I'm keeping it here because BS defenders will still use these docs as a shield.
 
-* "the real fuel for Mixon�s blog post is the ire of a group of white women who were enraged"[^11] / "relying on the words of powerful white people"[^6] / "this is about silencing and isolating Bee as punishment for calling out white women on racism"[^11]
+* "the real fuel for Mixon's blog post is the ire of a group of white women who were enraged"[^11] / "relying on the words of powerful white people"[^6] / "this is about silencing and isolating Bee as punishment for calling out white women on racism"[^11]
   * Attributing malice and motive does not preclude the ability for us to see what was said.
   * I'm not going to argue this one way or the other, but given BS' history of wielding accusations of racism as a silencing tactic,
     and the fact that many affected were not white, I don't give this argument much credit.
@@ -356,7 +359,7 @@ Much of this is in the past, but I'm keeping it here because BS defenders will s
 * "Mixon's report was motivated by loathing"[^6]
   * Whether or not this is true has no bearing on the evidence provided.
 * "BS's reports were not attacks, but rather just negative reviews"[^6]
-  * [Example 1](../assets/img/benjanun-report/nuke.png). �douard argues that this is a "thinking woman's 'nuke it from orbit'", which is
+  * [Example 1](../assets/img/benjanun-report/nuke.png). Edouard argues that this is a "thinking woman's 'nuke it from orbit'", which is
     *amazingly* incredulous. This is a snarky and over-the-top teardown, making accusations of internalized misogyny,
     internalized racism, creepy romance, a fleshed out rapist character, bad writing, and dubious gender politics. It is
     *not* a considered or measured response. It is not even a review. It very explicitly calls for (metaphorically) a
@@ -367,21 +370,21 @@ Much of this is in the past, but I'm keeping it here because BS defenders will s
 * "We are left to conclude that to Mixon, critiquing racism in a piece of fiction in a way that cannot be refuted,
   worse, that the author can appreciate the truth of the criticism, and strive to improve her work in the future
   in order to better represent characters of color in her works, is wrong. Frankly, that explanation is not really
-  satisfying and I think it�s false."
+  satisfying and I think it's false."
   * That the author decided to see a silver lining and take feedback does not mean there wasn't an attack.
-    * "Are you an amoeba? [...] It's a regurgitation done without skill, with an extra does of racism" is what author �douard
-      is defending. His words are, "I file this case as not an �attack�."
+    * "Are you an amoeba? [...] It's a regurgitation done without skill, with an extra does of racism" is what author Edouard
+      is defending. His words are, "I file this case as not an 'attack'."
 * "This type of biased perception of what is acceptable behaviour, i.e. that strongly worded criticism of racism and colonialism
   is somehow worse than the racism and colonialism expressed in the first place, is common among my people"
   * I don't believe there is evidence to support this claim. Firstly, "strongly worded" underplays BS's invective.
     Secondly, I don't think anyone had a problem with suggestions of checking for potential bigotry, but rather the
     shutting-down and chilling effect that BS's words had.
-  * �douard writes this off as "RH acting as an activist to improve the representation of PoC in SFF", conflating what is
+  * Edouard writes this off as "RH acting as an activist to improve the representation of PoC in SFF", conflating what is
     uncontroversially good (diversity) with what is being pushed back on (abusive rhetoric.)
   * However, there does appear to be a line, where "exaggerating for rhetorical effect, and interpreting these statements as
     literal death threats is stupid and disingenuous" is crossed for the author, and he does concede that "RH is then guilty of
     using hyper violent language for rhetorical effect on her personal blog and quite possibly twitter in order to illustrate
-    to level to which she found Bacigalupi�s book offensive. [This is] objectionable conduct."
+    to level to which she found Bacigalupi's book offensive. [This is] objectionable conduct."
 * "Here is how I interpret things so far. RH reads a book and is offended by some of the content. She writes a review using, for her, rather mild language."[^6]
   * BS herself admits that it is not her intention but the effect that matters, and has said it was "inexcusable"[^13].
 * "Mixon is targeting RH."[^6]
@@ -391,8 +394,8 @@ Much of this is in the past, but I'm keeping it here because BS defenders will s
     sizeable cast of followers who respond to her calls to help launch attacks".
     * This is not a fair comparison, as Mixon is not asking anyone to defend her or attack RH, but rather draw more attention to her
       expose.
-  * The author continues to make comparisons to liken Mixon's actions to RH's actions: "Apparently, it�s not what RH was allegedly doing that what wrong,
-    because Mixon and her associtates[sic] are involved in the exact same behaviours. It�s who she was."
+  * The author continues to make comparisons to liken Mixon's actions to RH's actions: "Apparently, it's not what RH was allegedly doing that what wrong,
+    because Mixon and her associtates[sic] are involved in the exact same behaviours. It's who she was."
     * This serves no purpose but to suggest that the two are equally bad. Even if this is the case, that would still mean
       that RH's behavior is bad.
 * "BS is reformed."[^6] "[it's] disingenuous to refer to something she has repeatedly apologized for because it
