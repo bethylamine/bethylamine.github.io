@@ -466,6 +466,10 @@ Arguing with them is only going to fuel them--they will wait until you slip up a
 Or just plainly take something out of context that they can frame in a certain way and harass you as
 their target of the day. Pretty standard Internet advice: don't feed the trolls.
 
+See:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wmVkJvieaOA?si=1T9BHSOFdBNchI2B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
 
