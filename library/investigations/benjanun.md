@@ -18,7 +18,7 @@ Updated 4/20/2024
 the center of intra-community fights and the link through which I came to be harassed and involved in the situation,
 and the people that follow, protect, and brigade together, has a long and storied history of manipulation, lying,
 serial harassment, blackmail and abuse. She often uses DARVO to accuse victims of the very things she's doing to them,
-including accusing victims of using DARVO tactics themselves[^38].
+including accusing victims of using DARVO tactics themselves[^31].
 
 I've come to notice, after trying to understand where this brigade of bad faith actors coming to berate me and my plugin
 came from, that her particular peoples express their bigotry against other progressives in social justice language.
@@ -58,7 +58,7 @@ by saying they were not gamed, and [asking what made them illegitimate](https://
 Callista's response was to block me, and I [called her out on it](https://twitter.com/bethylamine/status/1777460442283290975).
 ([Screenshot](../assets/img/benjanun-report/beth_response_to_being_blocked.png))
 I was snarky, sure. Someone had just told me something I built was effectively trash and didn't want to explain why. But
-my reaction was blown way out of proportion to the point of victim blaming[^41].
+my reaction was blown way out of proportion to the point of victim blaming[^34].
 
 After this point, I started to receive a fair amount of backlash and abuse. You can decide for yourself whether this
 is a measured response, or dogpiling/bad faith criticism. Here's a selection:
@@ -105,7 +105,7 @@ It is a tool to help people curate their feed on Twitter, not a tool to harass o
 I've seen people using Soupcan, I have not once seen anyone use Soupcan to attack someone. If you read through this
 whole report, you can add a Soupcan emoji to your tweet so I know you did. Just as Wikipedia is not
 a source, but it can provide sources as references, Soupcan collates reports, which people can use to make up their
-minds. Calling a red mark enabling "social murder"[^50] is wildly exaggerated in service of protecting Benjanun's image.
+minds. Calling a red mark enabling "social murder"[^37] is wildly exaggerated in service of protecting Benjanun's image.
 
 As you can see from above, the mark against BS was framed as a personal failure on my part, rather than the system
 working as intended, albeit in a way they disagreed with. That said, I have planned many improvements to it and still
@@ -117,35 +117,35 @@ You can read more about it and how it works on the website, [here](https://soupc
 
 For context -
 
-* She is a cis[^21] lesbian[^22] Thai-Chinese science fiction / fantasy (SFF) writer[^11]. 
-* She has been known under the aliases Winterfox[^3][^20], Requires Only That You Hate (ROTYH)/Requires Hate (RH)[^3][^20][^28][^34], acrackedmoon[^1][^20][^34], pyrofennec[^1][^16][^20][^34], Valse de Lune[^20][^34], Lesifoere[^17][^20], and Maria Ying[^9] (as a joint pseudonum with Devi Lacroix.)
-* "Benjanun Sriduangkaew" is likely another constructed identity.[^1][^17]
-* She was reported to be a multi-millionaire heiress of a hotel empire, based on a supposed dox of her real name.[^17][^13][^14]
-* Since at least 2009[^46], she has been infamous for:
-  * castigating any dissenters with accusations of bigotry[^5] 
-  * directing threats of rape and assault at various people, particularly women, *especially* queer women and women of color[^20]
-  * shutting down discussing by directing personal attacks, harassing commenters who liked books she didn't, making racist comments to various minority members. Her hatred lead to the death of the community dedicated to reading and discussing the works of authors of color[^20]
-  * drive one woman to attempt suicide[^24], which some of her fans mocked
-  * harassed a rape victim for at least six months in 2013[^20]
-  * decade-long history of spewing violent, homophobic, transphobic, racist and sexist hate speech under sockpuppet accounts[^32]
-  * showing no intent to change[^33].
-* She issued two apologies in 2014.[^18][^19]
-* BS's racist, sexist, classist behavior up until that point has been compiled in multiple places, from multiple victims and multiple reporters.[^26][^1]
-* Many people have come forward as victims of her actions or to corroborate BS's pattern of harassment.[^1][^2][^3][^4][^25][^26][^27][^30][^31][^33]
+* She is a cis[^16] lesbian[^17] Thai-Chinese science fiction / fantasy (SFF) writer[^8].
+* She has been known under the aliases Winterfox[^3][^15], Requires Only That You Hate (ROTYH)/Requires Hate (RH)[^3][^15][^22][^27], acrackedmoon[^1][^15][^27], pyrofennec[^1][^11][^15][^27], Valse de Lune[^15][^27], Lesifoere[^12][^15], and Maria Ying[^7] (as a joint pseudonum with Devi Lacroix.)
+* "Benjanun Sriduangkaew" is likely another constructed identity.[^1][^12]
+* She was reported to be a multi-millionaire heiress of a hotel empire, based on a supposed dox of her real name.[^12][^9][^10]
+* Since at least 2009[^36], she has been infamous for:
+  * castigating any dissenters with accusations of bigotry[^5]
+  * directing threats of rape and assault at various people, particularly women, *especially* queer women and women of color[^15]
+  * shutting down discussing by directing personal attacks, harassing commenters who liked books she didn't, making racist comments to various minority members. Her hatred lead to the death of the community dedicated to reading and discussing the works of authors of color[^15]
+  * drive one woman to attempt suicide[^18], which some of her fans mocked
+  * harassed a rape victim for at least six months in 2013[^15]
+  * decade-long history of spewing violent, homophobic, transphobic, racist and sexist hate speech under sockpuppet accounts[^25]
+  * showing no intent to change[^26].
+* She issued two apologies in 2014.[^13][^14]
+* BS's racist, sexist, classist behavior up until that point has been compiled in multiple places, from multiple victims and multiple reporters.[^20][^1]
+* Many people have come forward as victims of her actions or to corroborate BS's pattern of harassment.[^1][^2][^3][^4][^19][^20][^21][^23][^24][^26]
   The breadth of this and time periods clearly show that this is *not* a "co-ordinated attack" on BS.
 
 ## Tropes and patterns
 
 ### "Birthday boy"
 
-Birthday boy is obstensibly a meme about someone provoking someone else and then acting too harmless to be taken seriously[^33];
-a crybully for transmisogyny[^37]. 
+Birthday boy is obstensibly a meme about someone provoking someone else and then acting too harmless to be taken seriously[^26];
+a crybully for transmisogyny[^30].
 
-They have said[^36] it's a reference to [this tweet](../assets/img/benjanun-report/birthday-boy.png) which describes a "5'8 guy
+They have said[^29] it's a reference to [this tweet](../assets/img/benjanun-report/birthday-boy.png) which describes a "5'8 guy
 who'd taunt every jacked, 6'3 bro he men until they'd pull their fist back to beat him up, whereupon [he] would go "heyheyheyyy
 c'maahn I'm a little guy, I'm just a little guyy, no, it's also my birthday, I'm a little birthday boyy" and it somehow
 always worked" and has stuck as a pejorative for a kind of trans man they are against. The term has been around since at
-least August 2023[^58]. Bee herself admits that it's used "as mean words" (example 3) comparing it to "asshole", except
+least August 2023[^42]. Bee herself admits that it's used "as mean words" (example 3) comparing it to "asshole", except
 "asshole" isn't tied heavily to a minority group.
 
 BS (and friends) have made many snide remarks about how "birthday boy" cannot be harmful, because it's merely a funny little joke.
@@ -192,33 +192,33 @@ Her, and many of her followers, reduce intersectionality (in this case, where ex
 
 These examples are from people in the community and not from BS herself. They are included here
 to show the kind of transphobia that exists where she goes. She is not responsible
-for what other people say. 
+for what other people say.
 
 **"Zippertits"**
 
 A pejorative that transphobes use to describe trans men, in reference to top surgery scars; a graphic description of post-surgical scarring
 used to evoke mutilation and disgust. Examples of (random) transphobes using this include:
 
-* [Example 1](https://x.com/AthrexEntity/status/1780179067372794278)[^51]
-* [Example 2](https://x.com/MalokK97861047/status/1780565871724753155)[^52]
-* [Example 3](https://x.com/challah_bread_/status/1780043715274293433)[^53]
+* [Example 1](https://x.com/AthrexEntity/status/1780179067372794278)[^38]
+* [Example 2](https://x.com/MalokK97861047/status/1780565871724753155)[^39]
+* [Example 3](https://x.com/challah_bread_/status/1780043715274293433)[^40]
 
 and endorsement by BS, which was liked and apparently subsequently removed (as she is known to do when caught out):
-* [Example 1](../assets/img/benjanun-report/bb-u14.png)[^54]
+* [Example 1](../assets/img/benjanun-report/bb-u14.png)[^41]
 
 **Other cases of transphobia**
 
-* "XX behavior"[^59] - "making the [r/egg_irl] bot use [assumes viewer is X content warning] has to be the most XX behavior i've ever seen"
+* "XX behavior"[^43] - "making the [r/egg_irl] bot use [assumes viewer is X content warning] has to be the most XX behavior i've ever seen"
 
 ## Nature of argumentation
 
 BS and mutuals attack people using social justice language as a weapon, typically with accusations of racism or transmisogyny.
 A common thread is a complete and utter lack of good faith, time and time again they will excuse heinous behavior and bring
 the wrath of their followers down on anyone who pushes back. It's clear that they care primarily about optics because they
-talk about "social murder" - i.e., the battering of someone's reputation as a terrible thing to do ([^50][^60]) yet have
+talk about "social murder" - i.e., the battering of someone's reputation as a terrible thing to do ([^37][^44]) yet have
 no problem with spreading [Ship of Theseus](https://www.youtube.com/watch?v=Ui-ArJRqEvU) misrepresentations of their enemy's behavior in order to appear to have the moral
 high ground, hoping that nobody will look into it too much and see for themselves. Ask for evidence. Ask why a screenshot
-is conveniently cropped right before what they are saying is heinous. BS has said that their opponents are trained manipulators[^61]
+is conveniently cropped right before what they are saying is heinous. BS has said that their opponents are trained manipulators[^45]
 and yet this is the behavior they engage in all too often.
 
 **Examples of accusations of bigotry**
@@ -228,7 +228,7 @@ and yet this is the behavior they engage in all too often.
 * [Example 3](../assets/img/benjanun-report/misogyny-2.png) - "[you're] blaming women for the actions of an abusive patriarch wannabe. [you enjoy] being a misogynist"
 
 **Examples of context collapse**
-* Example 1. BS says "[here are] Beth's examples of hateful behavior that came her way"[^69] showing fairly tame examples
+* Example 1. BS says "[here are] Beth's examples of hateful behavior that came her way"[^52] showing fairly tame examples
   from the list, only. She skips over "guess this person deserves to die", "cry me a fucking river", "do your fuckin job",
   "your tool is poison", "fuck you", etc. She copied the text around it, and removed what was highlighted in pink.
   ![Context](../assets/img/benjanun-report/new/context.png)
@@ -240,33 +240,33 @@ They repeat things over and over until it becomes 'true', and when other people 
 that information from, or what the evidence is, they often just deflect or block ([example](../assets/img/benjanun-report/beth_response_to_being_blocked.png)).
 
 For example, they have accused this
-report (the one you're reading) of being "so worried about anti white racism"[^62], "we truly needed you to call out that and the
-'anti-white racism' out here you're a lifesaver"[^64] and insinuating[^63] that that is the primary or any conclusion in this
-report- simply on BS' say so[^66]. They say[^68] that this report is sourced from Kiwifarms, a known hate site, again,
-on BS' say so[^67].
+report (the one you're reading) of being "so worried about anti white racism"[^46], "we truly needed you to call out that and the
+'anti-white racism' out here you're a lifesaver"[^48] and insinuating[^47] that that is the primary or any conclusion in this
+report- simply on BS' say so[^49]. They say[^51] that this report is sourced from Kiwifarms, a known hate site, again,
+on BS' say so[^50].
 
-They have accused me of "platforming racist lies uncritically" and that I "[support] known abusers"[^71], by which they mean
+They have accused me of "platforming racist lies uncritically" and that I "[support] known abusers"[^53], by which they mean
 I referenced something from a source they deemed to come from a racist, and that I thanked someone for pointing out
 disruption in my plugin, when that someone was, to them, a "known abuser". BS has chided people for using her name wrongly,
 e.g. [here](../assets/img/benjanun-report/racism-1.png) and [here](../assets/img/benjanun-report/racism-2.png) saying
-this is racist, but she has no problem[^75] boosting someone who made a joke playing on the [14 words](https://en.wikipedia.org/wiki/Fourteen_Words)[^74],
+this is racist, but she has no problem[^57] boosting someone who made a joke playing on the [14 words](https://en.wikipedia.org/wiki/Fourteen_Words)[^56],
 a slogan adopted by white supremacists and neo-Nazis.
 
-They have also accused me of being surrounded by racists[^72], for similar reasoning (people are bringing up the same kind
+They have also accused me of being surrounded by racists[^54], for similar reasoning (people are bringing up the same kind
 of evidence that someone they have deemed a racist did, therefore they are racists.) Even on the face of it this is absurd,
 but it makes sense as a justification of their ire. Without just making things up, they wouldn't be taken seriously even
 at a surface level (the same thing TERFs do, when they claim they were "fired just for saying biological sex is real", for example.)
 
 * I don't use Kiwifarms, have an account, get information from it, or have ever sourced it. The sources I linked to also
   never referenced Kiwifarms. So, it appears that this is more of a tarring tactic to imply that I'm a serial harasser.
-* I don't believe that anti-white racism is a thing, and I've said this on Twitter too[^73]. None of this report is contradictory with that position.
+* I don't believe that anti-white racism is a thing, and I've said this on Twitter too[^55]. None of this report is contradictory with that position.
 
 They will often also couch their positions as just 'feminism', for similar reasons that TERFs couch their positions as
 'pro-women'.
 
-These are so common, and frivolous, despite being serious accusations, that it's 
-They then defend BS by saying she's a staunch transfeminine ally[^76][^77][^78][^79][^80][^81][^82][^83], and remind people
-that she's Thai/queer/lesbian[^76][^77][^78][^80][^81][^83], because the
+These are so common, and frivolous, despite being serious accusations, that it's
+They then defend BS by saying she's a staunch transfeminine ally[^58][^59][^60][^61][^62][^63][^64][^65], and remind people
+that she's Thai/queer/lesbian[^58][^59][^60][^62][^63][^65], because the
 belief they have in justifying their behavior is to make Bee the ultimate victim: a queer POC who's just trying to fight for
 trans women and lesbians, being attacked and hounded by racists, which is the only reason people oppose her, and if you do
 too, you must be racist, sexist, or transphobic. Their definition of an ally to trans women seems to be someone who fires laterally
@@ -278,61 +278,61 @@ see other transfem allies going to the same lengths to "defend" them (by harassi
 
 Much of this is in the past, but I'm keeping it here because BS defenders will still use these docs as a shield.
 
-* "the real fuel for Mixon’s blog post is the ire of a group of white women who were enraged"[^16] / "relying on the words of powerful white people"[^6] / "this is about silencing and isolating Bee as punishment for calling out white women on racism"[^16]
+* "the real fuel for Mixon�s blog post is the ire of a group of white women who were enraged"[^11] / "relying on the words of powerful white people"[^6] / "this is about silencing and isolating Bee as punishment for calling out white women on racism"[^11]
   * Attributing malice and motive does not preclude the ability for us to see what was said.
   * I'm not going to argue this one way or the other, but given BS' history of wielding accusations of racism as a silencing tactic,
     and the fact that many affected were not white, I don't give this argument much credit.
   * none of this "enraged white women ire" is ever surfaced, because their comments are extremely tepid in the face of BS' unhinged remarks about maggots and being dismembered.
   * Neither is there any evidence that this is about silencing someone. This is a post hoc justification which is clear from the focus of the reports on her abuse, not her commentary about race.
-* "the Mixon report is a Gish Gallop / Document dump"[^6][^16]
+* "the Mixon report is a Gish Gallop / Document dump"[^6][^11]
   * The irony of making this accusation at the start of a 140+ page rebuttal[^6] is not lost on me
   * The report was sufficiently large to cover the accusations in enough detail and no more. It cannot be a [Gish Gallop](https://en.wikipedia.org/wiki/Gish_gallop)
     because that applies to the format of formal debate: not giving your opponent time to respond to half-truths; an exploitation of
     [Brandolini's law](https://en.wikipedia.org/wiki/Brandolini%27s_law). Clearly, her defenders have had sufficient time to address the document.
-* "there is plausible deniability in some of the accusations of the things she's done"[^16]
+* "there is plausible deniability in some of the accusations of the things she's done"[^11]
   * There is too big a laundry list of examples of her abuses and a trail of independent victims that warrant no further plausible deniability.
-* "she is not engaging in DARVO"[^16]
-  * Her behavior is almost a textbook example of it. 
-    * Deny: she gaslights victims into thinking she's not doing what she's doing (it's just a joke! it's just strong language!)[^39]
-    * Attack: when confronted with evidence, BS attacks that person as being "part of an organized campaign of hatred" against her.[^40]
+* "she is not engaging in DARVO"[^11]
+  * Her behavior is almost a textbook example of it.
+    * Deny: she gaslights victims into thinking she's not doing what she's doing (it's just a joke! it's just strong language!)[^32]
+    * Attack: when confronted with evidence, BS attacks that person as being "part of an organized campaign of hatred" against her.[^33]
     * Reverse Victim and Offender: BS reinforces that she is the true victim, and has her minions come to her defense (read: dogpile her victim.)
-* "Bee was criticized for speaking up about the attacks against her"[^16]
+* "Bee was criticized for speaking up about the attacks against her"[^11]
   * The source for this was two randoms talking on twitter with no external traction.
-* "it's untrue that one of her targets was goaded into a suicide attempt"[^6][^16]
+* "it's untrue that one of her targets was goaded into a suicide attempt"[^6][^11]
   * The source for this is that the exchange that was pointed to as the trigger is deemed "civil, albeit rather blunt, and certainly [not an attack]."
   * The exchange shown doesn't show goading, but it is not up to a third party to invalidate what can or can't cause someone's suicidal ideation.
   * RH herself replies in an apology "I was shocked to learn that I triggered you into a suicidal downswing. Intent doesn't matter--nor does it excuse--but I'm genuinely sorry that I caused to this"
-* "the dog rape threat is bunk"[^16]
-  * The reasoning for this, given in a Tumblr blog post[^34], is that they don't believe her, because Bee used different handles on every platform.
+* "the dog rape threat is bunk"[^11]
+  * The reasoning for this, given in a Tumblr blog post[^27], is that they don't believe her, because Bee used different handles on every platform.
   * And they didn't specify an exact time, but rather "not all that long ago".
   * So therefore, it seems more likely that this was an imposter.
   * I understand it's hard to procure evidence that you *didn't* say something, but this reasoning clearly shows a bias
     towards believing Bee when the evidence is ambiguous.
-* "Mixon's analysis of Bee's victims is statistically invalid. Dunning-Kruger incompetence."[^16]
+* "Mixon's analysis of Bee's victims is statistically invalid. Dunning-Kruger incompetence."[^11]
   * Mixon argues that Bee's targets are disproportionately POC, and uses an unvalidated assumption that the rates of publications of POC authors are roughly comparable between children's book writers and SFF writers.
   * This is a valid criticism. However, that doesn't mean it's wrong. Notably, the American book industry is still overwhelmingly white.
-    As of 2015, white/caucasian industry respondents represented 79%[^35] - notably higher than the 60% in the racial breakdown presented
+    As of 2015, white/caucasian industry respondents represented 79%[^28] - notably higher than the 60% in the racial breakdown presented
     in the Mixon report. I don't see this as a strong argument either way, though.
-* "the abuse she has received is worse than the abuse she has given" (multiple places, such as "There's some references to Bee apparently having asked people about their ethnicity [...] but nobody says anything when Victor Ocampo publicly questions Bee's identity")[^6][^16]
+* "the abuse she has received is worse than the abuse she has given" (multiple places, such as "There's some references to Bee apparently having asked people about their ethnicity [...] but nobody says anything when Victor Ocampo publicly questions Bee's identity")[^6][^11]
   * Does not excuse her behavior, and the author mentions as such in the disclaimer at the top, too.
   * Victor questions the validity of a nomination for diversity if BS can't be verified as POC. This is different to
     haranguing people on the basis of their supposed race.
-* "yes, she's deleted things, but it was due to stalker-related issues"[^16]
+* "yes, she's deleted things, but it was due to stalker-related issues"[^11]
   * That doesn't explain the pattern of immediately deleting the worst of her abusive posts shortly after they've done what they needed to.
   * This explains, perhaps, shutting down entire accounts, removing personal information, and so on. But "deleted things" wasn't
     really the accusation. It was: "After an attack, she deletes her most inflammatory posts and accounts and departs,
     leaving her targets reeling and others who come later scratching their heads, unable to
     find evidence and wondering what all the fuss was about."[^1]
-* "her behavior was something she's specifically apologized for"[^16]
+* "her behavior was something she's specifically apologized for"[^11]
   * There are just as many if not more cases where she has not apologized to her victims. An apology also means less
     and less each time you continue to engage in that behavior.
-* "there's no way she can make the pain she did cause go away"[^16]
+* "there's no way she can make the pain she did cause go away"[^11]
   * This is an unfair reading of what was being said.
   * The operative words used were "addressing the damage she has done, much less undoing it"[^1].
   * "Undoing", on a fair reading, does not imply rewriting the past. It means making amends and reconciliations--owning up to what you did and making it right.
     * If you trashed someone's house and you were asked to "undo the damage", it would be understood that you would clean it up,
       not that you were being asked to make the house never trashed to begin with.
-* "Bee cannot make amends if she is silenced and ostracized"[^16]
+* "Bee cannot make amends if she is silenced and ostracized"[^11]
   * She is actively posting on Twitter, and hasn't suffered any loss of exposure or income to the best of my knowledge.
   * Someone may be ostractized, but that is no excuse for them to not *attempt* to make amends.
 * "Myth: RH used multiple pseudonyms to hide her actions"[^6]
@@ -343,7 +343,7 @@ Much of this is in the past, but I'm keeping it here because BS defenders will s
   * The author rests on the semantics of "targets" and "attacks", suggesting that the evidence is hearsay.
   * There are first-hand accounts from WoC of the abuse they suffered, you can decide for yourself.
     * Not a fun post to write, by Rachel Manija Brown[^2] who was raised in India[^]
-    * other examples here including Cindy Pon, an Asian-American woman, and a Central Asian woman[^20]
+    * other examples here including Cindy Pon, an Asian-American woman, and a Central Asian woman[^15]
 * "Myth: RH is the leader of a cult, manipulating her followers to do her evil bidding"[^6]
   * The author dismisses this as a product of Mixon's imagination, because there is "no evidence that anyone ever did anything they did not want",
     and that "I'd like to know who Mixon things BS is holding [...] hostage and under her 'control'."
@@ -356,7 +356,7 @@ Much of this is in the past, but I'm keeping it here because BS defenders will s
 * "Mixon's report was motivated by loathing"[^6]
   * Whether or not this is true has no bearing on the evidence provided.
 * "BS's reports were not attacks, but rather just negative reviews"[^6]
-  * [Example 1](../assets/img/benjanun-report/nuke.png). Édouard argues that this is a "thinking woman's 'nuke it from orbit'", which is
+  * [Example 1](../assets/img/benjanun-report/nuke.png). �douard argues that this is a "thinking woman's 'nuke it from orbit'", which is
     *amazingly* incredulous. This is a snarky and over-the-top teardown, making accusations of internalized misogyny,
     internalized racism, creepy romance, a fleshed out rapist character, bad writing, and dubious gender politics. It is
     *not* a considered or measured response. It is not even a review. It very explicitly calls for (metaphorically) a
@@ -365,25 +365,25 @@ Much of this is in the past, but I'm keeping it here because BS defenders will s
     explain why RH reacted with so much negativity to the racism and sexism she perceived in Pon's books."[^6]
     * Doesn't excuse the attack, so I'm not sure why this is relevant.
 * "We are left to conclude that to Mixon, critiquing racism in a piece of fiction in a way that cannot be refuted,
-   worse, that the author can appreciate the truth of the criticism, and strive to improve her work in the future
+  worse, that the author can appreciate the truth of the criticism, and strive to improve her work in the future
   in order to better represent characters of color in her works, is wrong. Frankly, that explanation is not really
-  satisfying and I think it’s false."
+  satisfying and I think it�s false."
   * That the author decided to see a silver lining and take feedback does not mean there wasn't an attack.
-    * "Are you an amoeba? [...] It's a regurgitation done without skill, with an extra does of racism" is what author Édouard
-      is defending. His words are, "I file this case as not an “attack”."
-* "This type of biased perception of what is acceptable behaviour, i.e. that strongly worded criticism of racism and colonialism 
+    * "Are you an amoeba? [...] It's a regurgitation done without skill, with an extra does of racism" is what author �douard
+      is defending. His words are, "I file this case as not an �attack�."
+* "This type of biased perception of what is acceptable behaviour, i.e. that strongly worded criticism of racism and colonialism
   is somehow worse than the racism and colonialism expressed in the first place, is common among my people"
   * I don't believe there is evidence to support this claim. Firstly, "strongly worded" underplays BS's invective.
     Secondly, I don't think anyone had a problem with suggestions of checking for potential bigotry, but rather the
     shutting-down and chilling effect that BS's words had.
-  * Édouard writes this off as "RH acting as an activist to improve the representation of PoC in SFF", conflating what is
+  * �douard writes this off as "RH acting as an activist to improve the representation of PoC in SFF", conflating what is
     uncontroversially good (diversity) with what is being pushed back on (abusive rhetoric.)
   * However, there does appear to be a line, where "exaggerating for rhetorical effect, and interpreting these statements as
     literal death threats is stupid and disingenuous" is crossed for the author, and he does concede that "RH is then guilty of
     using hyper violent language for rhetorical effect on her personal blog and quite possibly twitter in order to illustrate
-    to level to which she found Bacigalupi’s book offensive. [This is] objectionable conduct."
+    to level to which she found Bacigalupi�s book offensive. [This is] objectionable conduct."
 * "Here is how I interpret things so far. RH reads a book and is offended by some of the content. She writes a review using, for her, rather mild language."[^6]
-  * BS herself admits that it is not her intention but the effect that matters, and has said it was "inexcusable"[^18].
+  * BS herself admits that it is not her intention but the effect that matters, and has said it was "inexcusable"[^13].
 * "Mixon is targeting RH."[^6]
   * In the literal sense, yes. RH is being targeted to shine a spotlight on her abuses.
   * The author uses the fact that "Mixon's essay had [...] coordinated release and publicity", "she published at least 2 follow-up posts",
@@ -391,22 +391,22 @@ Much of this is in the past, but I'm keeping it here because BS defenders will s
     sizeable cast of followers who respond to her calls to help launch attacks".
     * This is not a fair comparison, as Mixon is not asking anyone to defend her or attack RH, but rather draw more attention to her
       expose.
-  * The author continues to make comparisons to liken Mixon's actions to RH's actions: "Apparently, it’s not what RH was allegedly doing that what wrong,
-    because Mixon and her associtates[sic] are involved in the exact same behaviours. It’s who she was."
+  * The author continues to make comparisons to liken Mixon's actions to RH's actions: "Apparently, it�s not what RH was allegedly doing that what wrong,
+    because Mixon and her associtates[sic] are involved in the exact same behaviours. It�s who she was."
     * This serves no purpose but to suggest that the two are equally bad. Even if this is the case, that would still mean
       that RH's behavior is bad.
-* "BS is reformed."[^6] "[it's] disingenuous to refer to something she has repeatedly apologized for because it 
+* "BS is reformed."[^6] "[it's] disingenuous to refer to something she has repeatedly apologized for because it
   shows that you aren't really after accountability but rather that you want her to stop supporting trans women
-  who talk about transmisogyny"[^42]
+  who talk about transmisogyny"[^35]
   * The following years, including to this very day, show otherwise.
 
 
 For the reasons above, [^6] appears to give way more benefit of the doubt than what I would consider reasonable for the average person.
 
-[^16] relies a lot on an appeal to incredulity, rather than evidence / [reductio ad absurdum](https://en.wikipedia.org/wiki/Reductio_ad_absurdum), i.e. "This is so ridiculous, it can't be true."
-  * "for the above to have any meaning *at all*, it requires attributing *enormous* power to a single reviewer, allowing them to exert far-reaching influence over huge swathes of the publishing industry."
-  * "to believe that it *is* true would require that Bee have some sort of superhuman understanding of psyychology and specific person's triggers."
-  * "Read those exchanges. If you can figure out how they could have *possibly* been "goading"[sic] into a suicide attempt, I'd love to hear it."
+[^11] relies a lot on an appeal to incredulity, rather than evidence / [reductio ad absurdum](https://en.wikipedia.org/wiki/Reductio_ad_absurdum), i.e. "This is so ridiculous, it can't be true."
+* "for the above to have any meaning *at all*, it requires attributing *enormous* power to a single reviewer, allowing them to exert far-reaching influence over huge swathes of the publishing industry."
+* "to believe that it *is* true would require that Bee have some sort of superhuman understanding of psyychology and specific person's triggers."
+* "Read those exchanges. If you can figure out how they could have *possibly* been "goading"[sic] into a suicide attempt, I'd love to hear it."
 
 ## Conclusion
 
@@ -433,7 +433,7 @@ their target of the day. Pretty standard Internet advice: don't feed the trolls.
 ---
 
 
-[^1]: [Archived version of "A Report on Damage Done by One Individual Under Several Names"](../assets/pdf/Requires-Hate-full-report.pdf) 
+[^1]: [Archived version of "A Report on Damage Done by One Individual Under Several Names"](../assets/pdf/Requires-Hate-full-report.pdf)
 
 [^2]: [Archived version "Not a fun post to write"](https://archive.is/yf8mX)
 
@@ -445,120 +445,120 @@ their target of the day. Pretty standard Internet advice: don't feed the trolls.
 
 [^6]: [Archived version of "A More Specific Grievance"](https://archive.is/UBqcN)
 
-[^9]: [Amazon author bio](https://archive.is/wip/Z1j3O)
+[^7]: [Amazon author bio](https://archive.is/wip/Z1j3O)
 
-[^11]: [A Bee Writes](https://beekian.wordpress.com/about/)
+[^8]: [A Bee Writes](https://beekian.wordpress.com/about/)
 
-[^13]: [Requires Hate Redux 2021 team write-up](https://feralsapient.com/wp-content/uploads/2021/08/Requires-Hate-Redux-2021-team-write-up.pdf)
+[^9]: [Requires Hate Redux 2021 team write-up](https://feralsapient.com/wp-content/uploads/2021/08/Requires-Hate-Redux-2021-team-write-up.pdf)
 
-[^14]: [Archived version of "The stalker known as Creepalicious/Roguey, Juliet E. McKenna, and narratives"](https://archive.is/vak28)
+[^10]: [Archived version of "The stalker known as Creepalicious/Roguey, Juliet E. McKenna, and narratives"](https://archive.is/vak28)
 
-[^16]: [Archived version of "The Tale of Benjanun Sriduangkaew, Part II: Lies, Damn Lies, And Failing at Statistics"](https://archive.is/4A3XC)
+[^11]: [Archived version of "The Tale of Benjanun Sriduangkaew, Part II: Lies, Damn Lies, And Failing at Statistics"](https://archive.is/4A3XC)
 
-[^17]: [Archived version of "Requires Hate revealed: Benjanun Sriduangkaew's true identity and her extremely privileged extended family"](https://archive.is/rF50v)
+[^12]: [Archived version of "Requires Hate revealed: Benjanun Sriduangkaew's true identity and her extremely privileged extended family"](https://archive.is/rF50v)
 
-[^18]: [Archived version of "apologies and finality"](https://web.archive.org/web/20141113112029/http://requireshate.wordpress.com/)
+[^13]: [Archived version of "apologies and finality"](https://web.archive.org/web/20141113112029/http://requireshate.wordpress.com/)
 
-[^19]: [Archived version of "The things that we do: on mistakes, on apologies"](https://web.archive.org/web/20141029101304/http://beekian.wordpress.com/2014/10/20/the-things-that-we-do-on-mistakes-on-apologies/)
+[^14]: [Archived version of "The things that we do: on mistakes, on apologies"](https://web.archive.org/web/20141029101304/http://beekian.wordpress.com/2014/10/20/the-things-that-we-do-on-mistakes-on-apologies/)
 
-[^20]: [Winterfox/RequiresHate/Benjanun Sriduangkaew roundup post](https://azarias.dreamwidth.org/7186.html) ([Archived](https://archive.is/UnwXT))
+[^15]: [Winterfox/RequiresHate/Benjanun Sriduangkaew roundup post](https://azarias.dreamwidth.org/7186.html) ([Archived](https://archive.is/UnwXT))
 
-[^21]: [Benjanun_s on Twitter](https://twitter.com/benjanun_s) ([Archived](https://archive.is/H8ipr))
+[^16]: [Benjanun_s on Twitter](https://twitter.com/benjanun_s) ([Archived](https://archive.is/H8ipr))
 
-[^22]: [Benjanuns on Instagram](https://www.instagram.com/benjanuns/) ([Archived](https://archive.is/dhUX0))
+[^17]: [Benjanuns on Instagram](https://www.instagram.com/benjanuns/) ([Archived](https://archive.is/dhUX0))
 
-[^24]: [Your one-stop shopping for trolling and bullying disguse as social justice!](https://web.archive.org/web/20120816205541/www.journalfen.net/community/unfunny_fandom/21226.html)
+[^18]: [Your one-stop shopping for trolling and bullying disguse as social justice!](https://web.archive.org/web/20120816205541/www.journalfen.net/community/unfunny_fandom/21226.html)
 
-[^25]: [Toward Zero](https://heyheyrenay.tumblr.com/post/100370010694/toward-zero) ([Archived](https://archive.is/v2lx1))
+[^19]: [Toward Zero](https://heyheyrenay.tumblr.com/post/100370010694/toward-zero) ([Archived](https://archive.is/v2lx1))
 
-[^26]: [Winterfraud](https://winterfraud.wordpress.com/) ([Archived](https://archive.is/C3Vqj))
+[^20]: [Winterfraud](https://winterfraud.wordpress.com/) ([Archived](https://archive.is/C3Vqj))
 
-[^27]: [Archived version of "Standing Up and Speaking Truth"](https://archive.is/sdjCx)
+[^21]: [Archived version of "Standing Up and Speaking Truth"](https://archive.is/sdjCx)
 
-[^28]: [Archived version of "Angry Brown Woman Mode"](https://archive.is/9iBQh)
+[^22]: [Archived version of "Angry Brown Woman Mode"](https://archive.is/9iBQh)
 
-[^30]: [Die Fallstricke einer verfehlten Ideologie](https://katzenklaue.blogspot.com/2012/08/die-fallstricke-einer-verfehlten.html) ([Archived](https://archive.is/v6E0Y))
+[^23]: [Die Fallstricke einer verfehlten Ideologie](https://katzenklaue.blogspot.com/2012/08/die-fallstricke-einer-verfehlten.html) ([Archived](https://archive.is/v6E0Y))
 
-[^31]: [Archived version of "Some thoughts on the politics of trolling"](https://web.archive.org/web/20220628004014/https://alis.me/x/some-thoughts-on-the-politics-of-trolling/)
+[^24]: [Archived version of "Some thoughts on the politics of trolling"](https://web.archive.org/web/20220628004014/https://alis.me/x/some-thoughts-on-the-politics-of-trolling/)
 
-[^32]: [Daily dot: Acclaimed sci-fi writer exposed as notorious Internet troll](https://www.dailydot.com/parsec/benjanun-sriduangkaew-revealed-to-be-troll-requires-hate-winterfox/) ([Archived](https://archive.is/cwBte))
+[^25]: [Daily dot: Acclaimed sci-fi writer exposed as notorious Internet troll](https://www.dailydot.com/parsec/benjanun-sriduangkaew-revealed-to-be-troll-requires-hate-winterfox/) ([Archived](https://archive.is/cwBte))
 
-[^33]: [How Many Swallows Bring Real Spring?](https://starshipreckless.com/blog/?p=9214) ([Archived]())
+[^26]: [How Many Swallows Bring Real Spring?](https://starshipreckless.com/blog/?p=9214) ([Archived]())
 
-[^34]: [Archived version of "Serenity Dee: SFF is still maladjusted"](https://archive.is/pajtU)
+[^27]: [Archived version of "Serenity Dee: SFF is still maladjusted"](https://archive.is/pajtU)
 
-[^35]: [Diversity in Book Publishing](https://wordsrated.com/diversity-in-book-publishing/)
+[^28]: [Diversity in Book Publishing](https://wordsrated.com/diversity-in-book-publishing/)
 
-[^36]: [Tweet, @lisaquestions](https://x.com/lisaquestions/status/1777575551563079843) ([Screenshot](../assets/img/benjanun-report/new/36.png))
+[^29]: [Tweet, @lisaquestions](https://x.com/lisaquestions/status/1777575551563079843) ([Screenshot](../assets/img/benjanun-report/new/36.png))
 
-[^37]: [Tweet, @Farynnistired](https://x.com/Faerynnistired/status/1777583655080108060) ([Screenshot](../assets/img/benjanun-report/new/37.png))
+[^30]: [Tweet, @Farynnistired](https://x.com/Faerynnistired/status/1777583655080108060) ([Screenshot](../assets/img/benjanun-report/new/37.png))
 
-[^38]: [Tweet, @benjanun_s](https://x.com/benjanun_s/status/1766563161153450024) ([Archived](https://archive.is/TCezX))
+[^31]: [Tweet, @benjanun_s](https://x.com/benjanun_s/status/1766563161153450024) ([Archived](https://archive.is/TCezX))
 
-[^39]: [Tweet, @benjanun_s](https://x.com/benjanun_s/status/1763461564529791125) ([screenshot](../assets/img/benjanun-report/joke-1.png))
+[^32]: [Tweet, @benjanun_s](https://x.com/benjanun_s/status/1763461564529791125) ([screenshot](../assets/img/benjanun-report/joke-1.png))
 
-[^40]: [Tweet, @benjanun_s](https://x.com/benjanun_s/status/1740759348081738118) ([screenshot](../assets/img/benjanun-report/hate-campaign.png))
+[^33]: [Tweet, @benjanun_s](https://x.com/benjanun_s/status/1740759348081738118) ([screenshot](../assets/img/benjanun-report/hate-campaign.png))
 
-[^41]: [Tweet, @feuer_ameise](https://x.com/feuer_ameise/status/1777650050266522075) ([screenshot](../assets/img/benjanun-report/victim-blaming.png))
+[^34]: [Tweet, @feuer_ameise](https://x.com/feuer_ameise/status/1777650050266522075) ([screenshot](../assets/img/benjanun-report/victim-blaming.png))
 
-[^42]: [Tweet, @feuer_ameise](https://x.com/feuer_ameise/status/1778000506138374302) ([screenshot](../assets/img/benjanun-report/disingenuous.png))
+[^35]: [Tweet, @feuer_ameise](https://x.com/feuer_ameise/status/1778000506138374302) ([screenshot](../assets/img/benjanun-report/disingenuous.png))
 
-[^46]: [RaceFail '09](https://archive.is/CB8uJ)
+[^36]: [RaceFail '09](https://archive.is/CB8uJ)
 
-[^50]: [Tweet, @SomniumImmanis](https://x.com/SomniumImmanis/status/1778122540822798446) ([screenshot](../assets/img/benjanun-report/social_murder.png))
+[^37]: [Tweet, @SomniumImmanis](https://x.com/SomniumImmanis/status/1778122540822798446) ([screenshot](../assets/img/benjanun-report/social_murder.png))
 
-[^51]: [Tweet, @AnthrexEntity](https://x.com/AthrexEntity/status/1780179067372794278) ([screenshot](../assets/img/benjanun-report/zippertits1.png))
+[^38]: [Tweet, @AnthrexEntity](https://x.com/AthrexEntity/status/1780179067372794278) ([screenshot](../assets/img/benjanun-report/zippertits1.png))
 
-[^52]: [Tweet, @MalokK97861047](https://x.com/MalokK97861047/status/1780565871724753155) ([screenshot](../assets/img/benjanun-report/zippertits2.png))
+[^39]: [Tweet, @MalokK97861047](https://x.com/MalokK97861047/status/1780565871724753155) ([screenshot](../assets/img/benjanun-report/zippertits2.png))
 
-[^53]: [Tweet, @challah_bread_](https://x.com/challah_bread_/status/1780043715274293433) ([screenshot](../assets/img/benjanun-report/zippertits3.png))
+[^40]: [Tweet, @challah_bread_](https://x.com/challah_bread_/status/1780043715274293433) ([screenshot](../assets/img/benjanun-report/zippertits3.png))
 
-[^54]: [Tweet, @catladyellyy/@yuriellyy](https://twitter.com/yuriellyy/status/1743005610977993078) ([screenshot](../assets/img/benjanun-report/bb-u14.png))
+[^41]: [Tweet, @catladyellyy/@yuriellyy](https://twitter.com/yuriellyy/status/1743005610977993078) ([screenshot](../assets/img/benjanun-report/bb-u14.png))
 
-[^58]: [Screenshot of tweets from @Katrafiy and @lisaquestions about the origin of "birthday boy brigade"](../assets/img/benjanun-report/bb-8.png)
+[^42]: [Screenshot of tweets from @Katrafiy and @lisaquestions about the origin of "birthday boy brigade"](../assets/img/benjanun-report/bb-8.png)
 
-[^59]: [Screenshot of tweet, @marupan_desu](../assets/img/benjanun-report/xx.jpg)
+[^43]: [Screenshot of tweet, @marupan_desu](../assets/img/benjanun-report/xx.jpg)
 
-[^60]: [Screenshot of tweet, @RoboTranssexual](../assets/img/benjanun-report/new/social_murder1.png)
+[^44]: [Screenshot of tweet, @RoboTranssexual](../assets/img/benjanun-report/new/social_murder1.png)
 
-[^61]: [Screenshot of tweet, @benjanun_s](../assets/img/benjanun-report/new/manipulative.png)
+[^45]: [Screenshot of tweet, @benjanun_s](../assets/img/benjanun-report/new/manipulative.png)
 
-[^62]: [Screenshot of tweet, @PissqueenAntiX](../assets/img/benjanun-report/new/anti-white1.png)
+[^46]: [Screenshot of tweet, @PissqueenAntiX](../assets/img/benjanun-report/new/anti-white1.png)
 
-[^63]: [Screenshot of tweet, @goth__casual](../assets/img/benjanun-report/new/anti-white2.png)
+[^47]: [Screenshot of tweet, @goth__casual](../assets/img/benjanun-report/new/anti-white2.png)
 
-[^64]: [Screenshot of tweet, @rebootanother](../assets/img/benjanun-report/new/anti-white3.png)
+[^48]: [Screenshot of tweet, @rebootanother](../assets/img/benjanun-report/new/anti-white3.png)
 
-[^66]: [Screenshot of tweet, @benjanun_s](../assets/img/benjanun-report/new/anti-white-b.png)
+[^49]: [Screenshot of tweet, @benjanun_s](../assets/img/benjanun-report/new/anti-white-b.png)
 
-[^67]: [Screenshot of tweet, @benjanun_s](../assets/img/benjanun-report/new/kw.png)
+[^50]: [Screenshot of tweet, @benjanun_s](../assets/img/benjanun-report/new/kw.png)
 
-[^68]: [Screenshot of tweet, @StrategiaSE](../assets/img/benjanun-report/new/lies3.png)
+[^51]: [Screenshot of tweet, @StrategiaSE](../assets/img/benjanun-report/new/lies3.png)
 
-[^69]: [Screenshot of tweet, @benjanun_s](../assets/img/benjanun-report/new/hateful.png)
+[^52]: [Screenshot of tweet, @benjanun_s](../assets/img/benjanun-report/new/hateful.png)
 
-[^71]: [Screenshot of tweet, @wyllie_ava](../assets/img/benjanun-report/new/lies.png)
+[^53]: [Screenshot of tweet, @wyllie_ava](../assets/img/benjanun-report/new/lies.png)
 
-[^72]: [Screenshot of tweet, @benjanun_s](../assets/img/benjanun-report/new/lies2.png)
+[^54]: [Screenshot of tweet, @benjanun_s](../assets/img/benjanun-report/new/lies2.png)
 
-[^73]: [Screenshot of tweet, @bethylamine](../assets/img/benjanun-report/new/seth-1.png)
+[^55]: [Screenshot of tweet, @bethylamine](../assets/img/benjanun-report/new/seth-1.png)
 
-[^74]: [Screenshot of tweet, @Sinister_Sophia](../assets/img/benjanun-report/new/14.png)
+[^56]: [Screenshot of tweet, @Sinister_Sophia](../assets/img/benjanun-report/new/14.png)
 
-[^75]: [Screenshot of timeline, @benjanun_s](../assets/img/benjanun-report/new/repost.png)
+[^57]: [Screenshot of timeline, @benjanun_s](../assets/img/benjanun-report/new/repost.png)
 
-[^76]: [Screenshot of tweet, @Esper_Lily](../assets/img/benjanun-report/new/idpol1.png)
+[^58]: [Screenshot of tweet, @Esper_Lily](../assets/img/benjanun-report/new/idpol1.png)
 
-[^77]: [Screenshot of tweet, @Sinister_Sophia](../assets/img/benjanun-report/new/idpol2.png)
+[^59]: [Screenshot of tweet, @Sinister_Sophia](../assets/img/benjanun-report/new/idpol2.png)
 
-[^78]: [Screenshot of tweet, @macfluffers](../assets/img/benjanun-report/new/idpol3.png)
+[^60]: [Screenshot of tweet, @macfluffers](../assets/img/benjanun-report/new/idpol3.png)
 
-[^79]: [Screenshot of tweet, @IgneousSigil](../assets/img/benjanun-report/new/idpol4.png)
+[^61]: [Screenshot of tweet, @IgneousSigil](../assets/img/benjanun-report/new/idpol4.png)
 
-[^80]: [Screenshot of tweet, @rozietoez](../assets/img/benjanun-report/new/idpol5.png)
+[^62]: [Screenshot of tweet, @rozietoez](../assets/img/benjanun-report/new/idpol5.png)
 
-[^81]: [Screenshot of tweet, @macfluffers](../assets/img/benjanun-report/new/idpol6.png)
+[^63]: [Screenshot of tweet, @macfluffers](../assets/img/benjanun-report/new/idpol6.png)
 
-[^82]: [Screenshot of tweet, @karlachsfemme](../assets/img/benjanun-report/new/idpol7.png)
+[^64]: [Screenshot of tweet, @karlachsfemme](../assets/img/benjanun-report/new/idpol7.png)
 
-[^83]: [Screenshot of tweet, @NsfwRaiko](../assets/img/benjanun-report/new/idpol8.png)
+[^65]: [Screenshot of tweet, @NsfwRaiko](../assets/img/benjanun-report/new/idpol8.png)
