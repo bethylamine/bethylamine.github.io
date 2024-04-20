@@ -12,75 +12,30 @@ Updated 4/19/2024
 
 ![Benjanun's Twitter profile](../assets/img/benjanun-report/benjanun.png)
 
-> *I was a horrendous asshole.*
-> 
-> I hurt a lot of people.
-> 
-> I was an asshole who just didn’t want to admit she was wrong.
-> It’s past time for me to own up, and stop being an asshole, and stop making everything about me and my
-> need to look meaner and tougher than everyone else.
- 
--- Benjanun Sriduangkaew, 2014[^18], 10 years ago. The patterns of abuse still persist.
-
 ## Foreword: Why am I writing this?
 
-It has come to my attention that [Benjanun Sriduangkaew](https://en.wikipedia.org/wiki/Benjanun_Sriduangkaew) (henceforth shortened to BS, or Bee), is at
+[Benjanun Sriduangkaew](https://en.wikipedia.org/wiki/Benjanun_Sriduangkaew) (henceforth shortened to BS, or Bee), is at
 the center of intra-community fights and the link through which I came to be harassed and involved in the situation,
 and the people that follow, protect, and brigade together, has a long and storied history of manipulation, lying,
 serial harassment, blackmail and abuse. She often uses DARVO to accuse victims of the very things she's doing to them,
-including of using DARVO tactics[^38].
+including accusing victims of using DARVO tactics themselves[^38].
 
-It seems like every few years, people rediscover what a horrible person Bee is. The internet forgets quickly.
-So here's my contribution.
+I've come to notice, after trying to understand where this brigade of bad faith actors coming to berate me and my plugin
+came from, that her particular peoples express their bigotry against other progressives in social justice language.
 
-## TL/DR
+## Summary
 
-Here's my summary. Sources are more thoroughly listed below the TL/DR section, don't take my
-word for it. I encourage you to see and make up your mind for yourself, and I have linked both sides of this controversy where applicable.
-I am not trying to convince anyone of anything but just presenting what I've found (which will, of course, include my own biases, I'm not saying it doesn't.)
+Benjanun (@benjanun_s) and her followers follow this playbook to a tee, and once you recognize it, you can't unsee it.
 
-* Benjanun is a Thai cis lesbian science fiction writer and serial abuser who uses social justice language to strongarm people into shutting up,
-  accusing them of being racist, sexist, homophobic, etc., when she is not allowed to abuse people recklessly, in some cases for her own career gain.
-* It has been reported, but not directly confirmed, that she is a wealthy heiress to a hotel empire.
-* She treats many trans masc people with derision.
-* Any attempt to call this out is branded "transmisogynistic", in the same way GCs brand trans activism as "anti-woman", regardless
-  of what your beliefs actually are. They see anyone who calls them out as siding with their enemy.
-* This has been going on since before 2012, and despite apologies, this pattern of behavior persists.
-* Most of the controversy that is documented about Benjanun is in the 2014-2017 year range, regarding her effect on the SFF
-  community. Most of this is in the past, and I don't feel the need to re-litigate the past when there is enough happening
-  in the present.
-* Roughly 8 investigations (not including follow-ups) by unique individuals have been published about her patterns of abuse since 2012.
-* Neither of the two investigations I found[^6][^16] defending Benjanun excuse her behavior, but are routinely used as
-  a weapon to silence dissent, as if those investigations completely debunk what she has said and done. They don't, and
-  instead they try to defend things like "Are you an amoeba? [...] It's a regurgitation done without skill" as "not an attack",
-  but rather just "strongly worded criticism", and disapproval of "flay him alive slowly [...] pour acid, dismember and keep him alive as long as possible"
-  as "policing how POC should express their criticism of racism".
-  * However, this doesn't stop her followers calling allegations against her "spurious", "unfounded", and "straight-up lies".
-* Benjanun *has* received abuse. This part is not surprising, but it is also used to seed FUD about where she stands.
-  Receiving abuse does not make you not abusive, or make your abuse justifiable.
-* These are often played off as jokes, a classic gaslighting tactic "Yes, she makes lots of 'kill whitey' jokes"[^6]
-* Today, Benjanun expresses cis- and trans-man hating rhetoric, with the latter category being doubly insulted by being
-  explicitly reductive about the axes of oppression that trans men face.
-* While Benjanun may not be using as vitriolic language today as publicly as she had in the past, her patterns of abuse are still
-  the same.
-* Benjanun and followers claim any and all criticism to be "an organized hate campaign". I had no idea who she was until
-  I started looking into it and writing this.
-* There are definitely similarities between what happens surrounding Benjanun on Twitter that feels very familiar to GC
-  brigading and TERF in-grouping- lovebombing, sealioning, incredible bad faith in service of optics, degrading and abusive
-  rhetoric, and I understand why, despite obstensibly supporting trans women, her attitudes outside of what she deems
-  worthy is very TERFy.
-* Her followers will accuse you of lying or being bad faith, and block you when you present any form of evidence[^43] (while 
-  haranguing their not-yet-blocked victims for not responding to their every demand[^44].)
-* She often participates in proxy wars, and boosts her followers who do the antagonizing for her (assailants.)
-* Her followers will use her purported "uplifting of trans women" (who agree with her particular ideology) as evidence
-  that she can't be transphobic.
-* They will feign that "nobody is taking transmisogyny seriously" when "shit blows up"[^48].
-* Do not believe any accusations she or her cult make without verification. They have a very out of touch idea of what
-  constitutes things like harassment, bigotry, abuse, etc.
-* I feel for all victims of abuse and manipulation. This shouldn't happen.
+This short video will give you way more context than anything I can write here. Recommended watching in any case.
 
-**Do not harass or abuse anyone mentioned. This fuels the fire. And it is my opinion that nobody is an
-"acceptable target" of harassment or abuse. Take back power by shrinking their sphere of influence. Block, ignore, and pass this on.**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ui-ArJRqEvU?si=3NVs6ifXGurnzlYr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+In contrast to their behavior, it is my opinion that nobody is an "acceptable target" of harassment or abuse.
+
+The most powerful thing to do is block, ignore, and pass this on. Arguing with them is only going to fuel them- they
+will take a typo, a miswording, or just plainly something out of context they can make up about you and harass you as
+their target of the day. Pretty standard Internet advice: don't feed the trolls.
 
 ### Context, my involvement
 
@@ -104,8 +59,6 @@ Callista's response was to block me, and I [called her out on it](https://twitte
 ([Screenshot](../assets/img/benjanun-report/beth_response_to_being_blocked.png))
 I was snarky, sure. Someone had just told me something I built was effectively trash and didn't want to explain why. But
 my reaction was blown way out of proportion to the point of victim blaming[^41].
-
-([Screenshot](../assets/img/benjanun-report/beth_response_to_being_blocked.png))
 
 After this point, I started to receive a fair amount of backlash and abuse. You can decide for yourself whether this
 is a measured response, or dogpiling/bad faith criticism. Here's a selection:
@@ -160,52 +113,9 @@ take constructive feedback on board.
 
 You can read more about it and how it works on the website, [here](https://soupcan.beth.lgbt/).
 
-# Sources
-
-There has already been a lot of legwork done over many years, and I will be referencing/reviewing them:
-
-## Previous investigations
-
-As it turns out, *many* other people have written extensively about Benjanun and their abuse in the past.
-
-From [this Fanlore page](https://fanlore.org/wiki/A_Report_on_Damage_Done_by_One_Individual_Under_Several_Names), I have
-found existing commentary that I will source:
-
-1. [Desperately seeking attention](http://mevennen.livejournal.com/889924.html) by Liz Williams, 2012[^5]
-2. [A Report on Damage Done by One Individual Under Several Names](https://web.archive.org/web/20151215154810/http://laurajmixon.com/2014/11/a-report-on-damage-done-by-one-individual-under-several-names/)
-   by Laura J. Mixon, 2014[^1]
-3. [Not a fun post to write](https://rachelmanija.dreamwidth.org/1166236.html) by Rachel M. Brown, 2014[^2]
-4. [Requires Hate, aka Benjanun Sriduankaew, is a multiple, serial & proven bully, liar & manipulator.](https://www.julietemckenna.com/requires-hate-aka-benjanun-sriduangkaew-is-a-multiple-serial-proven-bully-liar-manipulator/) by Juliet E. McKenna, 2014.[^4]
-5. [Standing Up and Speaking Truth](https://rcloenenruiz.com/2014/11/06/standing-up-and-speaking-truth/) by Rochita Loenen-Ruiz, 2014[^27]
-6. [So it was late and I decided "why don't I check into the Requires Hate controversy again?"](https://marlowe1.livejournal.com/2235101.html), 2015[^15]
-7. [Being an itemised list of disagreements: regarding the author Benjanun Sriduangkaew AKA requires hate](https://zencho.org/articles/being-an-itemised-list-of-disagreements/) by Zen Cho, 2017[^3]
-8. [A More Specific Grievance](https://archive.is/itpDU) by Rachel M. Brown, 2017
-9. [A letter to Apex editors re: the intersectional SFF roundtable](https://web.archive.org/web/20170216003240/http://awitin.likhain.net/2017/02/a-letter-to-apex-editors-re-the-intersectional-sff-roundtable/) by Awatin Mo, 2017
-10. [On the record: an archive of harm done by one individual under many names](https://feralsapient.com/?p=889), Laura J. Mixon, 2021[^12]
-11. [Winterfox/Benjanun Sriduangkaew is back](https://rachelmanija.dreamwidth.org/2679613.html), 2023[^7]
-12. [PSA: Winterfox/Requires Hate/Benjanun Sriduangkaew/Maria Ying](https://egelantier.tumblr.com/post/728186227212353536/psa-winterfoxrequires-hatebenjanun), 2023[^8]
-13. [The Daily Dot: Acclaimed sci-fi writer exposed as notorious Internet troll](https://www.dailydot.com/parsec/benjanun-sriduangkaew-revealed-to-be-troll-requires-hate-winterfox/), Aja Romano, 2014[^32]
-
-> Friends of Winterfox (Benjanun) showed up to explain why rape threats aren't really threats, why women of color
-> being threatened with rape is okay as long as it's another woman of color doing it, and that the correct response
-> to feeling threatened is to toughen up.
-
--- Roundup post[^20] 
- 
-## Rebuttals and counterclaims
-
-On the other side, there are defenses for Benjanun which I will also source/review:
-
-1. [A Critical Review of Laura J. Mixon's Essay](https://edouardbriereallard.wordpress.com/2015/09/01/a-critical-review-of-laura-j-mixons-essay/)
-   by Édouard Brière-Allard, 2015[^6]
-2. [Benjanun's apology blog post "apologies and finality"](https://requireshate.wordpress.com/2014/10/15/apologies-and-finality/), 2014[^18]
-3. [Benjanun's blog post "Six Months and Counting"](https://web.archive.org/web/20150318173543/https://medium.com/@talkinghive/six-months-and-counting-13d331912b81) 
-4. [Benjanun's blog post "The stalker known as Creepalicious/Roguey, Juliet E. McKenna, and narratives"](https://medium.com/@talkinghive/the-stalker-known-as-creepalicious-roguey-juliet-e-mckenna-and-narratives-d25f997b8046)
-5. [The Tale of Benjanun Sriduangkaew, Part II: Lies, Damn Lies, And Failing at Statistics](https://medium.com/@asymbina/the-tale-of-benjanun-sriduangkaew-part-ii-lies-damn-lies-and-failing-at-statistics-6a3aebe4a556)[^16]
-6. [Benjanun's blog post "The things that we do: on mistakes, on apologies](https://beekian.wordpress.com/2014/10/20/the-things-that-we-do-on-mistakes-on-apologies/), 2014[^19]
-
-
 # Who is Benjanun Sriduangkaew (BS)?
+
+For context -
 
 * She is a cis[^21] lesbian[^22] Thai-Chinese science fiction / fantasy (SFF) writer[^11]. 
 * She has been known under the aliases Winterfox[^3][^20], Requires Only That You Hate (ROTYH)/Requires Hate (RH)[^3][^20][^28][^34], acrackedmoon[^1][^20][^34], pyrofennec[^1][^16][^20][^34], Valse de Lune[^20][^34], Lesifoere[^17][^20], and Maria Ying[^9] (as a joint pseudonum with Devi Lacroix.)
@@ -247,7 +157,7 @@ BS (and friends) have made many snide remarks about how "birthday boy" cannot be
 * [Example 6](../assets/img/benjanun-report/bb-6.png) "the deadly slur... birthday boy."
 * [Example 7](../assets/img/benjanun-report/bb-7.png) "Birthday boy is a meme [...] the idea of 'birthday boy' being a slur is pretty laughable."
 
-*She has always been like this.* 10 years ago, when told "It's a personal insult to call the author a 'stupid fuck'",
+This behavior isn't new. 10 years ago, when told "It's a personal insult to call the author a 'stupid fuck'",
 her response was "oh no, not personal insults to persons not present. what horror, paging Internet Nannies." as well as
 "how do you cope with the internet or real life".[^6]
 
@@ -300,47 +210,73 @@ and endorsement by BS, which was liked and apparently subsequently removed (as s
 
 * "XX behavior"[^59] - "making the [r/egg_irl] bot use [assumes viewer is X content warning] has to be the most XX behavior i've ever seen"
 
-## Attacks and impacts
+## Nature of argumentation
 
-This will be summarized from the Mixon report[^1].
+BS and mutuals attack people using social justice language as a weapon, typically with accusations of racism or transmisogyny.
+A common thread is a complete and utter lack of good faith, time and time again they will excuse heinous behavior and bring
+the wrath of their followers down on anyone who pushes back. It's clear that they care primarily about optics because they
+talk about "social murder" - i.e., the battering of someone's reputation as a terrible thing to do ([^50][^60]) yet have
+no problem with spreading [Ship of Theseus](https://www.youtube.com/watch?v=Ui-ArJRqEvU) misrepresentations of their enemy's behavior in order to appear to have the moral
+high ground, hoping that nobody will look into it too much and see for themselves. Ask for evidence. Ask why a screenshot
+is conveniently cropped right before what they are saying is heinous. BS has said that their opponents are trained manipulators[^61]
+and yet this is the behavior they engage in all too often.
 
-Her attacks predate the social-justice driven figleaf she uses as a weapon. Her track record makes it clear
-that her progressive rhetoric is a means to an end. If her target is white, they're a white supremacist. Or, if
-they don't identify their race, they're accused of "white women's tears" (She said this to a Cambodian-American woman[^1][^20].)
-If they're a POC, they aren't racially 'pure' enough. Many of the given evidences are anecdotal, but there are
-a significant and independent swathe of stories. Here are some recent examples.
+**Examples of accusations of bigotry**
 
 * [Example 1a](../assets/img/benjanun-report/racism-1.png) / [Example 1b](../assets/img/benjanun-report/racism-2.png) - "Mangling my name [is] disgustingly racist, especially when you're this white" / "calling me Benji [is intentionally racist, masculinizing and referring to me with the name you'd give a dog] and [they] have a long colonialist history"
 * [Example 2](../assets/img/benjanun-report/misogyny-1.png) - "caping for a white person because [they're a] fellow misogynist"
 * [Example 3](../assets/img/benjanun-report/misogyny-2.png) - "[you're] blaming women for the actions of an abusive patriarch wannabe. [you enjoy] being a misogynist"
 
-1. BS will pursue someone to target (often someone who speaks ill of her or her behavior)
-2. She will post bitter and abusive posts, death threats.
-3. She will then erase the most violent and abusive comments leaving no visible proof that the threat occurred.
-  * Not many screencaps of her worst abuses exist, but there are recovered screencaps, now-deleted content via the Wayback Machine,
-    and independent emails from both targets and witnesses confirming the substance of the death, rape, maiming, and
-    dismemberment threats BS has been accused of.
-4. Both writers and readers have been driven away from the field due to the toxicity they've experienced or witnessed. (Anecdotal.)
-5. Here are some examples of the threats she's made.
-   * "If I see [redacted] being beaten in the street, I'll stop to cheer on the attackers and pour some gasoline on him." -
-     "[redacted] is an ignorant, appropriative bag of feces."
-   * "Spread the word that [redacted] is a raging racist fuck. Let him be hurt, let him bleed, pound him into the fucking ground. No mercy."
-   * "Stupid fuck" -- "Homophobe" -- "without any talent whatsoever." "Your liking for this pile of verbal diarrhea proves what morons fantas fans are."
-   * "rape apologist!" -- "her hands should be cut off so she can never write another Asian character."
-   * "ah, if only I could actually do it in person. with scalpels, not words."
-6. These repeated attacks have had chilling effects on online communities. Victims become fearful of speaking up,
-   even mildly, against her or in favor of whatever she attacks. They prefer to leave and remain silent.
-   * "Having seen that 'throw acid on them' is a threat for uppity folk not only in my parents' home country but in SFF fandom certainly put me off a career in writing fantasy."
-   * "She made me afraid to talk about books--books, for crying out loud--because she disliked them and I would be branded a shitstain and worse for
-     disagreeing. She made me feel unsafe in certain communities including those that were created to support people like me.
-     She made me reluctant to express support for certain authors of color."
-7. BS has cultivated a sizable cast of followers her respond to her calls to help launch attacks. BS public positions herself
-   as the victim and accuses her target of doing what she in fact has just done to them, and asks her followers to go on the attack.
-8. Her tighter circle is drawn in with lovebombing and threats of becoming targets themselves should they defect.
-9. Her defenders gaslight their victims into thinking they're not *really* being abused.
-10. FUD is spread about the accusations and criticisms against her, saying they're outright lies and bad faith, so the cycle continues.
+**Examples of context collapse**
+* Example 1. BS says "[here are] Beth's examples of hateful behavior that came her way"[^69] showing fairly tame examples
+  from the list, only. She skips over "guess this person deserves to die", "cry me a fucking river", "do your fuckin job",
+  "your tool is poison", "fuck you", etc. She copied the text around it, and removed what was highlighted in pink.
+  ![Context](../assets/img/benjanun-report/new/context.png)
+* No, those examples she presented are not in and of themselves the worst harassment. It's the collection as a whole that
+  is the harassment, and she knows this.
+
+**Ship of Theseus arguments**
+They repeat things over and over until it becomes 'true', and when other people question where they're getting
+that information from, or what the evidence is, they often just deflect or block ([example](../assets/img/benjanun-report/beth_response_to_being_blocked.png)).
+
+For example, they have accused this
+report (the one you're reading) of being "so worried about anti white racism"[^62], "we truly needed you to call out that and the
+'anti-white racism' out here you're a lifesaver"[^64] and insinuating[^63] that that is the primary or any conclusion in this
+report- simply on BS' say so[^66]. They say[^68] that this report is sourced from Kiwifarms, a known hate site, again,
+on BS' say so[^67].
+
+They have accused me of "platforming racist lies uncritically" and that I "[support] known abusers"[^71], by which they mean
+I referenced something from a source they deemed to come from a racist, and that I thanked someone for pointing out
+disruption in my plugin, when that someone was, to them, a "known abuser". BS has chided people for using her name wrongly,
+e.g. [here](../assets/img/benjanun-report/racism-1.png) and [here](../assets/img/benjanun-report/racism-2.png) saying
+this is racist, but she has no problem[^75] boosting someone who made a joke playing on the [14 words](https://en.wikipedia.org/wiki/Fourteen_Words)[^74],
+a slogan adopted by white supremacists and neo-Nazis.
+
+They have also accused me of being surrounded by racists[^72], for similar reasoning (people are bringing up the same kind
+of evidence that someone they have deemed a racist did, therefore they are racists.) Even on the face of it this is absurd,
+but it makes sense as a justification of their ire. Without just making things up, they wouldn't be taken seriously even
+at a surface level (the same thing TERFs do, when they claim they were "fired just for saying biological sex is real", for example.)
+
+* I don't use Kiwifarms, have an account, get information from it, or have ever sourced it. The sources I linked to also
+  never referenced Kiwifarms. So, it appears that this is more of a tarring tactic to imply that I'm a serial harasser.
+* I don't believe that anti-white racism is a thing, and I've said this on Twitter too[^73]. None of this report is contradictory with that position.
+
+They will often also couch their positions as just 'feminism', for similar reasons that TERFs couch their positions as
+'pro-women'.
+
+These are so common, and frivolous, despite being serious accusations, that it's 
+They then defend BS by saying she's a staunch transfeminine ally[^76][^77][^78][^79][^80][^81][^82][^83], and remind people
+that she's Thai/queer/lesbian[^76][^77][^78][^80][^81][^83], because the
+belief they have in justifying their behavior is to make Bee the ultimate victim: a queer POC who's just trying to fight for
+trans women and lesbians, being attacked and hounded by racists, which is the only reason people oppose her, and if you do
+too, you must be racist, sexist, or transphobic. Their definition of an ally to trans women seems to be someone who fires laterally
+within the community as "righteous anger", and then play the victim when they inevitably retaliate. She attracts victimized
+people and enables this toxic behavior. That is also why they see BS as a true / strong transfem ally, because they don't
+see other transfem allies going to the same lengths to "defend" them (by harassing others.)
 
 ## Defenses of BS
+
+Much of this is in the past, but I'm keeping it here because BS defenders will still use these docs as a shield.
 
 * "the real fuel for Mixon’s blog post is the ire of a group of white women who were enraged"[^16] / "relying on the words of powerful white people"[^6] / "this is about silencing and isolating Bee as punishment for calling out white women on racism"[^16]
   * Attributing malice and motive does not preclude the ability for us to see what was said.
@@ -474,7 +410,7 @@ For the reasons above, [^6] appears to give way more benefit of the doubt than w
 
 ## Conclusion
 
-The harassment I received based on a red mark in Soupcan is a proxy war against who they consider the enemy, 'birthday boys'.
+The harassment I received based on a red mark in Soupcan is a proxy war against who they consider the enemy, including 'birthday boys'.
 It had very little to do with the Soupcan application itself, and I know this because many of the users seemingly didn't even
 know how Soupcan worked or had ever used it before, before forming a biased opinion of what it does/what it means/how it works,
 and then attacking me for it.
@@ -487,14 +423,12 @@ For these reasons, the reports on Benjanun in Soupcan will remain, but will be m
 enough community of trans people do feel supported by her.**
 
 Nobody, including BS, deserves hatred, abuse, or bigotry. I am firmly against that. However, that does not
-excuse, explain, justify BS's actions or make them irrelevant. I have not gone into thoroughly researching attacks
-*against* BS, because they are, frankly, not relevant to the claims of her behavior. Nor am I interested in the motives behind the people writing
-reports about (for/against) BS, because I care about the claims, being made, not who wrote them or why, or how they
-decided to word it, or if they show bias or not.
+excuse, explain, justify BS's actions or make them irrelevant.
 
-It doesn't change anything I've written here.
-
-Abusive manipulators shouldn't be given the fuel they crave to harass and harangue. Block them, and pass this on.
+As tempting as it is to argue, the most powerful thing to do is block, ignore, and pass this on.
+Arguing with them is only going to fuel them--they will wait until you slip up and make a mountain out of a molehill.
+Or just plainly take something out of context that they can frame in a certain way and harass you as
+their target of the day. Pretty standard Internet advice: don't feed the trolls.
 
 ---
 
@@ -614,3 +548,51 @@ Abusive manipulators shouldn't be given the fuel they crave to harass and harang
 [^58]: [Screenshot of tweets from @Katrafiy and @lisaquestions about the origin of "birthday boy brigade"](../assets/img/benjanun-report/bb-8.png)
 
 [^59]: [Screenshot of tweet, @marupan_desu](../assets/img/benjanun-report/xx.jpg)
+
+[^60]: [Screenshot of tweet, @RoboTranssexual](../assets/img/benjanun-report/new/social_murder1.png)
+
+[^61]: [Screenshot of tweet, @benjanun_s](../assets/img/benjanun-report/new/manipulative.png)
+
+[^62]: [Screenshot of tweet, @PissqueenAntiX](../assets/img/benjanun-report/new/anti-white1.png)
+
+[^63]: [Screenshot of tweet, @goth__casual](../assets/img/benjanun-report/new/anti-white2.png)
+
+[^64]: [Screenshot of tweet, @rebootanother](../assets/img/benjanun-report/new/anti-white3.png)
+
+[^65]: [Screenshot of tweet, @rebootanother](../assets/img/benjanun-report/new/anti-white4.png)
+
+[^66]: [Screenshot of tweet, @benjanun_s](../assets/img/benjanun-report/new/anti-white-b.png)
+
+[^67]: [Screenshot of tweet, @benjanun_s](../assets/img/benjanun-report/new/kw.png)
+
+[^68]: [Screenshot of tweet, @StrategiaSE](../assets/img/benjanun-report/new/lies3.png)
+
+[^69]: [Screenshot of tweet, @benjanun_s](../assets/img/benjanun-report/new/hateful.png)
+
+[^70]: [Screenshot of this report, with highlights](../assets/img/benjanun-report/new/context.png)
+
+[^71]: [Screenshot of tweet, @wyllie_ava](../assets/img/benjanun-report/new/lies.png)
+
+[^72]: [Screenshot of tweet, @benjanun_s](../assets/img/benjanun-report/new/lies2.png)
+
+[^73]: [Screenshot of tweet, @bethylamine](../assets/img/benjanun-report/new/seth-1.png)
+
+[^74]: [Screenshot of tweet, @Sinister_Sophia](../assets/img/benjanun-report/new/14.png)
+
+[^75]: [Screenshot of timeline, @benjanun_s](../assets/img/benjanun-report/new/repost.png)
+
+[^76]: [Screenshot of tweet, @Esper_Lily](../assets/img/benjanun-report/new/idpol1.png)
+
+[^77]: [Screenshot of tweet, @Sinister_Sophia](../assets/img/benjanun-report/new/idpol2.png)
+
+[^78]: [Screenshot of tweet, @macfluffers](../assets/img/benjanun-report/new/idpol3.png)
+
+[^79]: [Screenshot of tweet, @IgneousSigil](../assets/img/benjanun-report/new/idpol4.png)
+
+[^80]: [Screenshot of tweet, @rozietoez](../assets/img/benjanun-report/new/idpol5.png)
+
+[^81]: [Screenshot of tweet, @macfluffers](../assets/img/benjanun-report/new/idpol6.png)
+
+[^82]: [Screenshot of tweet, @karlachsfemme](../assets/img/benjanun-report/new/idpol7.png)
+
+[^83]: [Screenshot of tweet, @NsfwRaiko](../assets/img/benjanun-report/new/idpol8.png)
