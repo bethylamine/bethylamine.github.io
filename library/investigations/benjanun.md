@@ -7,8 +7,8 @@ permalink: /library/investigations/benjanun
 
 # About Benjanun Sriduangkaew.
 
-Originally written 4/11/2024
-Updated 4/20/2024
+* Written 4/11/2024
+* Updated 4/20/2024
 
 ![Benjanun's Twitter profile](../assets/img/benjanun-report/benjanun.png)
 
