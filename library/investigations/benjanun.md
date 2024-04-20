@@ -8,7 +8,7 @@ permalink: /library/investigations/benjanun
 # About Benjanun Sriduangkaew.
 
 Originally written 4/11/2024
-Updated 4/19/2024
+Updated 4/20/2024
 
 ![Benjanun's Twitter profile](../assets/img/benjanun-report/benjanun.png)
 
@@ -138,10 +138,10 @@ For context -
 
 ### "Birthday boy"
 
-Birthday boy is obstensibly a meme about someone provoking someone else and then acting too harmless to be taken seriously,[^33]
-a crybully for transmisogyny. 
+Birthday boy is obstensibly a meme about someone provoking someone else and then acting too harmless to be taken seriously[^33];
+a crybully for transmisogyny[^37]. 
 
-It's a reference to [this tweet](../assets/img/benjanun-report/birthday-boy.png) which describes a "5'8 guy
+They have said[^36] it's a reference to [this tweet](../assets/img/benjanun-report/birthday-boy.png) which describes a "5'8 guy
 who'd taunt every jacked, 6'3 bro he men until they'd pull their fist back to beat him up, whereupon [he] would go "heyheyheyyy
 c'maahn I'm a little guy, I'm just a little guyy, no, it's also my birthday, I'm a little birthday boyy" and it somehow
 always worked" and has stuck as a pejorative for a kind of trans man they are against. The term has been around since at
@@ -445,23 +445,13 @@ their target of the day. Pretty standard Internet advice: don't feed the trolls.
 
 [^6]: [Archived version of "A More Specific Grievance"](https://archive.is/UBqcN)
 
-[^7]: [Archived version of "Winterfox/Benjanun Sriduangkaew is back"](https://archive.is/z0jIF)
-
-[^8]: [Archived version of "PSA: Winterfox/Requires Hate/Benjanun Sriduangkaew/Maria Ying"](https://archive.is/Ro4m0)
-
 [^9]: [Amazon author bio](https://archive.is/wip/Z1j3O)
 
-[^10]: [Author Query - Benjanun Sriduangkaew](https://web.archive.org/web/20150429230733/http://www.afantasticallibrarian.com/2014/08/author-query-benjanun-sriduangkaew.html)
-
 [^11]: [A Bee Writes](https://beekian.wordpress.com/about/)
-
-[^12]: [Archived version of "On the record: an archive of harm done by one individual under many names"](https://archive.is/VA8k1)
 
 [^13]: [Requires Hate Redux 2021 team write-up](https://feralsapient.com/wp-content/uploads/2021/08/Requires-Hate-Redux-2021-team-write-up.pdf)
 
 [^14]: [Archived version of "The stalker known as Creepalicious/Roguey, Juliet E. McKenna, and narratives"](https://archive.is/vak28)
-
-[^15]: [Archived version of "So it was late and I decided "why don't I check into the Requires Hate controversy again?""](https://archive.is/VYOgO)
 
 [^16]: [Archived version of "The Tale of Benjanun Sriduangkaew, Part II: Lies, Damn Lies, And Failing at Statistics"](https://archive.is/4A3XC)
 
@@ -477,8 +467,6 @@ their target of the day. Pretty standard Internet advice: don't feed the trolls.
 
 [^22]: [Benjanuns on Instagram](https://www.instagram.com/benjanuns/) ([Archived](https://archive.is/dhUX0))
 
-[^23]: [Cerulean sins--chapter 47. Triggers. Consider yourself warned.](http://creativedoubledipper.blogspot.com/2013/05/cerulean-sins-chapter-47-triggers.html) ([Archived](https://archive.is/M1mWQ))
-
 [^24]: [Your one-stop shopping for trolling and bullying disguse as social justice!](https://web.archive.org/web/20120816205541/www.journalfen.net/community/unfunny_fandom/21226.html)
 
 [^25]: [Toward Zero](https://heyheyrenay.tumblr.com/post/100370010694/toward-zero) ([Archived](https://archive.is/v2lx1))
@@ -488,8 +476,6 @@ their target of the day. Pretty standard Internet advice: don't feed the trolls.
 [^27]: [Archived version of "Standing Up and Speaking Truth"](https://archive.is/sdjCx)
 
 [^28]: [Archived version of "Angry Brown Woman Mode"](https://archive.is/9iBQh)
-
-[^29]: [Tinker, Tailor, Soldier, Wrecker](https://starshipreckless.com/blog/?p=9077) ([Archived](https://archive.is/tSRbX))
 
 [^30]: [Die Fallstricke einer verfehlten Ideologie](https://katzenklaue.blogspot.com/2012/08/die-fallstricke-einer-verfehlten.html) ([Archived](https://archive.is/v6E0Y))
 
@@ -503,9 +489,9 @@ their target of the day. Pretty standard Internet advice: don't feed the trolls.
 
 [^35]: [Diversity in Book Publishing](https://wordsrated.com/diversity-in-book-publishing/)
 
-[^36]: [Tweet, @lisaquestions](https://x.com/lisaquestions/status/1777575551563079843) ([Archived](https://archive.is/0hZAR))
+[^36]: [Tweet, @lisaquestions](https://x.com/lisaquestions/status/1777575551563079843) ([Screenshot](../assets/img/benjanun-report/new/36.png))
 
-[^37]: [Tweet, @Farynnistired](https://x.com/Faerynnistired/status/1777583655080108060) ([Archived](https://archive.is/fBqdO))
+[^37]: [Tweet, @Farynnistired](https://x.com/Faerynnistired/status/1777583655080108060) ([Screenshot](../assets/img/benjanun-report/new/37.png))
 
 [^38]: [Tweet, @benjanun_s](https://x.com/benjanun_s/status/1766563161153450024) ([Archived](https://archive.is/TCezX))
 
@@ -517,17 +503,7 @@ their target of the day. Pretty standard Internet advice: don't feed the trolls.
 
 [^42]: [Tweet, @feuer_ameise](https://x.com/feuer_ameise/status/1778000506138374302) ([screenshot](../assets/img/benjanun-report/disingenuous.png))
 
-[^43]: [Tweet, @PhillySirDotCom](https://x.com/PhillySirDotCom/status/1778002659540164611) ([screenshot](../assets/img/benjanun-report/disingenuous-2.png))
-
-[^44]: [Tweet, @StrategiaSE](https://x.com/StrategiaSE/status/1777650744994288025) ([screenshot](../assets/img/benjanun-report/jaqing.png))
-
 [^46]: [RaceFail '09](https://archive.is/CB8uJ)
-
-[^47]: [Strange Horizons: Rachel Manija Brown](http://strangehorizons.com/author/rachel-manija-brown/) ([Archived](https://archive.is/4yGCh))
-
-[^48]: [Tweet, @honeyandmatcha](https://x.com/honeyandmatcha/status/1778210099699626217) ([screenshot](../assets/img/benjanun-report/transmisogyny.png))
-
-[^49]: [Imgur screenshot](https://imgur.com/VdE9y) ([archived](https://archive.is/XeT4U))
 
 [^50]: [Tweet, @SomniumImmanis](https://x.com/SomniumImmanis/status/1778122540822798446) ([screenshot](../assets/img/benjanun-report/social_murder.png))
 
@@ -538,12 +514,6 @@ their target of the day. Pretty standard Internet advice: don't feed the trolls.
 [^53]: [Tweet, @challah_bread_](https://x.com/challah_bread_/status/1780043715274293433) ([screenshot](../assets/img/benjanun-report/zippertits3.png))
 
 [^54]: [Tweet, @catladyellyy/@yuriellyy](https://twitter.com/yuriellyy/status/1743005610977993078) ([screenshot](../assets/img/benjanun-report/bb-u14.png))
-
-[^55]: [Tweet, @doomkitn](https://x.com/doomkitn/status/1780476194011680953) ([screenshot](../assets/img/benjanun-report/troon1.png))
-
-[^56]: [Tweets, @talia_bhat, @lisaquestions](https://x.com/lisaquestions/status/1777899066602438832) ([screenshot](../assets/img/benjanun-report/troon2.png))
-
-[^57]: [Screenshot of following](../assets/img/benjanun-report/follower1.png)
 
 [^58]: [Screenshot of tweets from @Katrafiy and @lisaquestions about the origin of "birthday boy brigade"](../assets/img/benjanun-report/bb-8.png)
 
@@ -559,8 +529,6 @@ their target of the day. Pretty standard Internet advice: don't feed the trolls.
 
 [^64]: [Screenshot of tweet, @rebootanother](../assets/img/benjanun-report/new/anti-white3.png)
 
-[^65]: [Screenshot of tweet, @rebootanother](../assets/img/benjanun-report/new/anti-white4.png)
-
 [^66]: [Screenshot of tweet, @benjanun_s](../assets/img/benjanun-report/new/anti-white-b.png)
 
 [^67]: [Screenshot of tweet, @benjanun_s](../assets/img/benjanun-report/new/kw.png)
@@ -568,8 +536,6 @@ their target of the day. Pretty standard Internet advice: don't feed the trolls.
 [^68]: [Screenshot of tweet, @StrategiaSE](../assets/img/benjanun-report/new/lies3.png)
 
 [^69]: [Screenshot of tweet, @benjanun_s](../assets/img/benjanun-report/new/hateful.png)
-
-[^70]: [Screenshot of this report, with highlights](../assets/img/benjanun-report/new/context.png)
 
 [^71]: [Screenshot of tweet, @wyllie_ava](../assets/img/benjanun-report/new/lies.png)
 
