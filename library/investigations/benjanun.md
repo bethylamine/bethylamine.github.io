@@ -25,7 +25,9 @@ came from, that her particular peoples express their bigotry against other progr
 
 ## Summary
 
-Benjanun (@benjanun_s) and her followers follow this playbook to a tee, and once you recognize it, you can't unsee it.
+Benjanun (@benjanun_s) and her followers are ideologically Baeddels[^70]
+(which includes the idea that trans men oppress women and that violence against trans men from trans women is "punching up")
+and their tactics follow this playbook to a tee, and once you recognize it, you can't unsee it.
 
 This short video will give you way more context than anything I can write here. Recommended watching in any case.
 
@@ -210,9 +212,33 @@ and endorsement by BS, which was liked and apparently subsequently removed (as s
 
 * "XX behavior"[^43] - "making the [r/egg_irl] bot use [assumes viewer is X content warning] has to be the most XX behavior i've ever seen"
 
+**Intersexism/interphobia, enby/non-binaryphobia, Baeddelism**
+
+For a primer on Baeddelism, please read this in depth retrospective[^70].
+
+* Baeddel culture is about centering transfems.
+* Baedellism takes the form of trans-inclusive radical feminism where trans men are hated as much if not more than cis men
+* AFAB/AMAN and TME/TMA terminology is used in these circles to further divide these communities away from the intersectionality of
+  queerness and towards the ideology of man bad woman good
+* Core beliefs include: trans men have male privilege, are not oppressed, oppress women, violence on trans men from trans women is "punching up", trans men are inherently violent.
+* Nonbinary and intersex people are typically overlooked or erased by Baedellism, if not actively rejected.
+
+BS' followers will generally not call themselves Baeddels, except ironically[^72], to distance themselves from the term.
+However, actions speak louder than words, and the actual term doesn't matter--just the fact that there are myriad parallels.
+
+Examples of these beliefs in action from BS' followers:
+
+* (in regards to gendering a non-binary person) "I think what they call themselves is less important than how they relate to patriarchy"[^71]
+  * (@Sinister_Sophia classifies this as 'defending a tweet questioning what is a non-binary about a reconstruction of masculinity with "they/them" pronouns'[^76]) 
+* Meme that says "silenced moids disposal facility" with blood on a womans hands sent to @ixxypup assuming they identified as a man[^73]
+* Erasure of intersex people by @baeddelish[^74]
+* Telling a self-described 'transfem/transmasc multigender intersex person' that they are not transfem, because they are intersex[^75]
+* Usage, explanation, and defense of 'TME'[^77][^78][^79]
+* Airing a grievance about trans mascs' ability to use "white woman tears" and have male privilege[^80]
+
 ## Nature of argumentation
 
-BS and mutuals attack people using social justice language as a weapon, typically with accusations of racism or transmisogyny.
+BS and mutuals attack people using social justice language as a weapon, typically with accusations of racism or transmisogyny[^81].
 A common thread is a complete and utter lack of good faith, time and time again they will excuse heinous behavior and bring
 the wrath of their followers down on anyone who pushes back. It's clear that they care primarily about optics because they
 talk about "social murder" - i.e., the battering of someone's reputation as a terrible thing to do ([^37][^44]) yet have
@@ -241,6 +267,13 @@ and yet this is the behavior they engage in all too often.
 
 They repeat things over and over until it becomes 'true', and when other people question where they're getting
 that information from, or what the evidence is, they often just deflect or block ([example](../assets/img/benjanun-report/beth_response_to_being_blocked.png)).
+
+For example, they will call @XarifIno a rape apologist[^66]. When asked for proof, they say that @XarifoIno just responded
+"lol" to a person talking about a guy who sexually assaulted and drugged her[^67]. When linked to what was actually said,
+it is @agnesmdei saying that 99% of the trans men she has met have been violently transmisogynistic. @XarifIno responded,
+"Idk maybe get off of 4chan then (shrug)"[^68]. This is painted as dismissing the serious of being sexually assaulted,
+rather than making a comment about @agnesmdei's generalization of trans men based on who she has met. When this is pointed out,
+they stick to saying that this equates to dismissing someone's sexual assault[^69].
 
 For example, they have accused this
 report (the one you're reading) of being "so worried about anti white racism"[^46], "we truly needed you to call out that and the
@@ -565,3 +598,35 @@ their target of the day. Pretty standard Internet advice: don't feed the trolls.
 [^64]: [Screenshot of tweet, @karlachsfemme](../assets/img/benjanun-report/new/idpol7.png)
 
 [^65]: [Screenshot of tweet, @NsfwRaiko](../assets/img/benjanun-report/new/idpol8.png)
+
+[^66]: [Screenshot of tweet, @LichQueenSpeaks](../assets/img/benjanun-report/new/ra.png)
+
+[^67]: [Screenshot of tweet, @LichQueenSpeaks](../assets/img/benjanun-report/new/ra2.png)
+
+[^68]: [Twitter thread, @agnesmdei, @XarifInfo](../assets/img/benjanun-report/new/ot.png)
+
+[^69]: [Twitter thread, @agnesmdei, @XarifInfo](../assets/img/benjanun-report/new/flippant.png)
+
+[^70]: [Let’s Talk About Bæddels](https://medium.com/@greyson.not.horses/lets-talk-about-bæddels-a-comprehensive-retrospective-a59784bf311b) ([Archived version](https://archive.is/xmURo))
+
+[^71]: [Twitter thread, @MostlySoftware, @Sinister_Sophia](../assets/img/benjanun-report/new/nbphobia.png)
+
+[^72]: [Twitter header, @baedellyy](../assets/img/benjanun-report/new/baedellyy.png)
+
+[^73]: [Tweet, @StitchingSin, screenshotting @Sinister_Sophia](../assets/img/benjanun-report/new/moids.png)
+
+[^74]: [Tweet, @VulgarViscera](https://x.com/VulgarViscera/status/1781133488491516213) ([Screenshot](../assets/img/benjanun-report/new/hermaphroditus.png))
+
+[^75]: [Tweet, @Faerynnistired](https://x.com/Faerynnistired/status/1776933293407269137) ([Screenshot](../assets/img/benjanun-report/new/interphobia.jpg))
+
+[^76]: [Tweet, @Sinister_Sophia](https://x.com/Sinister_Sophia/status/1777510439607292257) ([Screenshot](../assets/img/benjanun-report/new/defending.png))
+
+[^77]: [Tweet thread, @benjanun_s, @Vulkiveir](https://x.com/Vulkiveir/status/1727655509946511796) ([Screenshot](../assets/img/benjanun-report/new/tme.png))
+
+[^78]: [Tweet thread, @Sinister_Sophia, @SamiDeWinter](https://twitter.com/Sinister_Sophia/status/1719590949943419341) ([Screenshot](../assets/img/benjanun-report/new/tme2.png))
+
+[^79]: [Tweet, @nataliesqrl](https://x.com/nataliesqrl/status/1704410486887059483) ([Screenshot](../assets/img/benjanun-report/new/tme3.png))
+
+[^80]: [Tweet, @Nymphomachy](https://x.com/Nymphomachy/status/1544637515801325569) ([Screenshot](../assets/img/benjanun-report/new/toxic_masculinity.png))
+
+[^81]: [Tweet, @Nymphomachy](https://x.com/Nymphomachy/status/1544639176758308864)  ([Screenshot](../assets/img/benjanun-report/new/transmisogynist.png))
