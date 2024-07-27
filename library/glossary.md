@@ -44,6 +44,9 @@ ranges from chromosomes, to genitalia, to the less tangible "organization of dev
 Based on a conspiracy theory that suggests gay children are being transitioned ("transed") as a form of
 [homophobic](#homophobia) conversion therapy.
 
+### Cuntboy
+Derogatory term for trans men.
+
 ### Handmaid, handmaiden (or sex traitor)
 A reference to The Handmaid's Tale that TERFs use to label women who are allies to the trans community. The essence of this
 epithet is that they have shamefully given themselves up to serve the oppressor. Functionally the same as 'quisling' or
@@ -100,3 +103,6 @@ Explored more in [this page](/library/gc-arguments/what-is-a-woman).
 
 The sex class whose definition gender-critical people seek to uphold, specifically the biologically
 essentialist, colonial definition of women.
+
+### Zippertits
+Derogatory term for trans men, referring to mastectomy scars.
