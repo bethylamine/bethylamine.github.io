@@ -8,6 +8,9 @@ permalink: /library/browser-extension/
 # Soupcan
 {: .no_toc }
 
+# ⚠ Soupcan is no longer supported
+## But you can still download it and use it locally with no internet connectivity features.
+
 Soupcan is a browser extension that brings together many trans-supportive features into one package for Twitter.
 For example, it highlights transphobic users in red and takes reports from the community to keep this list updated
 and accurate. It allows you to hide or mask content from transphobes. In the future I plan to make features such
